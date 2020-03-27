@@ -7,10 +7,28 @@ This API collects California counties' data with confirmed cases and deaths numb
 
 <h3 style="color:red">Data is updated every hour!</h3>
 
+For county timeseries data: 
 - Request method: GET
-- Endpoint: https://amazingshellyyy.com/covid19-CA/countyTimeseries.json
+- Endpoint: 
+```
+https://amazingshellyyy.com/covid19-api/<country-code>-<subvisions-code>/countyTimeseries.json
+```
 
-Using axios
+### Specifications
+#### < country-code>
+
+- follow [ISO 3166 Standard Country Codes](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)
+- Example: United States is `US`, Taiwan is `TW`, United Kindom is `GB`
+
+#### < subdivisions-code>
+
+- follow [
+ISO 3166 — Codes for the representation of names of countries and their subdivisions](https://www.iso.org/obp/ui/#iso:code:3166:US)
+- Example: California of United States is `US-CA`, New York of United States  is `US-NY`
+
+
+
+### Using axios
 ```js
 import axios from 'axios';
 axios.get('https://amazingshellyyy.com/covid19-CA/countyTimeseries.json')
@@ -50,7 +68,7 @@ The JSON contains timeStamp (stored in milliseconds) and array of counties' case
   ...
 }
 ```
-#### Notes
+### Notes
 - Yuba and Sutter reports their cases together at one resource so the data is collected together
 ```
       ...
@@ -62,5 +80,5 @@ The JSON contains timeStamp (stored in milliseconds) and array of counties' case
       ...
 ``` 
 
-#### resource
+### resource
  https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_California
