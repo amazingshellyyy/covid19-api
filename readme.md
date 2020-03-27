@@ -10,7 +10,6 @@ We are working on datas for other states' county as well.
 
 For county timeseries data: 
 - Request method: GET
-<<<<<<< HEAD
 - Endpoint: 
 ```
 https://amazingshellyyy.com/covid19-api/<country-code>-<subvisions-code>/countyTimeseries.json
@@ -24,14 +23,9 @@ https://amazingshellyyy.com/covid19-api/<country-code>-<subvisions-code>/countyT
 
 #### < subdivisions-code>
 
-- follow [
-ISO 3166 — Codes for the representation of names of countries and their subdivisions](https://www.iso.org/obp/ui/#iso:code:3166:US)
+- follow [ISO 3166 — Codes for the representation of names of countries and their subdivisions](https://www.iso.org/obp/ui/#iso:code:3166:US)
 - Example: California of United States is `US-CA`, New York of United States  is `US-NY`
 
-
-=======
-- Endpoint: https://amazingshellyyy.com/covid19-api/countyTimeseries.json
->>>>>>> f36b0e1908b7b79e5555ecd61efc55128a970a36
 
 ### Using axios
 ```js
