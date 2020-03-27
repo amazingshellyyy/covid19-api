@@ -54,7 +54,7 @@ The JSON contains timeStamp (stored in milliseconds) and array of counties' case
       {
         "county": "Los Angeles",
         "case": 69,
-        "death": 1
+      "death": 1
       },
       {
         "county": "San Francisco",
@@ -68,7 +68,7 @@ The JSON contains timeStamp (stored in milliseconds) and array of counties' case
 }
 ```
 ### Notes
-- Yuba and Sutter reports their cases together at one resource so the data is collected together
+- Yuba and Sutter reported their cases together at one resource before March 25 so part of the data look like this .
 ```
       ...
       {
@@ -80,4 +80,5 @@ The JSON contains timeStamp (stored in milliseconds) and array of counties' case
 ``` 
 
 ### resource
- https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_California
+ - https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_California
+ - https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_New_York_(state)
