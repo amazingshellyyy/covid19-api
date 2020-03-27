@@ -1,14 +1,16 @@
 <div align="center">
-  <h2>Covid-19 California County Data API</h2>
+  <h2>Covid19 Open API (keep updating)</h2>
 </div>
 
-### COVID-19 California County Cases API
-This API collects California counties' data with confirmed cases and deaths number since March 16th.
+### COVID19 County Cases API
+This API currently collects California counties' data with confirmed cases and deaths number since March 16th.
+We are working on datas for other states' county as well.
 
 <h3 style="color:red">Data is updated every hour!</h3>
 
 For county timeseries data: 
 - Request method: GET
+<<<<<<< HEAD
 - Endpoint: 
 ```
 https://amazingshellyyy.com/covid19-api/<country-code>-<subvisions-code>/countyTimeseries.json
@@ -27,11 +29,14 @@ ISO 3166 — Codes for the representation of names of countries and their subdiv
 - Example: California of United States is `US-CA`, New York of United States  is `US-NY`
 
 
+=======
+- Endpoint: https://amazingshellyyy.com/covid19-api/countyTimeseries.json
+>>>>>>> f36b0e1908b7b79e5555ecd61efc55128a970a36
 
 ### Using axios
 ```js
 import axios from 'axios';
-axios.get('https://amazingshellyyy.com/covid19-CA/countyTimeseries.json')
+axios.get('https://amazingshellyyy.com/covid19-api/countyTimeseries.json')
       .then(res => {
         console.log('covid CA County data',res.data)
       })
