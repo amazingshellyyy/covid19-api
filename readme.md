@@ -30,7 +30,7 @@ https://amazingshellyyy.com/covid19-api/<country-code>-<subvisions-code>/countyT
 ### Using axios
 ```js
 import axios from 'axios';
-axios.get('https://amazingshellyyy.com/covid19-api/countyTimeseries.json')
+axios.get('https://amazingshellyyy.com/covid19-api/US-CA/countyTimeseries.json')
       .then(res => {
         console.log('covid CA County data',res.data)
       })
