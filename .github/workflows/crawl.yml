@@ -25,7 +25,8 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm install
-    - run: node getCountyData.js
+    - run: node getCA.js
+    - run: node getNY.js
     - run: node cleanUp.js
     - name: Commit files
       run: |

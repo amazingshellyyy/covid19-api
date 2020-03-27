@@ -1,14 +1,12 @@
 const request = require("request");
 const cheerio = require("cheerio");
-const covidHistory = require('./docs/countyTimeseries.json');
+const covidHistory = require('./docs/US-CA/countyTimeseries.json');
 const fs = require('fs');
-getCurrentTime = () => {
-  let time = new Date().getTime();
-  return time;
-}
+const {getCurrentTime} = require('./utils.js');
 
 let covidData = covidHistory;
 
+//CA
 request({
   method: 'GET',
   url: "https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_California"
@@ -20,7 +18,7 @@ request({
     let $ = cheerio.load(body);
     $('.tp-container tbody tr').each((index, el) => {
       // console.log($(el).text())
-      if (index < 41 && index > 2) {
+      if (index < 58 && index > 2) {
         data.push($(el).text());
       }
     })
@@ -30,8 +28,8 @@ request({
       if (datastr[1] && parseInt(datastr[3])) {
         const datas = {
           "county": datastr[1],
-          "case": parseInt(datastr[3]),
-          "death": parseInt(datastr[5])
+          "case": parseInt(datastr[3].split(',').join('')),
+          "death": parseInt(datastr[5].split(',').join(''))
         }
         newData.push(datas);
       }
@@ -42,11 +40,11 @@ request({
       data: newData
     }
     covidData.push(timeseriesData);
-    fs.writeFile(`./docs/countyTimeseries.json`, JSON.stringify(covidData, null, 2), function (err) {
+    fs.writeFile(`./docs/US-CA/countyTimeseries.json`, JSON.stringify(covidData, null, 2), function (err) {
       if (err) {
         console.log(err);
       } else {
-        console.log('finish writing file')
+        console.log('finish writing CA file')
       }
 
     })
@@ -55,3 +53,6 @@ request({
   }
 });
 
+
+
+//NY

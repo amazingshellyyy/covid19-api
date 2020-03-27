@@ -1,4 +1,4 @@
-const covidHistory = require('./docs/countyTimeseries.json');
+const covidHistory = require('./docs/US-CA/countyTimeseries.json');
 const fs = require('fs');
 
 let data = covidHistory;
@@ -16,7 +16,7 @@ for (let i = 0; i < data.length; i++) {
 }
 
 
-fs.writeFile(`./docs/countyTimeseries.json`, JSON.stringify(data, null, 2), function (err) {
+fs.writeFile(`./docs/US-CA/countyTimeseries.json`, JSON.stringify(data, null, 2), function (err) {
   if (err) {
     console.log(err);
   } else {
