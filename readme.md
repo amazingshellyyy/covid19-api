@@ -19,6 +19,8 @@ https://amazingshellyyy.com/covid19-api/<country-code>-<subvisions-code>/countyT
   - countyTimeseries: https://amazingshellyyy.com/covid19-api/US-CA/countyTimeseries.json
 - US-NY: 
   - countyTimeseries: https://amazingshellyyy.com/covid19-api/US-NY/countyTimeseries.json
+- US-NY: 
+  - countyTimeseries: https://amazingshellyyy.com/covid19-api/US-WA/countyTimeseries.json
 
 ### Specifications
 #### < country-code>

@@ -1,7 +1,6 @@
 const request = require("request");
 const cheerio = require("cheerio");
-// const covidHistory = require('./docs/US-CA/countyTimeseries.json');
-const covidHistory = require('./base_data/covidWA');
+const covidHistory = require('./docs/US-WA/countyTimeseries.json');
 const fs = require('fs');
 const {getCurrentTime} = require('./utils.js');
 
