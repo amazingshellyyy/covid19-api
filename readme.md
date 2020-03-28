@@ -14,6 +14,11 @@ For county timeseries data:
 ```
 https://amazingshellyyy.com/covid19-api/<country-code>-<subvisions-code>/countyTimeseries.json
 ```
+### List
+- US-CA: 
+  - countyTimeseries: https://amazingshellyyy.com/covid19-api/US-CA/countyTimeseries.json
+- US-NY: 
+  - countyTimeseries: https://amazingshellyyy.com/covid19-api/US-NY/countyTimeseries.json
 
 ### Specifications
 #### < country-code>
@@ -30,7 +35,7 @@ https://amazingshellyyy.com/covid19-api/<country-code>-<subvisions-code>/countyT
 ### Using axios
 ```js
 import axios from 'axios';
-axios.get('https://amazingshellyyy.com/covid19-api/countyTimeseries.json')
+axios.get('https://amazingshellyyy.com/covid19-api/US-CA/countyTimeseries.json')
       .then(res => {
         console.log('covid CA County data',res.data)
       })
