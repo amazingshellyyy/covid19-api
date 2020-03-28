@@ -75,7 +75,7 @@ The JSON contains timeStamp (stored in milliseconds) and array of counties' case
 }
 ```
 ### Notes
-- Yuba and Sutter reported their cases together at one resource before March 25 so part of the data look like this .
+- Yuba and Sutter reported their cases together at one resource before March 25 so part of the data look like this:
 ```
       ...
       {
@@ -85,7 +85,18 @@ The JSON contains timeStamp (stored in milliseconds) and array of counties' case
       },
       ...
 ``` 
+- some data in Washinton State is hasn't been assigned to any county therefore the county name will be "(Unassigned)":
+```
+      ...
+      {
+        "county": "(Unassigned)",
+        "case": 160,
+        "death": 0
+      }
+      ...
+```
 
 ### resource
  - https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_California
  - https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_New_York_(state)
+ - https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Washington_(state)

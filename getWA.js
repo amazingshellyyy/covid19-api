@@ -48,7 +48,7 @@ request({
       if (err) {
         console.log(err);
       } else {
-        console.log('finish writing NY file')
+        console.log('finish writing WA file')
       }
 
     })
