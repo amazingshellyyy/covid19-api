@@ -3,7 +3,7 @@
 </div>
 
 ### COVID19 County Cases API
-This API currently collects California counties' data with confirmed cases and deaths number since March 16th.
+This API currently collects California, New York, Washington states' counties' data with confirmed cases and deaths number since March 16th(For CA), March 18th(For NY), March 13th(For WA).
 We are working on datas for other states' county as well.
 
 <h3 style="color:red">Data is updated every hour!</h3>
@@ -19,7 +19,7 @@ https://amazingshellyyy.com/covid19-api/<country-code>-<subvisions-code>/countyT
   - countyTimeseries: https://amazingshellyyy.com/covid19-api/US-CA/countyTimeseries.json
 - US-NY: 
   - countyTimeseries: https://amazingshellyyy.com/covid19-api/US-NY/countyTimeseries.json
-- US-NY: 
+- US-WA: 
   - countyTimeseries: https://amazingshellyyy.com/covid19-api/US-WA/countyTimeseries.json
 
 ### Specifications
