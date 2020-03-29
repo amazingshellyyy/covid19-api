@@ -18,7 +18,7 @@ request({
     let $ = cheerio.load(body);
     $('.tp-container tbody tr').each((index, el) => {
       // console.log($(el).text())
-      if (index < 58 && index > 2) {
+      if (index < 58 && index > 1) {
         data.push($(el).text());
       }
     })
