@@ -26,7 +26,6 @@ request({
       }
     })
 
-    console.log(data)
     let newData = [];
     data.forEach(county => {
       const datastr = JSON.stringify(county).split('\\n');
@@ -39,7 +38,6 @@ request({
         newData.push(datas);
       }
     })
-    console.log(newData);
     let timeseriesData = {
       timeStamp: getCurrentTime(),
       data: newData
