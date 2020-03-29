@@ -5,7 +5,7 @@ const fs = require('fs');
 const {getCurrentTime} = require('./utils.js');
 
 let covidData = covidHistory;
-
+console.log('here');
 //CA
 request({
   method: 'GET',
@@ -16,12 +16,17 @@ request({
   if (res.statusCode == 200) {
     let data = []
     let $ = cheerio.load(body);
-    $('.tp-container tbody tr').each((index, el) => {
-      // console.log($(el).text())
-      if (index < 58 && index > 1) {
+    const rows = $('.sortable tbody tr')
+    // console.log(rows.text());
+    rows.each((index, el) => {
+      
+      if (index < rows.length && index > 1) {
+        
         data.push($(el).text());
       }
     })
+
+    console.log(data)
     let newData = [];
     data.forEach(county => {
       const datastr = JSON.stringify(county).split('\\n');
@@ -34,12 +39,13 @@ request({
         newData.push(datas);
       }
     })
-    
+    console.log(newData);
     let timeseriesData = {
       timeStamp: getCurrentTime(),
       data: newData
     }
     covidData.push(timeseriesData);
+    
     fs.writeFile(`./docs/US-CA/countyTimeseries.json`, JSON.stringify(covidData, null, 2), function (err) {
       if (err) {
         console.log(err);
