@@ -12,7 +12,7 @@ We are working on datas for other states' county as well.
 - County Data is updated every hour!
 - State Data is updated every 3 hours!
 
-:star::star::star:Please star this repo to support my effort! Thank you so much!
+:star:Please star this repo to support my effort! Thank you so much!:star:
 
 #### For state timeseries data:
 - Request method: GET
