@@ -2,19 +2,30 @@
   <h2>Covid19 Open API (keep updating)</h2>
 </div>
 
-### COVID19 County Cases API
+### Covid19 Open API
 This API currently collects California, New York, Washington states' counties' data with confirmed cases and deaths number since March 16th(For CA), March 18th(For NY), March 13th(For WA).
 We are working on datas for other states' county as well.
 
+*2020 Mar 30 updates: start collecting US states data.
+
 <h3 style="color:red">Data is updated every hour!</h3>
 
-For county timeseries data: 
+#### For state timeseries data:
+- Request method: GET
+- Endpoint: 
+```
+https://amazingshellyyy.com/covid19-api/<country-code>/statesTimeseries.json
+```
+
+#### For county timeseries data: 
 - Request method: GET
 - Endpoint: 
 ```
 https://amazingshellyyy.com/covid19-api/<country-code>-<subvisions-code>/countyTimeseries.json
 ```
 ### List
+- US:
+  - stateTimeseries: https://amazingshellyyy.com/covid19-api/US/statesTimeseries.json
 - US-CA: 
   - countyTimeseries: https://amazingshellyyy.com/covid19-api/US-CA/countyTimeseries.json
 - US-NY: 
@@ -46,6 +57,37 @@ axios.get('https://amazingshellyyy.com/covid19-api/US-CA/countyTimeseries.json')
       })
 ```
 
+### Sample Data
+#### Sample | State Timeseries data:
+The JSON contains timeStamp (stored in milliseconds) and array of states' cases with objects of each state and its name, cases, and deaths.
+```
+[
+  {
+    "timeStamp": 1585618844246,
+    "data": [
+      {
+        "state": "Alabama",
+        "case": 827,
+        "death": 4
+      },
+      {
+        "state": "Alaska",
+        "case": 102,
+        "death": 2
+      },
+      {
+        "state": "American Samoa",
+        "case": 0,
+        "death": 0
+      },
+      ...
+    ]
+  }
+  ...
+]
+```
+
+#### Sample | County Timeseries data:
 The JSON contains timeStamp (stored in milliseconds) and array of counties' cases with objects of each county and its name, cases, and deaths.
 
 ```
@@ -97,6 +139,7 @@ The JSON contains timeStamp (stored in milliseconds) and array of counties' case
 ```
 
 ### resource
+ - https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_States
  - https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_California
  - https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_New_York_(state)
  - https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Washington_(state)
