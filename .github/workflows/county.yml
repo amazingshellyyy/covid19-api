@@ -25,9 +25,9 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm install
-    - run: node getCA.js
-    - run: node getNY.js
-    - run: node getWA.js    
+    - run: node ./getData/getCA.js
+    - run: node ./getData/getNY.js
+    - run: node ./getData/getWA.js    
     - name: Commit files
       run: |
         git config --local user.email "covidcounty-action@amazingshellyyy.com"
