@@ -8,7 +8,8 @@ We are working on datas for other states' county as well.
 
 *2020 Mar 30 updates: start collecting US states data.
 
-<h3 style="color:red">Data is updated every hour!</h3>
+<h3 style="color:red">County Data is updated every hour!</h3>
+<h3 style="color:blue">State Data is updated every 3 hours!</h3>
 
 #### For state timeseries data:
 - Request method: GET
@@ -25,13 +26,13 @@ https://amazingshellyyy.com/covid19-api/<country-code>-<subvisions-code>/countyT
 ```
 ### List
 - US:
-  - stateTimeseries: https://amazingshellyyy.com/covid19-api/US/statesTimeseries.json
+  - states Timeseries: https://amazingshellyyy.com/covid19-api/US/statesTimeseries.json
 - US-CA: 
-  - countyTimeseries: https://amazingshellyyy.com/covid19-api/US-CA/countyTimeseries.json
+  - county Timeseries: https://amazingshellyyy.com/covid19-api/US-CA/countyTimeseries.json
 - US-NY: 
-  - countyTimeseries: https://amazingshellyyy.com/covid19-api/US-NY/countyTimeseries.json
+  - county Timeseries: https://amazingshellyyy.com/covid19-api/US-NY/countyTimeseries.json
 - US-WA: 
-  - countyTimeseries: https://amazingshellyyy.com/covid19-api/US-WA/countyTimeseries.json
+  - county Timeseries: https://amazingshellyyy.com/covid19-api/US-WA/countyTimeseries.json
 
 ### Specifications
 #### < country-code>
