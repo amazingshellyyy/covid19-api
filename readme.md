@@ -3,7 +3,7 @@
 </div>
 
 ### Covid19 Open API
-This API currently collects California, New York, Washington states' counties' data with confirmed cases and deaths number since March 16th(For CA), March 18th(For NY), March 13th(For WA).
+This API currently collects California, New York, Washington states' counties' data with confirmed cases and deaths numbers.
 We are working on datas for other states' county as well.
 
 *2020 Mar 30 updates: start collecting US states data.
@@ -25,13 +25,13 @@ https://amazingshellyyy.com/covid19-api/<country-code>/statesTimeseries.json
 https://amazingshellyyy.com/covid19-api/<country-code>-<subvisions-code>/countyTimeseries.json
 ```
 ### List
-- US:
+- US: (Mar 12th ~)
   - states Timeseries: https://amazingshellyyy.com/covid19-api/US/statesTimeseries.json
-- US-CA: 
+- US-CA: (Mar 16th ~)
   - county Timeseries: https://amazingshellyyy.com/covid19-api/US-CA/countyTimeseries.json
-- US-NY: 
+- US-NY: (Mar 18th ~)
   - county Timeseries: https://amazingshellyyy.com/covid19-api/US-NY/countyTimeseries.json
-- US-WA: 
+- US-WA: (Mar 13th ~)
   - county Timeseries: https://amazingshellyyy.com/covid19-api/US-WA/countyTimeseries.json
 
 ### Specifications
@@ -118,7 +118,8 @@ The JSON contains timeStamp (stored in milliseconds) and array of counties' case
 }
 ```
 ### Notes
-- Yuba and Sutter reported their cases together at one resource before March 25 so part of the data look like this:
+- US state wide data is missing on Mar 26th. Be awared that there might be a gap.
+- In California county data, Yuba and Sutter reported their cases together at one resource before March 25 so part of the data look like this:
 ```
       ...
       {
@@ -138,6 +139,7 @@ The JSON contains timeStamp (stored in milliseconds) and array of counties' case
       }
       ...
 ```
+
 
 ### resource
  - https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_States
