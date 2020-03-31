@@ -4,10 +4,10 @@
 name: get covid county data
 
 on:
-  # push:
-  #   branches: [ master ]
+  push:
+    branches: [ master ]
   schedule: 
-    - cron: '30 * * * *'
+    - cron: '30 */3 * * *'
 
 jobs:
   build:
@@ -24,16 +24,13 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: npm install
-    - run: node getCA.js
-    - run: node getNY.js
-    - run: node getWA.js    
-    - run: node cleanUp.js
+    - run: npm install   
+    - run: node getUS.js   
     - name: Commit files
       run: |
-        git config --local user.email "covidcounty-action@amazingshellyyy.com"
+        git config --local user.email "covidUSstate-action@amazingshellyyy.com"
         git config --local user.name "amazingshellyyy.covidCAcounty"
-        git commit -m "Add changes for county" -a
+        git commit -m "Add changes for US state" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
