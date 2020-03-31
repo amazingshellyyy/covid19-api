@@ -1,8 +1,8 @@
 const request = require("request");
 const cheerio = require("cheerio");
-const covidHistory = require('./docs/US-CA/countyTimeseries.json');
+const covidHistory = require('../docs/US-CA/countyTimeseries.json');
 const fs = require('fs');
-const {getCurrentTime} = require('./utils.js');
+const {getCurrentTime} = require('../utils.js');
 
 let covidData = covidHistory;
 console.log('here');
@@ -16,13 +16,14 @@ request({
   if (res.statusCode == 200) {
     let data = []
     let $ = cheerio.load(body);
+    $.fn.ignore = function(sel){
+      return this.clone().find(sel||">*").remove().end();
+    };
     const rows = $('.sortable tbody tr')
     // console.log(rows.text());
     rows.each((index, el) => {
-      
       if (index < rows.length && index > 1) {
-        
-        data.push($(el).text());
+        data.push($(el).ignore("sup").text());
       }
     })
 
@@ -43,8 +44,8 @@ request({
       data: newData
     }
     covidData.push(timeseriesData);
-    
-    fs.writeFile(`./docs/US-CA/countyTimeseries.json`, JSON.stringify(covidData, null, 2), function (err) {
+    covidData.sort((a,b)=> (a.timeStamp > b.timeStamp)? 1 : -1 )
+    fs.writeFile(`../docs/US-CA/countyTimeseries.json`, JSON.stringify(covidData, null, 2), function (err) {
       if (err) {
         console.log(err);
       } else {

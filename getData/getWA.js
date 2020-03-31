@@ -1,8 +1,8 @@
 const request = require("request");
 const cheerio = require("cheerio");
-const covidHistory = require('./docs/US-WA/countyTimeseries.json');
+const covidHistory = require('../docs/US-WA/countyTimeseries.json');
 const fs = require('fs');
-const {getCurrentTime} = require('./utils.js');
+const {getCurrentTime} = require('../utils.js');
 
 let covidData = covidHistory;
 
@@ -44,7 +44,8 @@ request({
       data: newData
     }
     covidData.push(timeseriesData);
-    fs.writeFile(`./docs/US-WA/countyTimeseries.json`, JSON.stringify(covidData, null, 2), function (err) {
+    covidData.sort((a,b)=> (a.timeStamp > b.timeStamp)? 1 : -1 )
+    fs.writeFile(`../docs/US-WA/countyTimeseries.json`, JSON.stringify(covidData, null, 2), function (err) {
       if (err) {
         console.log(err);
       } else {

@@ -4,8 +4,8 @@
 name: get covid county data
 
 on:
-  # push:
-  #   branches: [ master ]
+  push:
+    branches: [ master ]
   schedule: 
     - cron: '30 * * * *'
 
@@ -28,7 +28,6 @@ jobs:
     - run: node getCA.js
     - run: node getNY.js
     - run: node getWA.js    
-    - run: node cleanUp.js
     - name: Commit files
       run: |
         git config --local user.email "covidcounty-action@amazingshellyyy.com"
