@@ -8,8 +8,11 @@ We are working on datas for other states' county as well.
 
 *2020 Mar 30 updates: start collecting US states data.
 
-<h3 style="color:red">County Data is updated every hour!</h3>
-<h3 style="color:blue">State Data is updated every 3 hours!</h3>
+
+- County Data is updated every hour!
+- State Data is updated every 3 hours!
+
+:star::star::star:Please star this repo to support my effort! Thank you so much!
 
 #### For state timeseries data:
 - Request method: GET
