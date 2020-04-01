@@ -6,7 +6,7 @@
 This API currently collects California, New York, Washington states' counties' data with confirmed cases and deaths numbers.
 We are working on datas for other states' county as well.
 
-*2020 Mar 30 updates: start collecting US states data.
+*2020 Mar 30 updates: start collecting US states data which includes 50 U.S states, 1 federal disctrict, and 5 inhabited territories.
 
 
 - County Data is updated every hour!
