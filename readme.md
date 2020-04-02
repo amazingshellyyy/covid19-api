@@ -142,7 +142,10 @@ The JSON contains timeStamp (stored in milliseconds) and array of counties' case
       }
       ...
 ```
+### Some visualization done with this API
+Mapitout: https://mapitout.github.io/#/covid19
 
+*Please submit an issue if you would like to put your project here. :)
 
 ### resource
  - https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_States
