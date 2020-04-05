@@ -152,3 +152,32 @@ Mapitout: https://mapitout.github.io/#/covid19
  - https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_California
  - https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_New_York_(state)
  - https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Washington_(state)
+
+
+### Contribute to data collecting
+1. Run the following command at the root level
+- replace stateCode to the state's Code you want to create
+```shell
+$ mkdir ./docs/US-<stateCode>
+$ touch ./docs/US-<stateCode>/countyTimeseries.json
+$ echo "[]" >> ./docs/US-<stateCode>/countyTimeseries.json
+```
+2. Run the following command to test with the getDataTest() function.
+getDataTest(stateCode, url, selector, countyIndex, caseIndex, deathIndex)
+- e.g.for NJ Data:
+getCountyData('NJ','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_New_Jersey', '.sortable tbody tr[class!=sortbottom]', 1,3,5);
+```shell
+$ echo "getCountyData(a,b,c,d,e,f)" >> ./getData/test.js
+$ node ./getData/test.js
+```
+3. Check 'countyTimeseries.json' in './docs/US-stateCode ' and see if the data is there and correct.
+
+4. run follow command to remove the testing code from test.
+```shell
+$ echo "const { getCountyData } = require('./getData.js');" > ./getData/test.js
+```
+5. call the function in the run file and it will automatically run every hour.
+```shell
+$ echo "getCountyData(a,b,c,d,e,f)" >> ./getData/run.js
+```
+
