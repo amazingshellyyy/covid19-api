@@ -178,6 +178,7 @@ $ echo "const { getCountyData } = require('./getData.js');" > ./getData/test.js
 ```
 5. call the function in the run file and it will automatically run every hour.
 ```shell
-$ echo "getCountyData(a,b,c,d,e,f)" >> ./getData/run.js
+$ echo "getCountyData(a,b,c,d,e,f).then(successCallback, failureCallback);" >> ./getData/run.js
 ```
+
 
