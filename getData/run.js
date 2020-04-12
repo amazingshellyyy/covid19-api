@@ -7,3 +7,4 @@ getCountyData('NY', 'https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_
 getCountyData('WA','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Washington_(state)', '.sortable tbody tr[class!=sortbottom]', 1,3,5).then(successCallback, failureCallback);
 
 getCountyData('NJ','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_New_Jersey','.sortable tbody tr[class!=sortbottom]', 1,3,5).then(successCallback,failureCallback);
+getCountyData('MI','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Michigan','.sortable tbody tr[class!=sortbottom]',1,3,5).then(successCallback, failureCallback)
