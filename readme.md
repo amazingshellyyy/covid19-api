@@ -164,13 +164,21 @@ $ echo "[]" >> ./docs/US-<stateCode>/countyTimeseries.json
 ```
 2. Run the following command to test with the getDataTest() function.
 getDataTest(stateCode, url, selector, countyIndex, caseIndex, deathIndex)
-- e.g.for NJ Data:
-getCountyData('NJ','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_New_Jersey', '.sortable tbody tr[class!=sortbottom]', 1,3,5);
+- e.g.
+    - for NJ Data:
+        ```js
+        getCountyData('NJ','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_New_Jersey', '.sortable tbody tr[class!=sortbottom]', 1,3,5);
+        ```
+    - for NY Data:
+        ```js
+        getCountyData('NY','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_New_York_(state)', '.sortable tbody tr[class!=sortbottom]', 1,3,5);
+        ```
+
 ```shell
 $ echo "getCountyData(a,b,c,d,e,f)" >> ./getData/test.js
 $ node ./getData/test.js
 ```
-3. Check 'countyTimeseries.json' in './docs/US-stateCode ' and see if the data is there and correct.
+3. Check `countyTimeseries.json` in `./docs/US-stateCode` and see if the data is there and correct.
 
 4. run follow command to remove the testing code from test.
 ```shell
