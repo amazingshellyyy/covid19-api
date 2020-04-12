@@ -893,5 +893,900 @@
         "death": 254
       }
     ]
+  },
+  {
+    "timeStamp": 1586730199986,
+    "data": [
+      {
+        "county": "Anderson",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Andrews",
+        "case": 11,
+        "death": 0
+      },
+      {
+        "county": "Angelina",
+        "case": 16,
+        "death": 0
+      },
+      {
+        "county": "Aransas",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Atascosa",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Austin",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Bandera",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Bastrop",
+        "case": 20,
+        "death": 1
+      },
+      {
+        "county": "Bee ",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Bell",
+        "case": 91,
+        "death": 3
+      },
+      {
+        "county": "Bexar",
+        "case": 655,
+        "death": 24
+      },
+      {
+        "county": "Blanco",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Bowie",
+        "case": 30,
+        "death": 1
+      },
+      {
+        "county": "Brazoria",
+        "case": 216,
+        "death": 2
+      },
+      {
+        "county": "Brazos",
+        "case": 116,
+        "death": 9
+      },
+      {
+        "county": "Brown",
+        "case": 10,
+        "death": 0
+      },
+      {
+        "county": "Burleson",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Burnet",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Caldwell",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Calhoun",
+        "case": 14,
+        "death": 0
+      },
+      {
+        "county": "Callahan",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Cameron",
+        "case": 159,
+        "death": 3
+      },
+      {
+        "county": "Camp",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Cass",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Castro",
+        "case": 10,
+        "death": 1
+      },
+      {
+        "county": "Chambers",
+        "case": 24,
+        "death": 0
+      },
+      {
+        "county": "Cherokee",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Clay",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Collin",
+        "case": 425,
+        "death": 7
+      },
+      {
+        "county": "Colorado",
+        "case": 7,
+        "death": 0
+      },
+      {
+        "county": "Comal",
+        "case": 37,
+        "death": 4
+      },
+      {
+        "county": "Comanche",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Concho",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Cooke",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Coryell",
+        "case": 34,
+        "death": 0
+      },
+      {
+        "county": "Crane",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Crosby",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Dallam",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Dallas",
+        "case": 1537,
+        "death": 25
+      },
+      {
+        "county": "Dawson",
+        "case": 6,
+        "death": 1
+      },
+      {
+        "county": "Deaf Smith",
+        "case": 7,
+        "death": 0
+      },
+      {
+        "county": "Delta",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Denton",
+        "case": 454,
+        "death": 10
+      },
+      {
+        "county": "DeWitt",
+        "case": 9,
+        "death": 0
+      },
+      {
+        "county": "Dickens",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Dimmit",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Donley",
+        "case": 23,
+        "death": 0
+      },
+      {
+        "county": "Eastland",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Ector",
+        "case": 40,
+        "death": 1
+      },
+      {
+        "county": "El Paso",
+        "case": 252,
+        "death": 2
+      },
+      {
+        "county": "Ellis",
+        "case": 66,
+        "death": 2
+      },
+      {
+        "county": "Erath",
+        "case": 12,
+        "death": 1
+      },
+      {
+        "county": "Falls",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Fannin",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Fayette",
+        "case": 9,
+        "death": 0
+      },
+      {
+        "county": "Floyd",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Fort Bend",
+        "case": 518,
+        "death": 11
+      },
+      {
+        "county": "Franklin",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Frio",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Gaines",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Galveston",
+        "case": 341,
+        "death": 8
+      },
+      {
+        "county": "Gillespie",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Goliad",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Gonzales",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Gray ",
+        "case": 13,
+        "death": 0
+      },
+      {
+        "county": "Grayson",
+        "case": 17,
+        "death": 0
+      },
+      {
+        "county": "Gregg",
+        "case": 39,
+        "death": 0
+      },
+      {
+        "county": "Grimes",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Guadalupe",
+        "case": 47,
+        "death": 0
+      },
+      {
+        "county": "Hale",
+        "case": 11,
+        "death": 2
+      },
+      {
+        "county": "Hamilton",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Hansford",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Hardin",
+        "case": 47,
+        "death": 2
+      },
+      {
+        "county": "Harris",
+        "case": 3261,
+        "death": 40
+      },
+      {
+        "county": "Harrison",
+        "case": 12,
+        "death": 1
+      },
+      {
+        "county": "Hays",
+        "case": 82,
+        "death": 0
+      },
+      {
+        "county": "Hemphill",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Henderson",
+        "case": 10,
+        "death": 0
+      },
+      {
+        "county": "Hidalgo",
+        "case": 181,
+        "death": 1
+      },
+      {
+        "county": "Hill",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Hockley",
+        "case": 13,
+        "death": 1
+      },
+      {
+        "county": "Hood",
+        "case": 13,
+        "death": 1
+      },
+      {
+        "county": "Hopkins",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Howard",
+        "case": 1,
+        "death": 1
+      },
+      {
+        "county": "Hunt",
+        "case": 16,
+        "death": 0
+      },
+      {
+        "county": "Hutchinson",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Jack",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Jackson",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Jasper",
+        "case": 7,
+        "death": 0
+      },
+      {
+        "county": "Jefferson",
+        "case": 100,
+        "death": 5
+      },
+      {
+        "county": "Jim Wells",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Johnson",
+        "case": 28,
+        "death": 1
+      },
+      {
+        "county": "Jones",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Karnes",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Kaufman",
+        "case": 26,
+        "death": 0
+      },
+      {
+        "county": "Kendall",
+        "case": 10,
+        "death": 0
+      },
+      {
+        "county": "Kerr",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Kleberg",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Knox",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Lamar",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Lamb",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Lampasas",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Lavaca",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Lee",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Leon",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Liberty",
+        "case": 17,
+        "death": 0
+      },
+      {
+        "county": "Limestone",
+        "case": 11,
+        "death": 1
+      },
+      {
+        "county": "Live Oak",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Llano",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Lubbock",
+        "case": 249,
+        "death": 13
+      },
+      {
+        "county": "Lynn",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Martin",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Mason",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Matagorda",
+        "case": 43,
+        "death": 3
+      },
+      {
+        "county": "Maverick",
+        "case": 9,
+        "death": 0
+      },
+      {
+        "county": "McCulloch",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "McLennan",
+        "case": 68,
+        "death": 2
+      },
+      {
+        "county": "Medina",
+        "case": 12,
+        "death": 1
+      },
+      {
+        "county": "Midland",
+        "case": 31,
+        "death": 1
+      },
+      {
+        "county": "Milam",
+        "case": 7,
+        "death": 0
+      },
+      {
+        "county": "Mitchell",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Montague",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Montgomery",
+        "case": 245,
+        "death": 4
+      },
+      {
+        "county": "Moore",
+        "case": 21,
+        "death": 0
+      },
+      {
+        "county": "Morris",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Nacogdoches",
+        "case": 30,
+        "death": 2
+      },
+      {
+        "county": "Navarro",
+        "case": 12,
+        "death": 2
+      },
+      {
+        "county": "Newton",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Nueces",
+        "case": 72,
+        "death": 0
+      },
+      {
+        "county": "Oldham",
+        "case": 3,
+        "death": 1
+      },
+      {
+        "county": "Orange",
+        "case": 33,
+        "death": 0
+      },
+      {
+        "county": "Palo Pinto",
+        "case": 4,
+        "death": 1
+      },
+      {
+        "county": "Panola",
+        "case": 10,
+        "death": 1
+      },
+      {
+        "county": "Parker",
+        "case": 13,
+        "death": 0
+      },
+      {
+        "county": "Pecos",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Polk",
+        "case": 9,
+        "death": 0
+      },
+      {
+        "county": "Potter",
+        "case": 66,
+        "death": 2
+      },
+      {
+        "county": "Rains",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Randall",
+        "case": 60,
+        "death": 2
+      },
+      {
+        "county": "Robertson",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Rockwall",
+        "case": 20,
+        "death": 0
+      },
+      {
+        "county": "Rusk",
+        "case": 14,
+        "death": 0
+      },
+      {
+        "county": "San Augustine",
+        "case": 9,
+        "death": 1
+      },
+      {
+        "county": "San Jacinto",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "San Patricio",
+        "case": 7,
+        "death": 0
+      },
+      {
+        "county": "Shelby",
+        "case": 34,
+        "death": 0
+      },
+      {
+        "county": "Smith",
+        "case": 93,
+        "death": 1
+      },
+      {
+        "county": "Starr",
+        "case": 7,
+        "death": 0
+      },
+      {
+        "county": "Stephens",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Swisher",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Tarrant",
+        "case": 705,
+        "death": 21
+      },
+      {
+        "county": "Taylor",
+        "case": 55,
+        "death": 1
+      },
+      {
+        "county": "Terry",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Titus",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Tom Green",
+        "case": 33,
+        "death": 1
+      },
+      {
+        "county": "Travis",
+        "case": 690,
+        "death": 9
+      },
+      {
+        "county": "Trinity",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Tyler",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Upshur",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Uvalde",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Val Verde",
+        "case": 10,
+        "death": 0
+      },
+      {
+        "county": "Van Zandt",
+        "case": 10,
+        "death": 1
+      },
+      {
+        "county": "Victoria",
+        "case": 76,
+        "death": 0
+      },
+      {
+        "county": "Walker",
+        "case": 17,
+        "death": 0
+      },
+      {
+        "county": "Waller",
+        "case": 14,
+        "death": 0
+      },
+      {
+        "county": "Washington",
+        "case": 36,
+        "death": 1
+      },
+      {
+        "county": "Webb",
+        "case": 171,
+        "death": 6
+      },
+      {
+        "county": "Wharton",
+        "case": 23,
+        "death": 0
+      },
+      {
+        "county": "Wichita",
+        "case": 54,
+        "death": 0
+      },
+      {
+        "county": "Willacy",
+        "case": 5,
+        "death": 1
+      },
+      {
+        "county": "Williamson",
+        "case": 110,
+        "death": 4
+      },
+      {
+        "county": "Wilson",
+        "case": 10,
+        "death": 0
+      },
+      {
+        "county": "Winkler",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Wise",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Wood",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Young",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Zapata",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Total",
+        "case": 12561,
+        "death": 254
+      }
+    ]
   }
 ]
