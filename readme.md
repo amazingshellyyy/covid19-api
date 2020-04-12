@@ -38,7 +38,9 @@ https://amazingshellyyy.com/covid19-api/<country-code>-<subvisions-code>/countyT
   - county Timeseries: https://amazingshellyyy.com/covid19-api/US-WA/countyTimeseries.json
 - US-NJ: (April 11th ~)
   - county Timeseries: https://amazingshellyyy.com/covid19-api/US-NJ/countyTimeseries.json
-  
+- US-MI: (April 11th ~)
+  - county Timeseries: https://amazingshellyyy.com/covid19-api/US-MI/countyTimeseries.json
+
 ### Specifications
 #### < country-code>
 
