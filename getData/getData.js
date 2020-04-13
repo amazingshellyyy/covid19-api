@@ -36,11 +36,14 @@ const getCountyData = (stateCode, url, selector, countyIndex, caseIndex, deathIn
                             data.push($(el).ignore("sup").text());
                         }
                     })
-                    // console.log('data',data[0])
+                    console.log('data',data)
                     let newData = [];
                     data.forEach(county => {
                         const datastr = JSON.stringify(county).split('\\n');
                         // console.log(datastr[deathIndex].length);
+                        if (!datastr[deathIndex]) {
+                            return reject('something wrong with the death index')
+                        }
                         const death = datastr[deathIndex].length == 0 ? 0 :parseInt(datastr[deathIndex].split(',').join(''));
                         if (datastr[countyIndex] && parseInt(datastr[caseIndex])) {
                             const datas = {
