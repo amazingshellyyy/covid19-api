@@ -11,7 +11,9 @@ allStates=("LL" "MM" "DD")
 # done
 
 # differnet table type : MA
-# two sortable table
+# two sortable table : ?
+# not using specific class : AZ
+# don't have table yet: WI
 
 echo "getCountyData('MA','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Massachusetts','.sortable tbody tr[class!=sortbottom]',1,3,5)" >> ./getData/test.js
 node ./getData/test.js

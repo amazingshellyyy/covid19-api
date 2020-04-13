@@ -16,3 +16,5 @@ getCountyData('IN','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_I
 getCountyData('OH','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Ohio','.sortable tbody tr[class!=sortbottom]',1,3,5).then(successCallback, failureCallback);
 getCountyData('VA','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Virginia','.sortable tbody tr[class!=sortbottom]',1,3,5).then(successCallback, failureCallback);
 getCountyData('MO','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Missouri','.sortable tbody tr[class!=sortbottom]',1,3,5).then(successCallback, failureCallback);
+getCountyData('NC','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_North_Carolina','.sortable tbody tr[class!=sortbottom]',1,3,5).then(successCallback, failureCallback);
+getCountyData('SC','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_South_Carolina','.sortable tbody tr[class!=sortbottom]',1,3,5).then(successCallback, failureCallback);
