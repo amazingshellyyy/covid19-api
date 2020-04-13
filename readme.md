@@ -40,6 +40,22 @@ https://amazingshellyyy.com/covid19-api/<country-code>-<subvisions-code>/countyT
   - county Timeseries: https://amazingshellyyy.com/covid19-api/US-NJ/countyTimeseries.json
 - US-MI: (April 11th ~)
   - county Timeseries: https://amazingshellyyy.com/covid19-api/US-MI/countyTimeseries.json
+- US-PA: (April 12th ~)
+  - county Timeseries: https://amazingshellyyy.com/covid19-api/US-PA/countyTimeseries.json
+- US-IL: (April 12th ~)
+  - county Timeseries: https://amazingshellyyy.com/covid19-api/US-IL/countyTimeseries.json
+- US-LA: (April 12th ~)
+  - county Timeseries: https://amazingshellyyy.com/covid19-api/US-LA/countyTimeseries.json
+- US-FL: (April 12th ~)
+  - county Timeseries: https://amazingshellyyy.com/covid19-api/US-FL/countyTimeseries.json
+- US-TX: (April 12th ~)
+  - county Timeseries: https://amazingshellyyy.com/covid19-api/US-TX/countyTimeseries.json
+- US-GA: (April 12th ~)
+  - county Timeseries: https://amazingshellyyy.com/covid19-api/US-GA/countyTimeseries.json
+- US-CT: (April 12th ~)
+  - county Timeseries: https://amazingshellyyy.com/covid19-api/US-CT/countyTimeseries.json
+- US-IN: (April 12th ~)
+  - county Timeseries: https://amazingshellyyy.com/covid19-api/US-IN/countyTimeseries.json
 
 ### Specifications
 #### < country-code>
