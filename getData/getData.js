@@ -36,7 +36,7 @@ const getCountyData = (stateCode, url, selector, countyIndex, caseIndex, deathIn
                             data.push($(el).ignore("sup").text());
                         }
                     })
-                    console.log('data',data[0])
+                    // console.log('data',data[0])
                     let newData = [];
                     data.forEach(county => {
                         const datastr = JSON.stringify(county).split('\\n');
