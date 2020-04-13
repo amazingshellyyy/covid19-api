@@ -5,7 +5,6 @@ const { getCurrentTime } = require('../utils.js');
 const path = require('path');
 const cp = require('child_process')
 
-
 const getCountyData = (stateCode, url, selector, countyIndex, caseIndex, deathIndex ) => {
     return new Promise((resolve, reject)=>{
         try {
@@ -22,18 +21,22 @@ const getCountyData = (stateCode, url, selector, countyIndex, caseIndex, deathIn
                 // console.log(selector);
                 if (res.statusCode == 200) {
                     let data = []
+                    // console.log(body)
+                    // fs.writeFile(`./output.html`, JSON.stringify(body), (e)=> console.log(e))
                     let $ = cheerio.load(body);
                     $.fn.ignore = function (sel) {
                         return this.clone().find(sel || ">*").remove().end();
                     };
                     const rows = $(selector);
-                    
+                    // console.log('rows',$(rows).text())
+
+                    const i = stateCode=='CA'? 1 : 0;
                     rows.each((index, el) => {
-                        if (index < rows.length && index > 1) {
+                        if (index < rows.length && index > i ) {
                             data.push($(el).ignore("sup").text());
                         }
                     })
-                    // console.log('data',data)
+                    console.log('data',data[0])
                     let newData = [];
                     data.forEach(county => {
                         const datastr = JSON.stringify(county).split('\\n');

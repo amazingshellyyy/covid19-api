@@ -1,1 +1,127 @@
-[]
+[
+  {
+    "timeStamp": 1586730526470,
+    "data": [
+      {
+        "county": "Allegany",
+        "case": 13,
+        "death": 0
+      },
+      {
+        "county": "Anne Arundel",
+        "case": 659,
+        "death": 27
+      },
+      {
+        "county": "Baltimore",
+        "case": 1257,
+        "death": 30
+      },
+      {
+        "county": "Baltimore City",
+        "case": 812,
+        "death": 24
+      },
+      {
+        "county": "Calvert",
+        "case": 90,
+        "death": 1
+      },
+      {
+        "county": "Caroline",
+        "case": 17,
+        "death": 0
+      },
+      {
+        "county": "Carroll",
+        "case": 236,
+        "death": 25
+      },
+      {
+        "county": "Cecil",
+        "case": 74,
+        "death": 1
+      },
+      {
+        "county": "Charles",
+        "case": 253,
+        "death": 9
+      },
+      {
+        "county": "Dorchester",
+        "case": 12,
+        "death": 1
+      },
+      {
+        "county": "Frederick",
+        "case": 368,
+        "death": 12
+      },
+      {
+        "county": "Garrett",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Harford",
+        "case": 129,
+        "death": 0
+      },
+      {
+        "county": "Howard",
+        "case": 371,
+        "death": 6
+      },
+      {
+        "county": "Kent",
+        "case": 11,
+        "death": 0
+      },
+      {
+        "county": "Montgomery",
+        "case": 1631,
+        "death": 42
+      },
+      {
+        "county": "Prince George's",
+        "case": 2035,
+        "death": 55
+      },
+      {
+        "county": "Queen Anne's",
+        "case": 19,
+        "death": 0
+      },
+      {
+        "county": "St. Mary's",
+        "case": 82,
+        "death": 0
+      },
+      {
+        "county": "Somerset",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Talbot",
+        "case": 14,
+        "death": 1
+      },
+      {
+        "county": "Washington",
+        "case": 75,
+        "death": 1
+      },
+      {
+        "county": "Wicomico",
+        "case": 42,
+        "death": 1
+      },
+      {
+        "county": "Worcester",
+        "case": 20,
+        "death": 0
+      }
+    ]
+  }
+]
