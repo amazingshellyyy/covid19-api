@@ -40,12 +40,13 @@ const getCountyData = (stateCode, url, selector, countyIndex, caseIndex, deathIn
                     let newData = [];
                     data.forEach(county => {
                         const datastr = JSON.stringify(county).split('\\n');
-                        // console.log(datastr);
+                        // console.log(datastr[deathIndex].length);
+                        const death = datastr[deathIndex].length == 0 ? 0 :parseInt(datastr[deathIndex].split(',').join(''));
                         if (datastr[countyIndex] && parseInt(datastr[caseIndex])) {
                             const datas = {
                                 "county": datastr[countyIndex],
                                 "case": parseInt(datastr[caseIndex].split(',').join('')),
-                                "death": parseInt(datastr[deathIndex].split(',').join(''))
+                                "death": death
                             }
                             newData.push(datas);
                         }

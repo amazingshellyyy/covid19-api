@@ -13,3 +13,6 @@ getCountyData('GA','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_G
 getCountyData('CT','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Connecticut','.sortable tbody tr[class!=sortbottom]',1,3,5).then(successCallback, failureCallback);
 getCountyData('WA','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Washington_(state)', '.sortable tbody tr[class!=sortbottom]', 1,3,5).then(successCallback, failureCallback);
 getCountyData('IN','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Indiana','.sortable tbody tr[class!=sortbottom]',1,2,3).then(successCallback, failureCallback);
+getCountyData('OH','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Ohio','.sortable tbody tr[class!=sortbottom]',1,3,5).then(successCallback, failureCallback);
+getCountyData('VA','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Virginia','.sortable tbody tr[class!=sortbottom]',1,3,5).then(successCallback, failureCallback);
+getCountyData('MO','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Missouri','.sortable tbody tr[class!=sortbottom]',1,3,5).then(successCallback, failureCallback);
