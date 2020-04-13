@@ -56,6 +56,12 @@ https://amazingshellyyy.com/covid19-api/<country-code>-<subvisions-code>/countyT
   - county Timeseries: https://amazingshellyyy.com/covid19-api/US-CT/countyTimeseries.json
 - US-IN: (April 12th ~)
   - county Timeseries: https://amazingshellyyy.com/covid19-api/US-IN/countyTimeseries.json
+- US-OH: (April 12th ~)
+  - county Timeseries: https://amazingshellyyy.com/covid19-api/US-OH/countyTimeseries.json
+- US-VA: (April 12th ~)
+  - county Timeseries: https://amazingshellyyy.com/covid19-api/US-VA/countyTimeseries.json
+- US-MO: (April 12th ~)
+  - county Timeseries: https://amazingshellyyy.com/covid19-api/US-MO/countyTimeseries.json
 
 ### Specifications
 #### < country-code>
