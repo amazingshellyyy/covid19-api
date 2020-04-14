@@ -19928,5 +19928,475 @@
         "death": 0
       }
     ]
+  },
+  {
+    "timeStamp": 1586903507711,
+    "data": [
+      {
+        "county": "Alamance",
+        "case": 73,
+        "death": 0
+      },
+      {
+        "county": "Alexander",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Alleghany",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Anson",
+        "case": 11,
+        "death": 0
+      },
+      {
+        "county": "Ashe",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Beaufort",
+        "case": 13,
+        "death": 0
+      },
+      {
+        "county": "Bertie",
+        "case": 15,
+        "death": 1
+      },
+      {
+        "county": "Bladen",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Brunswick",
+        "case": 35,
+        "death": 1
+      },
+      {
+        "county": "Buncombe",
+        "case": 37,
+        "death": 3
+      },
+      {
+        "county": "Burke",
+        "case": 59,
+        "death": 3
+      },
+      {
+        "county": "Cabarrus",
+        "case": 190,
+        "death": 3
+      },
+      {
+        "county": "Caldwell",
+        "case": 19,
+        "death": 0
+      },
+      {
+        "county": "Carteret",
+        "case": 22,
+        "death": 1
+      },
+      {
+        "county": "Caswell",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Catawba",
+        "case": 35,
+        "death": 1
+      },
+      {
+        "county": "Chatham",
+        "case": 75,
+        "death": 0
+      },
+      {
+        "county": "Cherokee",
+        "case": 12,
+        "death": 1
+      },
+      {
+        "county": "Chowan",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Clay",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Cleveland",
+        "case": 39,
+        "death": 0
+      },
+      {
+        "county": "Columbus",
+        "case": 37,
+        "death": 1
+      },
+      {
+        "county": "Craven",
+        "case": 29,
+        "death": 1
+      },
+      {
+        "county": "Cumberland",
+        "case": 86,
+        "death": 1
+      },
+      {
+        "county": "Currituck",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Dare",
+        "case": 12,
+        "death": 1
+      },
+      {
+        "county": "Davidson",
+        "case": 86,
+        "death": 2
+      },
+      {
+        "county": "Davie",
+        "case": 22,
+        "death": 2
+      },
+      {
+        "county": "Duplin",
+        "case": 19,
+        "death": 0
+      },
+      {
+        "county": "Durham",
+        "case": 297,
+        "death": 2
+      },
+      {
+        "county": "Edgecombe",
+        "case": 31,
+        "death": 1
+      },
+      {
+        "county": "Forsyth",
+        "case": 121,
+        "death": 4
+      },
+      {
+        "county": "Franklin",
+        "case": 66,
+        "death": 2
+      },
+      {
+        "county": "Gaston",
+        "case": 86,
+        "death": 3
+      },
+      {
+        "county": "Gates",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Granville",
+        "case": 97,
+        "death": 4
+      },
+      {
+        "county": "Greene",
+        "case": 13,
+        "death": 0
+      },
+      {
+        "county": "Guilford",
+        "case": 137,
+        "death": 10
+      },
+      {
+        "county": "Halifax",
+        "case": 25,
+        "death": 0
+      },
+      {
+        "county": "Harnett",
+        "case": 49,
+        "death": 2
+      },
+      {
+        "county": "Haywood",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Henderson",
+        "case": 97,
+        "death": 3
+      },
+      {
+        "county": "Hertford",
+        "case": 4,
+        "death": 1
+      },
+      {
+        "county": "Hoke",
+        "case": 20,
+        "death": 0
+      },
+      {
+        "county": "Iredell",
+        "case": 71,
+        "death": 2
+      },
+      {
+        "county": "Jackson",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Johnston",
+        "case": 104,
+        "death": 8
+      },
+      {
+        "county": "Jones",
+        "case": 7,
+        "death": 1
+      },
+      {
+        "county": "Lee",
+        "case": 14,
+        "death": 0
+      },
+      {
+        "county": "Lenoir",
+        "case": 14,
+        "death": 0
+      },
+      {
+        "county": "Lincoln",
+        "case": 15,
+        "death": 0
+      },
+      {
+        "county": "Macon",
+        "case": 2,
+        "death": 1
+      },
+      {
+        "county": "Martin",
+        "case": 7,
+        "death": 0
+      },
+      {
+        "county": "McDowell",
+        "case": 18,
+        "death": 0
+      },
+      {
+        "county": "Mecklenburg",
+        "case": 993,
+        "death": 14
+      },
+      {
+        "county": "Mitchell",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Montgomery",
+        "case": 14,
+        "death": 1
+      },
+      {
+        "county": "Moore",
+        "case": 66,
+        "death": 0
+      },
+      {
+        "county": "Nash",
+        "case": 39,
+        "death": 1
+      },
+      {
+        "county": "New Hanover",
+        "case": 55,
+        "death": 1
+      },
+      {
+        "county": "Northampton",
+        "case": 63,
+        "death": 0
+      },
+      {
+        "county": "Onslow",
+        "case": 29,
+        "death": 1
+      },
+      {
+        "county": "Orange",
+        "case": 155,
+        "death": 2
+      },
+      {
+        "county": "Pamlico",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Pasquotank",
+        "case": 15,
+        "death": 0
+      },
+      {
+        "county": "Pender",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Perquimans",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Person",
+        "case": 11,
+        "death": 0
+      },
+      {
+        "county": "Pitt",
+        "case": 68,
+        "death": 1
+      },
+      {
+        "county": "Polk",
+        "case": 9,
+        "death": 0
+      },
+      {
+        "county": "Randolph",
+        "case": 55,
+        "death": 2
+      },
+      {
+        "county": "Richmond",
+        "case": 12,
+        "death": 1
+      },
+      {
+        "county": "Robeson",
+        "case": 10,
+        "death": 0
+      },
+      {
+        "county": "Rockingham",
+        "case": 16,
+        "death": 2
+      },
+      {
+        "county": "Rowan",
+        "case": 201,
+        "death": 3
+      },
+      {
+        "county": "Rutherford",
+        "case": 43,
+        "death": 1
+      },
+      {
+        "county": "Sampson",
+        "case": 13,
+        "death": 0
+      },
+      {
+        "county": "Scotland",
+        "case": 9,
+        "death": 0
+      },
+      {
+        "county": "Stanly",
+        "case": 17,
+        "death": 1
+      },
+      {
+        "county": "Stokes",
+        "case": 9,
+        "death": 0
+      },
+      {
+        "county": "Surry",
+        "case": 10,
+        "death": 0
+      },
+      {
+        "county": "Transylvania",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Tyrrell",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Union",
+        "case": 110,
+        "death": 3
+      },
+      {
+        "county": "Vance",
+        "case": 21,
+        "death": 0
+      },
+      {
+        "county": "Wake",
+        "case": 501,
+        "death": 0
+      },
+      {
+        "county": "Warren",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Washington",
+        "case": 18,
+        "death": 2
+      },
+      {
+        "county": "Watauga",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Wayne",
+        "case": 78,
+        "death": 2
+      },
+      {
+        "county": "Wilkes",
+        "case": 4,
+        "death": 1
+      },
+      {
+        "county": "Wilson",
+        "case": 74,
+        "death": 3
+      },
+      {
+        "county": "Yadkin",
+        "case": 11,
+        "death": 0
+      }
+    ]
   }
 ]
