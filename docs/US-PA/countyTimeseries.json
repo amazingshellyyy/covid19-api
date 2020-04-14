@@ -13598,5 +13598,345 @@
         "death": 3
       }
     ]
+  },
+  {
+    "timeStamp": 1586874704237,
+    "data": [
+      {
+        "county": "Adams",
+        "case": 56,
+        "death": 1
+      },
+      {
+        "county": "Allegheny",
+        "case": 876,
+        "death": 21
+      },
+      {
+        "county": "Armstrong",
+        "case": 28,
+        "death": 1
+      },
+      {
+        "county": "Beaver",
+        "case": 153,
+        "death": 13
+      },
+      {
+        "county": "Bedford",
+        "case": 5,
+        "death": 1
+      },
+      {
+        "county": "Berks",
+        "case": 1150,
+        "death": 21
+      },
+      {
+        "county": "Blair",
+        "case": 11,
+        "death": 0
+      },
+      {
+        "county": "Bradford",
+        "case": 19,
+        "death": 0
+      },
+      {
+        "county": "Bucks",
+        "case": 1177,
+        "death": 36
+      },
+      {
+        "county": "Butler",
+        "case": 143,
+        "death": 4
+      },
+      {
+        "county": "Cambria",
+        "case": 14,
+        "death": 1
+      },
+      {
+        "county": "Cameron",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Carbon",
+        "case": 102,
+        "death": 3
+      },
+      {
+        "county": "Centre",
+        "case": 70,
+        "death": 0
+      },
+      {
+        "county": "Chester",
+        "case": 593,
+        "death": 17
+      },
+      {
+        "county": "Clarion",
+        "case": 16,
+        "death": 0
+      },
+      {
+        "county": "Clearfield",
+        "case": 9,
+        "death": 0
+      },
+      {
+        "county": "Clinton",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Columbia",
+        "case": 113,
+        "death": 3
+      },
+      {
+        "county": "Crawford",
+        "case": 16,
+        "death": 0
+      },
+      {
+        "county": "Cumberland",
+        "case": 122,
+        "death": 3
+      },
+      {
+        "county": "Dauphin",
+        "case": 240,
+        "death": 4
+      },
+      {
+        "county": "Delaware",
+        "case": 1712,
+        "death": 40
+      },
+      {
+        "county": "Elk",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Erie",
+        "case": 39,
+        "death": 0
+      },
+      {
+        "county": "Fayette",
+        "case": 57,
+        "death": 3
+      },
+      {
+        "county": "Forest",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Franklin",
+        "case": 66,
+        "death": 0
+      },
+      {
+        "county": "Fulton",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Greene",
+        "case": 23,
+        "death": 0
+      },
+      {
+        "county": "Huntingdon",
+        "case": 11,
+        "death": 0
+      },
+      {
+        "county": "Indiana",
+        "case": 43,
+        "death": 0
+      },
+      {
+        "county": "Jefferson",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Juniata",
+        "case": 39,
+        "death": 0
+      },
+      {
+        "county": "Lackawanna",
+        "case": 459,
+        "death": 21
+      },
+      {
+        "county": "Lancaster",
+        "case": 828,
+        "death": 24
+      },
+      {
+        "county": "Lawrence",
+        "case": 51,
+        "death": 4
+      },
+      {
+        "county": "Lebanon",
+        "case": 284,
+        "death": 2
+      },
+      {
+        "county": "Lehigh",
+        "case": 1747,
+        "death": 19
+      },
+      {
+        "county": "Luzerne",
+        "case": 1446,
+        "death": 21
+      },
+      {
+        "county": "Lycoming",
+        "case": 28,
+        "death": 0
+      },
+      {
+        "county": "McKean",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Mercer",
+        "case": 43,
+        "death": 0
+      },
+      {
+        "county": "Mifflin",
+        "case": 17,
+        "death": 0
+      },
+      {
+        "county": "Monroe",
+        "case": 816,
+        "death": 24
+      },
+      {
+        "county": "Montgomery",
+        "case": 2285,
+        "death": 65
+      },
+      {
+        "county": "Montour",
+        "case": 39,
+        "death": 0
+      },
+      {
+        "county": "Northampton",
+        "case": 1130,
+        "death": 23
+      },
+      {
+        "county": "Northumberland",
+        "case": 40,
+        "death": 0
+      },
+      {
+        "county": "Perry",
+        "case": 17,
+        "death": 1
+      },
+      {
+        "county": "Philadelphia",
+        "case": 6810,
+        "death": 127
+      },
+      {
+        "county": "Pike",
+        "case": 221,
+        "death": 6
+      },
+      {
+        "county": "Potter",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Schuylkill",
+        "case": 192,
+        "death": 2
+      },
+      {
+        "county": "Snyder",
+        "case": 23,
+        "death": 1
+      },
+      {
+        "county": "Somerset",
+        "case": 13,
+        "death": 0
+      },
+      {
+        "county": "Sullivan",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Susquehanna",
+        "case": 31,
+        "death": 1
+      },
+      {
+        "county": "Tioga",
+        "case": 14,
+        "death": 1
+      },
+      {
+        "county": "Union",
+        "case": 21,
+        "death": 0
+      },
+      {
+        "county": "Venango",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Warren",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Washington",
+        "case": 69,
+        "death": 0
+      },
+      {
+        "county": "Wayne",
+        "case": 67,
+        "death": 1
+      },
+      {
+        "county": "Westmoreland",
+        "case": 228,
+        "death": 6
+      },
+      {
+        "county": "Wyoming",
+        "case": 12,
+        "death": 0
+      },
+      {
+        "county": "York",
+        "case": 331,
+        "death": 3
+      }
+    ]
   }
 ]
