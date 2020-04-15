@@ -22273,5 +22273,460 @@
         "death": 868
       }
     ]
+  },
+  {
+    "timeStamp": 1586910713322,
+    "data": [
+      {
+        "county": "Adams",
+        "case": 27,
+        "death": 0
+      },
+      {
+        "county": "Bond",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Boone",
+        "case": 12,
+        "death": 1
+      },
+      {
+        "county": "Bureau",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Calhoun",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Carroll",
+        "case": 4,
+        "death": 1
+      },
+      {
+        "county": "Champaign",
+        "case": 86,
+        "death": 2
+      },
+      {
+        "county": "Christian",
+        "case": 21,
+        "death": 3
+      },
+      {
+        "county": "Clark",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Clay",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Clinton",
+        "case": 38,
+        "death": 0
+      },
+      {
+        "county": "Coles",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Cook",
+        "case": 15744,
+        "death": 577
+      },
+      {
+        "county": "Crawford",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Cumberland",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "DeKalb",
+        "case": 34,
+        "death": 1
+      },
+      {
+        "county": "DeWitt",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Douglas",
+        "case": 11,
+        "death": 0
+      },
+      {
+        "county": "DuPage",
+        "case": 1251,
+        "death": 61
+      },
+      {
+        "county": "Effingham",
+        "case": 2,
+        "death": 1
+      },
+      {
+        "county": "Fayette",
+        "case": 11,
+        "death": 1
+      },
+      {
+        "county": "Ford",
+        "case": 3,
+        "death": 1
+      },
+      {
+        "county": "Franklin",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Fulton",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Gallatin",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Greene",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Grundy",
+        "case": 24,
+        "death": 0
+      },
+      {
+        "county": "Hancock",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Henry",
+        "case": 23,
+        "death": 0
+      },
+      {
+        "county": "Iroquois",
+        "case": 9,
+        "death": 0
+      },
+      {
+        "county": "Jackson",
+        "case": 32,
+        "death": 3
+      },
+      {
+        "county": "Jasper",
+        "case": 2,
+        "death": 1
+      },
+      {
+        "county": "Jefferson",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Jersey",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Jo Daviess",
+        "case": 11,
+        "death": 0
+      },
+      {
+        "county": "Johnson",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Kane",
+        "case": 424,
+        "death": 24
+      },
+      {
+        "county": "Kankakee",
+        "case": 210,
+        "death": 10
+      },
+      {
+        "county": "Kendall",
+        "case": 112,
+        "death": 2
+      },
+      {
+        "county": "Knox",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Lake",
+        "case": 1563,
+        "death": 58
+      },
+      {
+        "county": "LaSalle",
+        "case": 22,
+        "death": 1
+      },
+      {
+        "county": "Lawrence",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Lee",
+        "case": 13,
+        "death": 0
+      },
+      {
+        "county": "Livingston",
+        "case": 17,
+        "death": 0
+      },
+      {
+        "county": "Logan",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Macon",
+        "case": 44,
+        "death": 1
+      },
+      {
+        "county": "Macoupin",
+        "case": 16,
+        "death": 0
+      },
+      {
+        "county": "Madison",
+        "case": 126,
+        "death": 2
+      },
+      {
+        "county": "Marion",
+        "case": 14,
+        "death": 0
+      },
+      {
+        "county": "Marshall",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Mason",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Massac",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "McDonough",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "McHenry",
+        "case": 249,
+        "death": 8
+      },
+      {
+        "county": "McLean",
+        "case": 79,
+        "death": 2
+      },
+      {
+        "county": "Menard",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Mercer",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Monroe",
+        "case": 44,
+        "death": 3
+      },
+      {
+        "county": "Montgomery",
+        "case": 8,
+        "death": 1
+      },
+      {
+        "county": "Morgan",
+        "case": 10,
+        "death": 1
+      },
+      {
+        "county": "Moultrie",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Ogle",
+        "case": 26,
+        "death": 0
+      },
+      {
+        "county": "Peoria",
+        "case": 30,
+        "death": 1
+      },
+      {
+        "county": "Perry",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Piatt",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Pike",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Pulaski",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Randolph",
+        "case": 41,
+        "death": 0
+      },
+      {
+        "county": "Richland",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Rock Island",
+        "case": 110,
+        "death": 3
+      },
+      {
+        "county": "Saline",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Sangamon",
+        "case": 47,
+        "death": 3
+      },
+      {
+        "county": "Schuyler",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Shelby",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "St. Clair",
+        "case": 212,
+        "death": 8
+      },
+      {
+        "county": "Stark",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Stephenson",
+        "case": 9,
+        "death": 0
+      },
+      {
+        "county": "Tazewell",
+        "case": 18,
+        "death": 3
+      },
+      {
+        "county": "Vermilion",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Wabash",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Warren",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Washington",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Whiteside",
+        "case": 28,
+        "death": 2
+      },
+      {
+        "county": "Will",
+        "case": 1273,
+        "death": 77
+      },
+      {
+        "county": "Williamson",
+        "case": 10,
+        "death": 0
+      },
+      {
+        "county": "Winnebago",
+        "case": 97,
+        "death": 4
+      },
+      {
+        "county": "Woodford",
+        "case": 10,
+        "death": 0
+      },
+      {
+        "county": "Unknown County",
+        "case": 53,
+        "death": 1
+      },
+      {
+        "county": "Total",
+        "case": 22377,
+        "death": 868
+      }
+    ]
   }
 ]
