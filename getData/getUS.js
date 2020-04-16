@@ -47,6 +47,13 @@ request({
       timeStamp: getCurrentTime(),
       data: newData
     }
+    fs.writeFile(path.join(__dirname, '../docs/US/current.json'), JSON.stringify(timeseriesData, null, 2), function(err) {
+        if(err) {
+            console.log(err);
+        } else {
+            console.log('finish writing current file')
+        }
+    })
     covidData.push(timeseriesData);
     covidData.sort((a,b)=> (a.timeStamp > b.timeStamp)? 1 : -1 )
     fs.writeFile(path.join(__dirname, '../docs/US/statesTimeseries.json'), JSON.stringify(covidData, null, 2), function (err) {

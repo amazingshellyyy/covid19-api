@@ -1,1 +1,1 @@
-const { getCountyData } = require('./getData.js');
+const { getCountyData, successCallback, failureCallback } = require('./getData.js');

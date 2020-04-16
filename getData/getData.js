@@ -44,7 +44,7 @@ const getCountyData = (stateCode, url, selector, countyIndex, caseIndex, deathIn
                             data.push($(el).ignore("sup").text());
                         }
                     })
-                    console.log('data',data)
+                    // console.log('data',data)
                     let newData = [];
                     data.forEach(county => {
                         const datastr = JSON.stringify(county).split('\\n');
@@ -67,6 +67,13 @@ const getCountyData = (stateCode, url, selector, countyIndex, caseIndex, deathIn
                         timeStamp: getCurrentTime(),
                         data: newData
                     }
+                    fs.writeFile(path.join(__dirname, `../docs/US-${stateCode}/current.json`), JSON.stringify(timeseriesData, null, 2), function(err) {
+                        if(err) {
+                            return reject(err)
+                        } else {
+                            console.log('finish writing current file')
+                        }
+                    })
                     covidData.push(timeseriesData);
                     covidData.sort((a, b) => (a.timeStamp > b.timeStamp) ? 1 : -1)
                     fs.writeFile(path.join(__dirname, `../docs/US-${stateCode}/countyTimeseries.json`), JSON.stringify(covidData, null, 2), function (err) {
