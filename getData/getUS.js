@@ -22,7 +22,7 @@ request({
     };
     const rows = $('.sortable tbody tr[class!=sortbottom]')
       rows.each((index, el) => {
-        if (index < rows.length && index > 1) {
+        if (index < rows.length && index > 2) {
           data.push($(el).ignore("sup").text());
         }
       })
