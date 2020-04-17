@@ -1,20 +1,20 @@
 {
-  "timeStamp": 1587097927590,
+  "timeStamp": 1587101503611,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 10496,
-      "death": 402
+      "case": 10854,
+      "death": 455
     },
     {
       "county": "Riverside",
-      "case": 2105,
-      "death": 54
+      "case": 2264,
+      "death": 59
     },
     {
       "county": "San Diego",
-      "case": 2012,
-      "death": 60
+      "case": 2087,
+      "death": 63
     },
     {
       "county": "Santa Clara",
@@ -23,38 +23,38 @@
     },
     {
       "county": "Orange",
-      "case": 1376,
-      "death": 22
+      "case": 1425,
+      "death": 25
     },
     {
       "county": "San Francisco",
-      "case": 1017,
+      "case": 1019,
       "death": 17
     },
     {
       "county": "San Bernardino",
-      "case": 996,
-      "death": 39
+      "case": 1032,
+      "death": 47
     },
     {
       "county": "Alameda",
-      "case": 962,
-      "death": 36
+      "case": 1007,
+      "death": 39
     },
     {
       "county": "Sacramento",
-      "case": 853,
+      "case": 879,
       "death": 32
     },
     {
       "county": "San Mateo",
-      "case": 767,
-      "death": 21
+      "case": 797,
+      "death": 28
     },
     {
       "county": "Contra Costa",
-      "case": 615,
-      "death": 14
+      "case": 631,
+      "death": 16
     },
     {
       "county": "Kern",
@@ -68,13 +68,13 @@
     },
     {
       "county": "San Joaquin",
-      "case": 335,
+      "case": 369,
       "death": 17
     },
     {
       "county": "Santa Barbara",
-      "case": 334,
-      "death": 2
+      "case": 354,
+      "death": 3
     },
     {
       "county": "Tulare",
