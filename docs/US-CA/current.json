@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1587101503611,
+  "timeStamp": 1587105117649,
   "data": [
     {
       "county": "Los Angeles",
@@ -67,6 +67,11 @@
       "death": 13
     },
     {
+      "county": "Tulare",
+      "case": 372,
+      "death": 17
+    },
+    {
       "county": "San Joaquin",
       "case": 369,
       "death": 17
@@ -75,11 +80,6 @@
       "county": "Santa Barbara",
       "case": 354,
       "death": 3
-    },
-    {
-      "county": "Tulare",
-      "case": 372,
-      "death": 17
     },
     {
       "county": "Fresno",
@@ -103,17 +103,17 @@
     },
     {
       "county": "Solano",
-      "case": 141,
+      "case": 156,
       "death": 2
     },
     {
       "county": "Placer",
-      "case": 128,
-      "death": 5
+      "case": 130,
+      "death": 8
     },
     {
       "county": "San Luis Obispo",
-      "case": 124,
+      "case": 125,
       "death": 1
     },
     {
