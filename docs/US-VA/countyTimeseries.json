@@ -67988,5 +67988,630 @@
         "death": 35
       }
     ]
+  },
+  {
+    "timeStamp": 1587144712207,
+    "data": [
+      {
+        "county": "Accomack County",
+        "case": 32316,
+        "death": 15
+      },
+      {
+        "county": "Albemarle County",
+        "case": 109330,
+        "death": 50
+      },
+      {
+        "county": "Alexandria (city)",
+        "case": 159428,
+        "death": 247
+      },
+      {
+        "county": "Alleghany County",
+        "case": 14860,
+        "death": 4
+      },
+      {
+        "county": "Amelia County",
+        "case": 13145,
+        "death": 9
+      },
+      {
+        "county": "Amherst County",
+        "case": 31605,
+        "death": 10
+      },
+      {
+        "county": "Appomattox County",
+        "case": 15911,
+        "death": 7
+      },
+      {
+        "county": "Arlington County",
+        "case": 236842,
+        "death": 401
+      },
+      {
+        "county": "Augusta County",
+        "case": 75558,
+        "death": 17
+      },
+      {
+        "county": "Bedford County",
+        "case": 78997,
+        "death": 16
+      },
+      {
+        "county": "Botetourt County",
+        "case": 78997,
+        "death": 23
+      },
+      {
+        "county": "Bristol (city)",
+        "case": 16762,
+        "death": 1
+      },
+      {
+        "county": "Brunswick County",
+        "case": 16231,
+        "death": 9
+      },
+      {
+        "county": "Buchanan County",
+        "case": 21004,
+        "death": 12
+      },
+      {
+        "county": "Buckingham County",
+        "case": 17148,
+        "death": 18
+      },
+      {
+        "county": "Buena Vista (city)",
+        "case": 6478,
+        "death": 4
+      },
+      {
+        "county": "Campbell County",
+        "case": 54885,
+        "death": 11
+      },
+      {
+        "county": "Carroll County",
+        "case": 29791,
+        "death": 3
+      },
+      {
+        "county": "Caroline County",
+        "case": 30725,
+        "death": 7
+      },
+      {
+        "county": "Charles City County",
+        "case": 6963,
+        "death": 9
+      },
+      {
+        "county": "Charlotte County",
+        "case": 11880,
+        "death": 4
+      },
+      {
+        "county": "Charlottesville (city)",
+        "case": 47266,
+        "death": 36
+      },
+      {
+        "county": "Chesapeake (city)",
+        "case": 244835,
+        "death": 136
+      },
+      {
+        "county": "Chesterfield County",
+        "case": 352802,
+        "death": 241
+      },
+      {
+        "county": "Clarke County",
+        "case": 14619,
+        "death": 5
+      },
+      {
+        "county": "Colonial Heights (city)",
+        "case": 17370,
+        "death": 16
+      },
+      {
+        "county": "Covington (city)",
+        "case": 5538,
+        "death": 1
+      },
+      {
+        "county": "Craig County",
+        "case": 5131,
+        "death": 2
+      },
+      {
+        "county": "Culpeper County",
+        "case": 52605,
+        "death": 24
+      },
+      {
+        "county": "Cumberland County",
+        "case": 9932,
+        "death": 8
+      },
+      {
+        "county": "Danville (city)",
+        "case": 40044,
+        "death": 22
+      },
+      {
+        "county": "Dinwiddie County",
+        "case": 28544,
+        "death": 7
+      },
+      {
+        "county": "Emporia (city)",
+        "case": 5346,
+        "death": 8
+      },
+      {
+        "county": "Fairfax (city)",
+        "case": 24019,
+        "death": 1
+      },
+      {
+        "county": "Fairfax County",
+        "case": 1147532,
+        "death": 1207
+      },
+      {
+        "county": "Falls Church (city)",
+        "case": 14617,
+        "death": 2
+      },
+      {
+        "county": "Fauquier County",
+        "case": 71222,
+        "death": 28
+      },
+      {
+        "county": "Floyd County",
+        "case": 15749,
+        "death": 1
+      },
+      {
+        "county": "Fluvanna County",
+        "case": 27270,
+        "death": 40
+      },
+      {
+        "county": "Franklin (city)",
+        "case": 7967,
+        "death": 7
+      },
+      {
+        "county": "Franklin County",
+        "case": 56042,
+        "death": 15
+      },
+      {
+        "county": "Frederick County",
+        "case": 89313,
+        "death": 71
+      },
+      {
+        "county": "Fredericksburg (city)",
+        "case": 29036,
+        "death": 14
+      },
+      {
+        "county": "Galax (city)",
+        "case": 6347,
+        "death": 1
+      },
+      {
+        "county": "Giles County",
+        "case": 16720,
+        "death": 4
+      },
+      {
+        "county": "Gloucester County",
+        "case": 37348,
+        "death": 20
+      },
+      {
+        "county": "Goochland County",
+        "case": 23753,
+        "death": 39
+      },
+      {
+        "county": "Greene County",
+        "case": 19819,
+        "death": 5
+      },
+      {
+        "county": "Greensville County",
+        "case": 11336,
+        "death": 15
+      },
+      {
+        "county": "Halifax County",
+        "case": 33911,
+        "death": 7
+      },
+      {
+        "county": "Hampton (city)",
+        "case": 134510,
+        "death": 73
+      },
+      {
+        "county": "Hanover County",
+        "case": 107766,
+        "death": 52
+      },
+      {
+        "county": "Harrisonburg (city)",
+        "case": 53016,
+        "death": 95
+      },
+      {
+        "county": "Henrico County",
+        "case": 330818,
+        "death": 432
+      },
+      {
+        "county": "Henry County",
+        "case": 50557,
+        "death": 8
+      },
+      {
+        "county": "Hopewell (city)",
+        "case": 22529,
+        "death": 14
+      },
+      {
+        "county": "Isle of Wight County",
+        "case": 37109,
+        "death": 60
+      },
+      {
+        "county": "James City County",
+        "case": 76523,
+        "death": 128
+      },
+      {
+        "county": "King and Queen County",
+        "case": 7025,
+        "death": 2
+      },
+      {
+        "county": "King George County",
+        "case": 26836,
+        "death": 16
+      },
+      {
+        "county": "King William County",
+        "case": 17148,
+        "death": 2
+      },
+      {
+        "county": "Lancaster County",
+        "case": 10603,
+        "death": 1
+      },
+      {
+        "county": "Lee County",
+        "case": 23423,
+        "death": 6
+      },
+      {
+        "county": "Lexington (city)",
+        "case": 7446,
+        "death": 3
+      },
+      {
+        "county": "Louisa County",
+        "case": 37591,
+        "death": 27
+      },
+      {
+        "county": "Loudoun County",
+        "case": 413538,
+        "death": 344
+      },
+      {
+        "county": "Lunenburg County",
+        "case": 12196,
+        "death": 3
+      },
+      {
+        "county": "Lynchburg (city)",
+        "case": 82168,
+        "death": 33
+      },
+      {
+        "county": "Madison County",
+        "case": 13261,
+        "death": 7
+      },
+      {
+        "county": "Manassas (city)",
+        "case": 41085,
+        "death": 49
+      },
+      {
+        "county": "Manassas Park (city)",
+        "case": 17478,
+        "death": 13
+      },
+      {
+        "county": "Mathews County",
+        "case": 8834,
+        "death": 3
+      },
+      {
+        "county": "Middlesex County",
+        "case": 10582,
+        "death": 3
+      },
+      {
+        "county": "Mecklenburg County",
+        "case": 30587,
+        "death": 57
+      },
+      {
+        "county": "Montgomery County",
+        "case": 98535,
+        "death": 33
+      },
+      {
+        "county": "Nelson County",
+        "case": 14930,
+        "death": 5
+      },
+      {
+        "county": "New Kent County",
+        "case": 23091,
+        "death": 15
+      },
+      {
+        "county": "Newport News (city)",
+        "case": 179225,
+        "death": 93
+      },
+      {
+        "county": "Norfolk (city)",
+        "case": 242742,
+        "death": 97
+      },
+      {
+        "county": "Northampton County",
+        "case": 11710,
+        "death": 4
+      },
+      {
+        "county": "Northumberland County",
+        "case": 12095,
+        "death": 4
+      },
+      {
+        "county": "Nottoway County",
+        "case": 15232,
+        "death": 5
+      },
+      {
+        "county": "Orange County",
+        "case": 37051,
+        "death": 15
+      },
+      {
+        "county": "Page County",
+        "case": 23902,
+        "death": 6
+      },
+      {
+        "county": "Petersburg (city)",
+        "case": 31346,
+        "death": 19
+      },
+      {
+        "county": "Pittsylvania County",
+        "case": 60354,
+        "death": 4
+      },
+      {
+        "county": "Poquoson (city)",
+        "case": 12271,
+        "death": 6
+      },
+      {
+        "county": "Portsmouth (city)",
+        "case": 94398,
+        "death": 59
+      },
+      {
+        "county": "Powhatan County",
+        "case": 29652,
+        "death": 5
+      },
+      {
+        "county": "Prince Edward County",
+        "case": 22802,
+        "death": 13
+      },
+      {
+        "county": "Prince George County",
+        "case": 38353,
+        "death": 27
+      },
+      {
+        "county": "Prince William County",
+        "case": 470335,
+        "death": 582
+      },
+      {
+        "county": "Pulaski County",
+        "case": 34027,
+        "death": 4
+      },
+      {
+        "county": "Radford (city)",
+        "case": 18249,
+        "death": 1
+      },
+      {
+        "county": "Rappahannock County",
+        "case": 7370,
+        "death": 1
+      },
+      {
+        "county": "Richmond (city)",
+        "case": 230436,
+        "death": 175
+      },
+      {
+        "county": "Richmond County",
+        "case": 9023,
+        "death": 7
+      },
+      {
+        "county": "Roanoke (city)",
+        "case": 99143,
+        "death": 21
+      },
+      {
+        "county": "Roanoke County",
+        "case": 94186,
+        "death": 16
+      },
+      {
+        "county": "Rockbridge County",
+        "case": 22573,
+        "death": 3
+      },
+      {
+        "county": "Rockingham County",
+        "case": 81948,
+        "death": 56
+      },
+      {
+        "county": "Russell County",
+        "case": 26586,
+        "death": 2
+      },
+      {
+        "county": "Salem (city)",
+        "case": 25301,
+        "death": 3
+      },
+      {
+        "county": "Scott County",
+        "case": 21566,
+        "death": 3
+      },
+      {
+        "county": "Shenandoah County",
+        "case": 43616,
+        "death": 23
+      },
+      {
+        "county": "Smyth County",
+        "case": 30104,
+        "death": 11
+      },
+      {
+        "county": "Southampton County",
+        "case": 17631,
+        "death": 6
+      },
+      {
+        "county": "Spotsylvania County",
+        "case": 136215,
+        "death": 56
+      },
+      {
+        "county": "Stafford County",
+        "case": 152882,
+        "death": 95
+      },
+      {
+        "county": "Staunton (city)",
+        "case": 24932,
+        "death": 2
+      },
+      {
+        "county": "Suffolk (city)",
+        "case": 92108,
+        "death": 57
+      },
+      {
+        "county": "Surry County",
+        "case": 6422,
+        "death": 3
+      },
+      {
+        "county": "Sussex County",
+        "case": 11159,
+        "death": 8
+      },
+      {
+        "county": "Tazewell County",
+        "case": 40595,
+        "death": 4
+      },
+      {
+        "county": "Virginia Beach (city)",
+        "case": 449974,
+        "death": 252
+      },
+      {
+        "county": "Warren County",
+        "case": 40164,
+        "death": 19
+      },
+      {
+        "county": "Washington County",
+        "case": 53740,
+        "death": 27
+      },
+      {
+        "county": "Waynesboro (city)",
+        "case": 22630,
+        "death": 6
+      },
+      {
+        "county": "Westmoreland County",
+        "case": 18015,
+        "death": 8
+      },
+      {
+        "county": "Williamsburg (city)",
+        "case": 14954,
+        "death": 20
+      },
+      {
+        "county": "Winchester (city)",
+        "case": 28078,
+        "death": 20
+      },
+      {
+        "county": "Wise County",
+        "case": 37383,
+        "death": 14
+      },
+      {
+        "county": "Wythe County",
+        "case": 28684,
+        "death": 7
+      },
+      {
+        "county": "York County",
+        "case": 68280,
+        "death": 35
+      }
+    ]
   }
 ]
