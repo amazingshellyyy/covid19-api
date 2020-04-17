@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1587087118404,
+  "timeStamp": 1587092504565,
   "data": [
     {
       "county": "Los Angeles",
@@ -78,22 +78,22 @@
     },
     {
       "county": "Tulare",
-      "case": 352,
-      "death": 15
+      "case": 372,
+      "death": 17
     },
     {
       "county": "Fresno",
-      "case": 265,
+      "case": 295,
       "death": 7
     },
     {
       "county": "Marin",
-      "case": 184,
+      "case": 187,
       "death": 10
     },
     {
       "county": "Stanislaus",
-      "case": 177,
+      "case": 187,
       "death": 4
     },
     {
@@ -138,7 +138,7 @@
     },
     {
       "county": "Merced",
-      "case": 78,
+      "case": 79,
       "death": 3
     },
     {
