@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1587144712835,
+  "timeStamp": 1587148322880,
   "data": [
     {
       "county": "Los Angeles",
@@ -28,8 +28,8 @@
     },
     {
       "county": "San Francisco",
-      "case": 1019,
-      "death": 17
+      "case": 1058,
+      "death": 20
     },
     {
       "county": "San Bernardino",
@@ -133,7 +133,7 @@
     },
     {
       "county": "Santa Cruz",
-      "case": 96,
+      "case": 98,
       "death": 2
     },
     {
