@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1587241910505,
+  "timeStamp": 1587245514392,
   "data": [
     {
       "county": "Los Angeles",
@@ -23,8 +23,8 @@
     },
     {
       "county": "Orange",
-      "case": 1501,
-      "death": 28
+      "case": 1556,
+      "death": 32
     },
     {
       "county": "San Francisco",
@@ -68,7 +68,7 @@
     },
     {
       "county": "Tulare",
-      "case": 382,
+      "case": 397,
       "death": 17
     },
     {
