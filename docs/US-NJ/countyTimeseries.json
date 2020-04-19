@@ -19663,5 +19663,120 @@
         "death": 2
       }
     ]
+  },
+  {
+    "timeStamp": 1587267111378,
+    "data": [
+      {
+        "county": "Atlantic",
+        "case": 284,
+        "death": 11
+      },
+      {
+        "county": "Bergen",
+        "case": 10426,
+        "death": 550
+      },
+      {
+        "county": "Burlington",
+        "case": 1207,
+        "death": 28
+      },
+      {
+        "county": "Camden",
+        "case": 1477,
+        "death": 41
+      },
+      {
+        "county": "Cape May",
+        "case": 169,
+        "death": 10
+      },
+      {
+        "county": "Cumberland",
+        "case": 201,
+        "death": 3
+      },
+      {
+        "county": "Essex",
+        "case": 8212,
+        "death": 535
+      },
+      {
+        "county": "Gloucester",
+        "case": 587,
+        "death": 11
+      },
+      {
+        "county": "Hudson",
+        "case": 8242,
+        "death": 277
+      },
+      {
+        "county": "Hunterdon",
+        "case": 349,
+        "death": 11
+      },
+      {
+        "county": "Mercer",
+        "case": 1731,
+        "death": 71
+      },
+      {
+        "county": "Middlesex",
+        "case": 6313,
+        "death": 216
+      },
+      {
+        "county": "Monmouth",
+        "case": 4003,
+        "death": 145
+      },
+      {
+        "county": "Morris",
+        "case": 3424,
+        "death": 192
+      },
+      {
+        "county": "Ocean",
+        "case": 3833,
+        "death": 149
+      },
+      {
+        "county": "Passaic",
+        "case": 6438,
+        "death": 156
+      },
+      {
+        "county": "Salem",
+        "case": 73,
+        "death": 4
+      },
+      {
+        "county": "Somerset",
+        "case": 1911,
+        "death": 91
+      },
+      {
+        "county": "Sussex",
+        "case": 535,
+        "death": 39
+      },
+      {
+        "county": "Union",
+        "case": 7265,
+        "death": 238
+      },
+      {
+        "county": "Warren",
+        "case": 442,
+        "death": 25
+      },
+      {
+        "county": "Under investigation",
+        "case": 1702,
+        "death": 2
+      }
+    ]
   }
 ]
