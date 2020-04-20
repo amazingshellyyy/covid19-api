@@ -1,10 +1,10 @@
 {
-  "timeStamp": 1587342703368,
+  "timeStamp": 1587346307964,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 11391,
-      "death": 495
+      "case": 12341,
+      "death": 600
     },
     {
       "county": "Riverside",
@@ -28,7 +28,7 @@
     },
     {
       "county": "San Francisco",
-      "case": 1137,
+      "case": 1157,
       "death": 20
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "county": "San Mateo",
-      "case": 797,
+      "case": 838,
       "death": 28
     },
     {
