@@ -9148,5 +9148,55 @@
         "death": 4
       }
     ]
+  },
+  {
+    "timeStamp": 1587404018319,
+    "data": [
+      {
+        "county": "Fairfield",
+        "case": 6213,
+        "death": 287
+      },
+      {
+        "county": "Hartford",
+        "case": 2370,
+        "death": 153
+      },
+      {
+        "county": "Litchfield",
+        "case": 460,
+        "death": 29
+      },
+      {
+        "county": "Middlesex",
+        "case": 355,
+        "death": 21
+      },
+      {
+        "county": "New Haven",
+        "case": 3543,
+        "death": 151
+      },
+      {
+        "county": "New London",
+        "case": 227,
+        "death": 7
+      },
+      {
+        "county": "Tolland",
+        "case": 201,
+        "death": 18
+      },
+      {
+        "county": "Windham",
+        "case": 87,
+        "death": 1
+      },
+      {
+        "county": "Pending address validation",
+        "case": 533,
+        "death": 4
+      }
+    ]
   }
 ]
