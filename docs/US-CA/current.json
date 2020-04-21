@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1587432710413,
+  "timeStamp": 1587436319089,
   "data": [
     {
       "county": "Los Angeles",
@@ -32,14 +32,14 @@
       "death": 60
     },
     {
-      "county": "Alameda",
-      "case": 1191,
-      "death": 42
-    },
-    {
       "county": "San Francisco",
       "case": 1216,
       "death": 20
+    },
+    {
+      "county": "Alameda",
+      "case": 1191,
+      "death": 42
     },
     {
       "county": "Sacramento",
@@ -108,12 +108,12 @@
     },
     {
       "county": "Imperial",
-      "case": 160,
-      "death": 3
+      "case": 175,
+      "death": 4
     },
     {
       "county": "Monterey",
-      "case": 141,
+      "case": 148,
       "death": 4
     },
     {
