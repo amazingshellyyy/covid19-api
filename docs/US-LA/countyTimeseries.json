@@ -67318,5 +67318,335 @@
         "death": 884
       }
     ]
+  },
+  {
+    "timeStamp": 1587468721004,
+    "data": [
+      {
+        "county": "Acadia",
+        "case": 4,
+        "death": 101
+      },
+      {
+        "county": "Allen",
+        "case": 5,
+        "death": 74
+      },
+      {
+        "county": "Ascension",
+        "case": 2,
+        "death": 432
+      },
+      {
+        "county": "Assumption",
+        "case": 3,
+        "death": 120
+      },
+      {
+        "county": "Avoyelles",
+        "case": 6,
+        "death": 64
+      },
+      {
+        "county": "Beauregard",
+        "case": 5,
+        "death": 28
+      },
+      {
+        "county": "Bienville",
+        "case": 7,
+        "death": 37
+      },
+      {
+        "county": "Bossier",
+        "case": 7,
+        "death": 188
+      },
+      {
+        "county": "Caddo",
+        "case": 7,
+        "death": 1033
+      },
+      {
+        "county": "Calcasieu",
+        "case": 5,
+        "death": 268
+      },
+      {
+        "county": "Caldwell",
+        "case": 8,
+        "death": 18
+      },
+      {
+        "county": "Cameron",
+        "case": 5,
+        "death": 2
+      },
+      {
+        "county": "Catahoula",
+        "case": 6,
+        "death": 21
+      },
+      {
+        "county": "Claiborne",
+        "case": 7,
+        "death": 41
+      },
+      {
+        "county": "Concordia",
+        "case": 6,
+        "death": 19
+      },
+      {
+        "county": "DeSoto",
+        "case": 7,
+        "death": 125
+      },
+      {
+        "county": "East Baton Rouge",
+        "case": 2,
+        "death": 1273
+      },
+      {
+        "county": "East Carroll",
+        "case": 8,
+        "death": 1
+      },
+      {
+        "county": "East Feliciana",
+        "case": 2,
+        "death": 73
+      },
+      {
+        "county": "Evangeline",
+        "case": 4,
+        "death": 38
+      },
+      {
+        "county": "Franklin",
+        "case": 8,
+        "death": 49
+      },
+      {
+        "county": "Grant",
+        "case": 6,
+        "death": 12
+      },
+      {
+        "county": "Iberia",
+        "case": 4,
+        "death": 142
+      },
+      {
+        "county": "Iberville",
+        "case": 2,
+        "death": 241
+      },
+      {
+        "county": "Jackson",
+        "case": 8,
+        "death": 8
+      },
+      {
+        "county": "Jefferson",
+        "case": 1,
+        "death": 5088
+      },
+      {
+        "county": "Jefferson Davis",
+        "case": 5,
+        "death": 47
+      },
+      {
+        "county": "LaSalle",
+        "case": 6,
+        "death": 13
+      },
+      {
+        "county": "Lafayette",
+        "case": 4,
+        "death": 360
+      },
+      {
+        "county": "Lafourche",
+        "case": 3,
+        "death": 481
+      },
+      {
+        "county": "Lincoln",
+        "case": 8,
+        "death": 39
+      },
+      {
+        "county": "Livingston",
+        "case": 9,
+        "death": 122
+      },
+      {
+        "county": "Madison",
+        "case": 8,
+        "death": 2
+      },
+      {
+        "county": "Morehouse",
+        "case": 8,
+        "death": 32
+      },
+      {
+        "county": "Natchitoches",
+        "case": 7,
+        "death": 41
+      },
+      {
+        "county": "Orleans",
+        "case": 1,
+        "death": 5651
+      },
+      {
+        "county": "Ouachita",
+        "case": 8,
+        "death": 384
+      },
+      {
+        "county": "Plaquemines",
+        "case": 1,
+        "death": 140
+      },
+      {
+        "county": "Pointe Coupee",
+        "case": 2,
+        "death": 47
+      },
+      {
+        "county": "Rapides",
+        "case": 6,
+        "death": 168
+      },
+      {
+        "county": "Red River",
+        "case": 7,
+        "death": 12
+      },
+      {
+        "county": "Richland",
+        "case": 8,
+        "death": 20
+      },
+      {
+        "county": "Sabine",
+        "case": 7,
+        "death": 9
+      },
+      {
+        "county": "St. Bernard",
+        "case": 1,
+        "death": 369
+      },
+      {
+        "county": "St. Charles",
+        "case": 3,
+        "death": 410
+      },
+      {
+        "county": "St. Helena",
+        "case": 9,
+        "death": 14
+      },
+      {
+        "county": "St. James",
+        "case": 3,
+        "death": 207
+      },
+      {
+        "county": "St. John the Baptist",
+        "case": 3,
+        "death": 556
+      },
+      {
+        "county": "St. Landry",
+        "case": 4,
+        "death": 114
+      },
+      {
+        "county": "St. Martin",
+        "case": 4,
+        "death": 162
+      },
+      {
+        "county": "St. Mary",
+        "case": 3,
+        "death": 127
+      },
+      {
+        "county": "St. Tammany",
+        "case": 9,
+        "death": 881
+      },
+      {
+        "county": "Tangipahoa",
+        "case": 9,
+        "death": 352
+      },
+      {
+        "county": "Tensas",
+        "case": 8,
+        "death": 1
+      },
+      {
+        "county": "Terrebonne",
+        "case": 3,
+        "death": 260
+      },
+      {
+        "county": "Union",
+        "case": 8,
+        "death": 48
+      },
+      {
+        "county": "Vermilion",
+        "case": 4,
+        "death": 26
+      },
+      {
+        "county": "Vernon",
+        "case": 6,
+        "death": 14
+      },
+      {
+        "county": "Washington",
+        "case": 9,
+        "death": 156
+      },
+      {
+        "county": "Webster",
+        "case": 7,
+        "death": 65
+      },
+      {
+        "county": "West Baton Rouge",
+        "case": 2,
+        "death": 72
+      },
+      {
+        "county": "West Carroll",
+        "case": 8,
+        "death": 4
+      },
+      {
+        "county": "West Feliciana",
+        "case": 2,
+        "death": 46
+      },
+      {
+        "county": "Winn",
+        "case": 6,
+        "death": 12
+      },
+      {
+        "county": "Totals",
+        "case": 21016,
+        "death": 884
+      }
+    ]
   }
 ]
