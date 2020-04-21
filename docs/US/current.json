@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1587494007512,
+  "timeStamp": 1587504795972,
   "data": [
     {
       "state": "Alabama",
@@ -23,13 +23,13 @@
     },
     {
       "state": "Arkansas",
-      "case": 1777,
-      "death": 38
+      "case": 2227,
+      "death": 43
     },
     {
       "state": "California",
-      "case": 28963,
-      "death": 1072
+      "case": 30978,
+      "death": 1208
     },
     {
       "state": "Colorado",
@@ -38,8 +38,8 @@
     },
     {
       "state": "Connecticut",
-      "case": 17550,
-      "death": 1086
+      "case": 20360,
+      "death": 1423
     },
     {
       "state": "Delaware",
@@ -53,8 +53,8 @@
     },
     {
       "state": "Florida",
-      "case": 25996,
-      "death": 764
+      "case": 27495,
+      "death": 839
     },
     {
       "state": "Georgia",
@@ -78,8 +78,8 @@
     },
     {
       "state": "Illinois",
-      "case": 30357,
-      "death": 1290
+      "case": 33059,
+      "death": 1468
     },
     {
       "state": "Indiana",
@@ -93,8 +93,8 @@
     },
     {
       "state": "Kansas",
-      "case": 1986,
-      "death": 100
+      "case": 2025,
+      "death": 107
     },
     {
       "state": "Kentucky",
@@ -118,13 +118,13 @@
     },
     {
       "state": "Massachusetts",
-      "case": 38077,
-      "death": 1706
+      "case": 41199,
+      "death": 1961
     },
     {
       "state": "Michigan",
-      "case": 31424,
-      "death": 2391
+      "case": 32967,
+      "death": 2700
     },
     {
       "state": "Minnesota",
@@ -163,8 +163,8 @@
     },
     {
       "state": "New Jersey",
-      "case": 85301,
-      "death": 4202
+      "case": 92387,
+      "death": 4735
     },
     {
       "state": "New Mexico",
@@ -173,8 +173,8 @@
     },
     {
       "state": "New York",
-      "case": 242786,
-      "death": 13869
+      "case": 251690,
+      "death": 14828
     },
     {
       "state": "North Carolina",
@@ -208,8 +208,8 @@
     },
     {
       "state": "Pennsylvania",
-      "case": 32284,
-      "death": 1112
+      "case": 34528,
+      "death": 1564
     },
     {
       "state": "Puerto Rico",
