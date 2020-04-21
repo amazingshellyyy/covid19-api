@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1587486307440,
+  "timeStamp": 1587494007512,
   "data": [
     {
       "state": "Alabama",
@@ -83,13 +83,13 @@
     },
     {
       "state": "Indiana",
-      "case": 11210,
-      "death": 562
+      "case": 12097,
+      "death": 630
     },
     {
       "state": "Iowa",
-      "case": 2902,
-      "death": 75
+      "case": 3641,
+      "death": 83
     },
     {
       "state": "Kansas",
@@ -278,8 +278,8 @@
     },
     {
       "state": "Wyoming",
-      "case": 309,
-      "death": 2
+      "case": 317,
+      "death": 6
     }
   ]
 }
