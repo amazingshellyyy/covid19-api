@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1587511927419,
+  "timeStamp": 1587515519703,
   "data": [
     {
       "county": "Los Angeles",
@@ -68,13 +68,13 @@
     },
     {
       "county": "Ventura",
-      "case": 428,
+      "case": 443,
       "death": 13
     },
     {
       "county": "Tulare",
-      "case": 422,
-      "death": 18
+      "case": 436,
+      "death": 22
     },
     {
       "county": "Santa Barbara",
@@ -118,7 +118,7 @@
     },
     {
       "county": "Yolo",
-      "case": 142,
+      "case": 146,
       "death": 10
     },
     {
