@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1587519127827,
+  "timeStamp": 1587524516681,
   "data": [
     {
       "county": "Los Angeles",
@@ -32,14 +32,14 @@
       "death": 67
     },
     {
-      "county": "San Francisco",
-      "case": 1231,
-      "death": 20
-    },
-    {
       "county": "Alameda",
       "case": 1239,
       "death": 43
+    },
+    {
+      "county": "San Francisco",
+      "case": 1231,
+      "death": 20
     },
     {
       "county": "Sacramento",
@@ -113,7 +113,7 @@
     },
     {
       "county": "Monterey",
-      "case": 148,
+      "case": 150,
       "death": 4
     },
     {
