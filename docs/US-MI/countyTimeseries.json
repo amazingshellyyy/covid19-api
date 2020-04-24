@@ -119503,5 +119503,425 @@
         "death": 2977
       }
     ]
+  },
+  {
+    "timeStamp": 1587706308139,
+    "data": [
+      {
+        "county": "Alcona",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Allegan",
+        "case": 56,
+        "death": 0
+      },
+      {
+        "county": "Alpena",
+        "case": 47,
+        "death": 1
+      },
+      {
+        "county": "Antrim",
+        "case": 9,
+        "death": 0
+      },
+      {
+        "county": "Arenac",
+        "case": 15,
+        "death": 1
+      },
+      {
+        "county": "Barry",
+        "case": 28,
+        "death": 1
+      },
+      {
+        "county": "Bay",
+        "case": 102,
+        "death": 2
+      },
+      {
+        "county": "Benzie",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Berrien",
+        "case": 189,
+        "death": 11
+      },
+      {
+        "county": "Branch",
+        "case": 44,
+        "death": 2
+      },
+      {
+        "county": "Calhoun",
+        "case": 177,
+        "death": 6
+      },
+      {
+        "county": "Cass",
+        "case": 23,
+        "death": 2
+      },
+      {
+        "county": "Charlevoix",
+        "case": 13,
+        "death": 1
+      },
+      {
+        "county": "Cheboygan",
+        "case": 14,
+        "death": 1
+      },
+      {
+        "county": "Chippewa",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Clare",
+        "case": 10,
+        "death": 1
+      },
+      {
+        "county": "Clinton",
+        "case": 105,
+        "death": 8
+      },
+      {
+        "county": "Crawford",
+        "case": 43,
+        "death": 2
+      },
+      {
+        "county": "Delta",
+        "case": 12,
+        "death": 2
+      },
+      {
+        "county": "Dickinson",
+        "case": 3,
+        "death": 2
+      },
+      {
+        "county": "Eaton",
+        "case": 111,
+        "death": 5
+      },
+      {
+        "county": "Emmet",
+        "case": 21,
+        "death": 2
+      },
+      {
+        "county": "Genesee",
+        "case": 1387,
+        "death": 144
+      },
+      {
+        "county": "Gladwin",
+        "case": 10,
+        "death": 1
+      },
+      {
+        "county": "Gogebic",
+        "case": 4,
+        "death": 1
+      },
+      {
+        "county": "Grand Traverse",
+        "case": 19,
+        "death": 5
+      },
+      {
+        "county": "Gratiot",
+        "case": 8,
+        "death": 1
+      },
+      {
+        "county": "Hillsdale",
+        "case": 98,
+        "death": 12
+      },
+      {
+        "county": "Houghton",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Huron",
+        "case": 10,
+        "death": 0
+      },
+      {
+        "county": "Ingham",
+        "case": 370,
+        "death": 9
+      },
+      {
+        "county": "Ionia",
+        "case": 32,
+        "death": 2
+      },
+      {
+        "county": "Iosco",
+        "case": 21,
+        "death": 3
+      },
+      {
+        "county": "Isabella",
+        "case": 54,
+        "death": 7
+      },
+      {
+        "county": "Jackson",
+        "case": 298,
+        "death": 14
+      },
+      {
+        "county": "Kalamazoo",
+        "case": 229,
+        "death": 11
+      },
+      {
+        "county": "Kalkaska",
+        "case": 17,
+        "death": 2
+      },
+      {
+        "county": "Kent",
+        "case": 815,
+        "death": 27
+      },
+      {
+        "county": "Lake",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Lapeer",
+        "case": 159,
+        "death": 23
+      },
+      {
+        "county": "Leelanau",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Lenawee",
+        "case": 80,
+        "death": 0
+      },
+      {
+        "county": "Livingston",
+        "case": 312,
+        "death": 11
+      },
+      {
+        "county": "Luce",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Mackinac",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Macomb",
+        "case": 4862,
+        "death": 493
+      },
+      {
+        "county": "Manistee",
+        "case": 12,
+        "death": 0
+      },
+      {
+        "county": "Marquette",
+        "case": 35,
+        "death": 6
+      },
+      {
+        "county": "Mason",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Mecosta",
+        "case": 13,
+        "death": 1
+      },
+      {
+        "county": "Menominee",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Midland",
+        "case": 51,
+        "death": 3
+      },
+      {
+        "county": "Missaukee",
+        "case": 12,
+        "death": 1
+      },
+      {
+        "county": "Monroe",
+        "case": 255,
+        "death": 10
+      },
+      {
+        "county": "Montcalm",
+        "case": 28,
+        "death": 1
+      },
+      {
+        "county": "Montmorency",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Muskegon",
+        "case": 186,
+        "death": 12
+      },
+      {
+        "county": "Newaygo",
+        "case": 12,
+        "death": 0
+      },
+      {
+        "county": "Oakland",
+        "case": 6634,
+        "death": 567
+      },
+      {
+        "county": "Oceana",
+        "case": 4,
+        "death": 1
+      },
+      {
+        "county": "Ogemaw",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Osceola",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Oscoda",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Otsego",
+        "case": 83,
+        "death": 6
+      },
+      {
+        "county": "Ottawa",
+        "case": 161,
+        "death": 7
+      },
+      {
+        "county": "Presque Isle",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Roscommon",
+        "case": 11,
+        "death": 0
+      },
+      {
+        "county": "Saginaw",
+        "case": 507,
+        "death": 38
+      },
+      {
+        "county": "Sanilac",
+        "case": 34,
+        "death": 4
+      },
+      {
+        "county": "Schoolcraft",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Shiawassee",
+        "case": 125,
+        "death": 6
+      },
+      {
+        "county": "St. Clair",
+        "case": 284,
+        "death": 16
+      },
+      {
+        "county": "St. Joseph",
+        "case": 27,
+        "death": 1
+      },
+      {
+        "county": "Tuscola",
+        "case": 76,
+        "death": 12
+      },
+      {
+        "county": "Van Buren",
+        "case": 35,
+        "death": 2
+      },
+      {
+        "county": "Washtenaw",
+        "case": 960,
+        "death": 42
+      },
+      {
+        "county": "Wayne",
+        "case": 14994,
+        "death": 1396
+      },
+      {
+        "county": "Wexford",
+        "case": 7,
+        "death": 1
+      },
+      {
+        "county": "MDOC",
+        "case": 759,
+        "death": 28
+      },
+      {
+        "county": "FCI Milan",
+        "case": 66,
+        "death": 0
+      },
+      {
+        "county": "Out-of-State",
+        "case": 39,
+        "death": 0
+      },
+      {
+        "county": "Unknown",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Total",
+        "case": 35291,
+        "death": 2977
+      }
+    ]
   }
 ]
