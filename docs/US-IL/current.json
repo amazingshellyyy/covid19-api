@@ -1,6 +1,11 @@
 {
-  "timeStamp": 1587742318236,
+  "timeStamp": 1587745922770,
   "data": [
+    {
+      "county": "102",
+      "case": 36934,
+      "death": 1688
+    },
     {
       "county": "Adams",
       "case": 29,
@@ -485,11 +490,6 @@
       "county": "Unassigned County",
       "case": 193,
       "death": 0
-    },
-    {
-      "county": "Total",
-      "case": 36934,
-      "death": 1688
     }
   ]
 }
