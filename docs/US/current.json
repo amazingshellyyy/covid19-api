@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1587688419285,
+  "timeStamp": 1587699195913,
   "data": [
     {
       "state": "Alabama",
@@ -28,8 +28,8 @@
     },
     {
       "state": "California",
-      "case": 35396,
-      "death": 1354
+      "case": 37369,
+      "death": 1469
     },
     {
       "state": "Colorado",
@@ -153,8 +153,8 @@
     },
     {
       "state": "Nevada",
-      "case": 3937,
-      "death": 163
+      "case": 4208,
+      "death": 195
     },
     {
       "state": "New Hampshire",
@@ -278,8 +278,8 @@
     },
     {
       "state": "Wyoming",
-      "case": 322,
-      "death": 6
+      "case": 332,
+      "death": 7
     }
   ]
 }
