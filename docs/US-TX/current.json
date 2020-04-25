@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1587846707253,
+  "timeStamp": 1587850315991,
   "data": [
     {
       "county": "Anderson",
@@ -717,6 +717,11 @@
       "death": 0
     },
     {
+      "county": "Nolan",
+      "case": 1,
+      "death": 0
+    },
+    {
       "county": "Nueces",
       "case": 90,
       "death": 1
@@ -863,7 +868,7 @@
     },
     {
       "county": "Taylor",
-      "case": 185,
+      "case": 216,
       "death": 3
     },
     {
