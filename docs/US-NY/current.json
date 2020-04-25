@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1587789111721,
+  "timeStamp": 1587792722523,
   "data": [
     {
       "county": "Albany",
@@ -13,13 +13,13 @@
     },
     {
       "county": "Broome",
-      "case": 244,
-      "death": 15
+      "case": 249,
+      "death": 17
     },
     {
       "county": "Cattaraugus",
       "case": 39,
-      "death": 1
+      "death": 2
     },
     {
       "county": "Cayuga",
@@ -48,7 +48,7 @@
     },
     {
       "county": "Columbia",
-      "case": 129,
+      "case": 142,
       "death": 14
     },
     {
@@ -68,8 +68,8 @@
     },
     {
       "county": "Erie",
-      "case": 2603,
-      "death": 184
+      "case": 2738,
+      "death": 185
     },
     {
       "county": "Essex",
@@ -123,13 +123,13 @@
     },
     {
       "county": "Madison",
-      "case": 126,
+      "case": 127,
       "death": 5
     },
     {
       "county": "Monroe",
-      "case": 1199,
-      "death": 82
+      "case": 1217,
+      "death": 87
     },
     {
       "county": "Montgomery",
@@ -148,13 +148,13 @@
     },
     {
       "county": "Oneida",
-      "case": 324,
+      "case": 336,
       "death": 11
     },
     {
       "county": "Onondaga",
-      "case": 724,
-      "death": 23
+      "case": 746,
+      "death": 25
     },
     {
       "county": "Ontario",
@@ -233,7 +233,7 @@
     },
     {
       "county": "Suffolk",
-      "case": 30949,
+      "case": 31520,
       "death": 993
     },
     {
