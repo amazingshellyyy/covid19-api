@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1587835915439,
+  "timeStamp": 1587839506205,
   "data": [
     {
       "county": "Albany",
@@ -64,12 +64,12 @@
     {
       "county": "Dutchess",
       "case": 2660,
-      "death": 60
+      "death": 62
     },
     {
       "county": "Erie",
       "case": 2773,
-      "death": 185
+      "death": 186
     },
     {
       "county": "Essex",
@@ -139,7 +139,7 @@
     {
       "county": "Nassau",
       "case": 33798,
-      "death": 1518
+      "death": 1558
     },
     {
       "county": "Niagara",
@@ -169,7 +169,7 @@
     {
       "county": "Orleans",
       "case": 75,
-      "death": 4
+      "death": 5
     },
     {
       "county": "Oswego",
@@ -184,7 +184,7 @@
     {
       "county": "Putnam",
       "case": 942,
-      "death": 40
+      "death": 42
     },
     {
       "county": "Rensselaer",
@@ -199,12 +199,12 @@
     {
       "county": "Saratoga",
       "case": 320,
-      "death": 10
+      "death": 11
     },
     {
       "county": "Schenectady",
       "case": 431,
-      "death": 17
+      "death": 18
     },
     {
       "county": "Schoharie",
@@ -234,7 +234,7 @@
     {
       "county": "Suffolk",
       "case": 31921,
-      "death": 993
+      "death": 1042
     },
     {
       "county": "Sullivan",
@@ -244,7 +244,7 @@
     {
       "county": "Tioga",
       "case": 71,
-      "death": 2
+      "death": 3
     },
     {
       "county": "Tompkins",
@@ -274,7 +274,7 @@
     {
       "county": "Westchester",
       "case": 27231,
-      "death": 891
+      "death": 920
     },
     {
       "county": "Wyoming",
