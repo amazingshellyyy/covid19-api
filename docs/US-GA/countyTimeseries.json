@@ -245368,5 +245368,805 @@
         "death": 8
       }
     ]
+  },
+  {
+    "timeStamp": 1587861111353,
+    "data": [
+      {
+        "county": "Appling",
+        "case": 54,
+        "death": 4
+      },
+      {
+        "county": "Atkinson",
+        "case": 7,
+        "death": 0
+      },
+      {
+        "county": "Bacon",
+        "case": 21,
+        "death": 1
+      },
+      {
+        "county": "Baker",
+        "case": 19,
+        "death": 2
+      },
+      {
+        "county": "Baldwin",
+        "case": 180,
+        "death": 6
+      },
+      {
+        "county": "Banks",
+        "case": 18,
+        "death": 0
+      },
+      {
+        "county": "Barrow",
+        "case": 111,
+        "death": 3
+      },
+      {
+        "county": "Bartow",
+        "case": 283,
+        "death": 28
+      },
+      {
+        "county": "Ben Hill",
+        "case": 23,
+        "death": 0
+      },
+      {
+        "county": "Berrien",
+        "case": 16,
+        "death": 0
+      },
+      {
+        "county": "Bibb",
+        "case": 247,
+        "death": 6
+      },
+      {
+        "county": "Bleckley",
+        "case": 9,
+        "death": 0
+      },
+      {
+        "county": "Brantley",
+        "case": 21,
+        "death": 2
+      },
+      {
+        "county": "Brooks",
+        "case": 39,
+        "death": 6
+      },
+      {
+        "county": "Bryan",
+        "case": 47,
+        "death": 2
+      },
+      {
+        "county": "Bulloch",
+        "case": 34,
+        "death": 2
+      },
+      {
+        "county": "Burke",
+        "case": 71,
+        "death": 3
+      },
+      {
+        "county": "Butts",
+        "case": 125,
+        "death": 2
+      },
+      {
+        "county": "Calhoun",
+        "case": 86,
+        "death": 3
+      },
+      {
+        "county": "Camden",
+        "case": 28,
+        "death": 1
+      },
+      {
+        "county": "Candler",
+        "case": 7,
+        "death": 0
+      },
+      {
+        "county": "Carroll",
+        "case": 325,
+        "death": 11
+      },
+      {
+        "county": "Catoosa",
+        "case": 46,
+        "death": 0
+      },
+      {
+        "county": "Charlton",
+        "case": 7,
+        "death": 0
+      },
+      {
+        "county": "Chatham",
+        "case": 206,
+        "death": 6
+      },
+      {
+        "county": "Chattahoochee",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Chattooga",
+        "case": 13,
+        "death": 1
+      },
+      {
+        "county": "Cherokee",
+        "case": 368,
+        "death": 10
+      },
+      {
+        "county": "Clarke",
+        "case": 127,
+        "death": 13
+      },
+      {
+        "county": "Clay",
+        "case": 20,
+        "death": 2
+      },
+      {
+        "county": "Clayton",
+        "case": 642,
+        "death": 21
+      },
+      {
+        "county": "Clinch",
+        "case": 7,
+        "death": 0
+      },
+      {
+        "county": "Cobb",
+        "case": 1395,
+        "death": 74
+      },
+      {
+        "county": "Coffee",
+        "case": 103,
+        "death": 4
+      },
+      {
+        "county": "Colquitt",
+        "case": 165,
+        "death": 6
+      },
+      {
+        "county": "Columbia",
+        "case": 138,
+        "death": 2
+      },
+      {
+        "county": "Cook",
+        "case": 16,
+        "death": 1
+      },
+      {
+        "county": "Coweta",
+        "case": 187,
+        "death": 4
+      },
+      {
+        "county": "Crawford",
+        "case": 14,
+        "death": 0
+      },
+      {
+        "county": "Crisp",
+        "case": 151,
+        "death": 2
+      },
+      {
+        "county": "Dade",
+        "case": 16,
+        "death": 1
+      },
+      {
+        "county": "Dawson",
+        "case": 51,
+        "death": 1
+      },
+      {
+        "county": "Decatur",
+        "case": 60,
+        "death": 1
+      },
+      {
+        "county": "Dekalb",
+        "case": 1788,
+        "death": 36
+      },
+      {
+        "county": "Dodge",
+        "case": 23,
+        "death": 0
+      },
+      {
+        "county": "Dooly",
+        "case": 108,
+        "death": 7
+      },
+      {
+        "county": "Dougherty",
+        "case": 1470,
+        "death": 108
+      },
+      {
+        "county": "Douglas",
+        "case": 276,
+        "death": 8
+      },
+      {
+        "county": "Early",
+        "case": 194,
+        "death": 15
+      },
+      {
+        "county": "Echols",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Effingham",
+        "case": 34,
+        "death": 1
+      },
+      {
+        "county": "Elbert",
+        "case": 16,
+        "death": 0
+      },
+      {
+        "county": "Emanuel",
+        "case": 19,
+        "death": 0
+      },
+      {
+        "county": "Evans",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Fannin",
+        "case": 21,
+        "death": 0
+      },
+      {
+        "county": "Fayette",
+        "case": 161,
+        "death": 8
+      },
+      {
+        "county": "Floyd",
+        "case": 133,
+        "death": 10
+      },
+      {
+        "county": "Forsyth",
+        "case": 249,
+        "death": 8
+      },
+      {
+        "county": "Franklin",
+        "case": 17,
+        "death": 0
+      },
+      {
+        "county": "Fulton",
+        "case": 2543,
+        "death": 91
+      },
+      {
+        "county": "Gilmer",
+        "case": 36,
+        "death": 0
+      },
+      {
+        "county": "Glynn",
+        "case": 51,
+        "death": 1
+      },
+      {
+        "county": "Gordon",
+        "case": 81,
+        "death": 10
+      },
+      {
+        "county": "Grady",
+        "case": 48,
+        "death": 3
+      },
+      {
+        "county": "Greene",
+        "case": 53,
+        "death": 1
+      },
+      {
+        "county": "Gwinnett",
+        "case": 1460,
+        "death": 46
+      },
+      {
+        "county": "Habersham",
+        "case": 170,
+        "death": 3
+      },
+      {
+        "county": "Hall",
+        "case": 1032,
+        "death": 9
+      },
+      {
+        "county": "Hancock",
+        "case": 17,
+        "death": 0
+      },
+      {
+        "county": "Haralson",
+        "case": 26,
+        "death": 1
+      },
+      {
+        "county": "Harris",
+        "case": 55,
+        "death": 2
+      },
+      {
+        "county": "Hart",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Heard",
+        "case": 9,
+        "death": 1
+      },
+      {
+        "county": "Henry",
+        "case": 436,
+        "death": 10
+      },
+      {
+        "county": "Houston",
+        "case": 206,
+        "death": 13
+      },
+      {
+        "county": "Irwin",
+        "case": 15,
+        "death": 1
+      },
+      {
+        "county": "Jackson",
+        "case": 75,
+        "death": 1
+      },
+      {
+        "county": "Jasper",
+        "case": 20,
+        "death": 0
+      },
+      {
+        "county": "Jeff Davis",
+        "case": 11,
+        "death": 1
+      },
+      {
+        "county": "Jefferson",
+        "case": 13,
+        "death": 1
+      },
+      {
+        "county": "Jenkins",
+        "case": 16,
+        "death": 1
+      },
+      {
+        "county": "Johnson",
+        "case": 36,
+        "death": 2
+      },
+      {
+        "county": "Jones",
+        "case": 26,
+        "death": 0
+      },
+      {
+        "county": "Lamar",
+        "case": 33,
+        "death": 0
+      },
+      {
+        "county": "Lanier",
+        "case": 8,
+        "death": 1
+      },
+      {
+        "county": "Laurens",
+        "case": 52,
+        "death": 1
+      },
+      {
+        "county": "Lee",
+        "case": 299,
+        "death": 18
+      },
+      {
+        "county": "Liberty",
+        "case": 35,
+        "death": 0
+      },
+      {
+        "county": "Lincoln",
+        "case": 10,
+        "death": 0
+      },
+      {
+        "county": "Long",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Lowndes",
+        "case": 131,
+        "death": 4
+      },
+      {
+        "county": "Lumpkin",
+        "case": 29,
+        "death": 0
+      },
+      {
+        "county": "Macon",
+        "case": 68,
+        "death": 3
+      },
+      {
+        "county": "Madison",
+        "case": 23,
+        "death": 1
+      },
+      {
+        "county": "Marion",
+        "case": 38,
+        "death": 1
+      },
+      {
+        "county": "McDuffie",
+        "case": 43,
+        "death": 4
+      },
+      {
+        "county": "McIntosh",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Meriwether",
+        "case": 49,
+        "death": 0
+      },
+      {
+        "county": "Miller",
+        "case": 28,
+        "death": 0
+      },
+      {
+        "county": "Mitchell",
+        "case": 287,
+        "death": 25
+      },
+      {
+        "county": "Monroe",
+        "case": 19,
+        "death": 1
+      },
+      {
+        "county": "Montgomery",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Morgan",
+        "case": 24,
+        "death": 0
+      },
+      {
+        "county": "Murray",
+        "case": 24,
+        "death": 0
+      },
+      {
+        "county": "Muscogee",
+        "case": 270,
+        "death": 4
+      },
+      {
+        "county": "Newton",
+        "case": 166,
+        "death": 6
+      },
+      {
+        "county": "Oconee",
+        "case": 55,
+        "death": 0
+      },
+      {
+        "county": "Oglethorpe",
+        "case": 48,
+        "death": 3
+      },
+      {
+        "county": "Paulding",
+        "case": 159,
+        "death": 7
+      },
+      {
+        "county": "Peach",
+        "case": 37,
+        "death": 2
+      },
+      {
+        "county": "Pickens",
+        "case": 20,
+        "death": 2
+      },
+      {
+        "county": "Pierce",
+        "case": 52,
+        "death": 2
+      },
+      {
+        "county": "Pike",
+        "case": 39,
+        "death": 2
+      },
+      {
+        "county": "Polk",
+        "case": 45,
+        "death": 0
+      },
+      {
+        "county": "Pulaski",
+        "case": 20,
+        "death": 1
+      },
+      {
+        "county": "Putnam",
+        "case": 31,
+        "death": 3
+      },
+      {
+        "county": "Quitman",
+        "case": 3,
+        "death": 1
+      },
+      {
+        "county": "Rabun",
+        "case": 9,
+        "death": 0
+      },
+      {
+        "county": "Randolph",
+        "case": 153,
+        "death": 19
+      },
+      {
+        "county": "Richmond",
+        "case": 355,
+        "death": 14
+      },
+      {
+        "county": "Rockdale",
+        "case": 162,
+        "death": 6
+      },
+      {
+        "county": "Schley",
+        "case": 16,
+        "death": 1
+      },
+      {
+        "county": "Screven",
+        "case": 14,
+        "death": 1
+      },
+      {
+        "county": "Seminole",
+        "case": 27,
+        "death": 2
+      },
+      {
+        "county": "Spalding",
+        "case": 189,
+        "death": 8
+      },
+      {
+        "county": "Stephens",
+        "case": 56,
+        "death": 1
+      },
+      {
+        "county": "Stewart",
+        "case": 17,
+        "death": 0
+      },
+      {
+        "county": "Sumter",
+        "case": 350,
+        "death": 21
+      },
+      {
+        "county": "Talbot",
+        "case": 21,
+        "death": 1
+      },
+      {
+        "county": "Tattnall",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Taylor",
+        "case": 16,
+        "death": 2
+      },
+      {
+        "county": "Telfair",
+        "case": 26,
+        "death": 0
+      },
+      {
+        "county": "Terrell",
+        "case": 165,
+        "death": 17
+      },
+      {
+        "county": "Thomas",
+        "case": 157,
+        "death": 16
+      },
+      {
+        "county": "Tift",
+        "case": 100,
+        "death": 3
+      },
+      {
+        "county": "Toombs",
+        "case": 27,
+        "death": 3
+      },
+      {
+        "county": "Towns",
+        "case": 20,
+        "death": 0
+      },
+      {
+        "county": "Treutlen",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Troup",
+        "case": 122,
+        "death": 4
+      },
+      {
+        "county": "Turner",
+        "case": 62,
+        "death": 6
+      },
+      {
+        "county": "Twiggs",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Union",
+        "case": 28,
+        "death": 2
+      },
+      {
+        "county": "Upson",
+        "case": 196,
+        "death": 14
+      },
+      {
+        "county": "Walker",
+        "case": 59,
+        "death": 0
+      },
+      {
+        "county": "Walton",
+        "case": 97,
+        "death": 3
+      },
+      {
+        "county": "Ware",
+        "case": 105,
+        "death": 8
+      },
+      {
+        "county": "Warren",
+        "case": 12,
+        "death": 0
+      },
+      {
+        "county": "Washington",
+        "case": 34,
+        "death": 1
+      },
+      {
+        "county": "Wayne",
+        "case": 11,
+        "death": 0
+      },
+      {
+        "county": "Webster",
+        "case": 7,
+        "death": 0
+      },
+      {
+        "county": "Wheeler",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "White",
+        "case": 38,
+        "death": 0
+      },
+      {
+        "county": "Whitfield",
+        "case": 63,
+        "death": 4
+      },
+      {
+        "county": "Wilcox",
+        "case": 68,
+        "death": 6
+      },
+      {
+        "county": "Wilkes",
+        "case": 22,
+        "death": 0
+      },
+      {
+        "county": "Wilkinson",
+        "case": 30,
+        "death": 2
+      },
+      {
+        "county": "Worth",
+        "case": 140,
+        "death": 9
+      },
+      {
+        "county": "Unknown",
+        "case": 608,
+        "death": 1
+      },
+      {
+        "county": "Non-Georgia Resident",
+        "case": 991,
+        "death": 10
+      }
+    ]
   }
 ]
