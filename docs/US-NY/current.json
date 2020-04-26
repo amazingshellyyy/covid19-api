@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1587915122124,
+  "timeStamp": 1587918717003,
   "data": [
     {
       "county": "Albany",
@@ -28,7 +28,7 @@
     },
     {
       "county": "Chautauqua",
-      "case": 27,
+      "case": 28,
       "death": 1
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "county": "Columbia",
-      "case": 142,
+      "case": 152,
       "death": 14
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "county": "Oswego",
-      "case": 58,
+      "case": 61,
       "death": 2
     },
     {
@@ -188,8 +188,8 @@
     },
     {
       "county": "Rensselaer",
-      "case": 221,
-      "death": 10
+      "case": 238,
+      "death": 11
     },
     {
       "county": "Rockland",
@@ -233,7 +233,7 @@
     },
     {
       "county": "Suffolk",
-      "case": 31921,
+      "case": 32537,
       "death": 1042
     },
     {
