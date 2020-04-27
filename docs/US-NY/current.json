@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1588026726887,
+  "timeStamp": 1588030313032,
   "data": [
     {
       "county": "Albany",
@@ -14,7 +14,7 @@
     {
       "county": "Broome",
       "case": 261,
-      "death": 17
+      "death": 19
     },
     {
       "county": "Cattaraugus",
@@ -48,7 +48,7 @@
     },
     {
       "county": "Columbia",
-      "case": 152,
+      "case": 154,
       "death": 14
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "county": "Erie",
-      "case": 3021,
+      "case": 3061,
       "death": 195
     },
     {
@@ -123,13 +123,13 @@
     },
     {
       "county": "Madison",
-      "case": 127,
+      "case": 133,
       "death": 5
     },
     {
       "county": "Monroe",
       "case": 1331,
-      "death": 96
+      "death": 98
     },
     {
       "county": "Montgomery",
@@ -233,7 +233,7 @@
     },
     {
       "county": "Suffolk",
-      "case": 33073,
+      "case": 33286,
       "death": 1102
     },
     {
