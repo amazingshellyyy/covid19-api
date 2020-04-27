@@ -219903,5 +219903,300 @@
         "death": 12067
       }
     ]
+  },
+  {
+    "timeStamp": 1587987110172,
+    "data": [
+      {
+        "county": "Albany",
+        "case": 948,
+        "death": 25
+      },
+      {
+        "county": "Allegany",
+        "case": 35,
+        "death": 2
+      },
+      {
+        "county": "Broome",
+        "case": 257,
+        "death": 17
+      },
+      {
+        "county": "Cattaraugus",
+        "case": 45,
+        "death": 2
+      },
+      {
+        "county": "Cayuga",
+        "case": 47,
+        "death": 2
+      },
+      {
+        "county": "Chautauqua",
+        "case": 29,
+        "death": 1
+      },
+      {
+        "county": "Chemung",
+        "case": 106,
+        "death": 1
+      },
+      {
+        "county": "Chenango",
+        "case": 93,
+        "death": 0
+      },
+      {
+        "county": "Clinton",
+        "case": 57,
+        "death": 4
+      },
+      {
+        "county": "Columbia",
+        "case": 152,
+        "death": 14
+      },
+      {
+        "county": "Cortland",
+        "case": 32,
+        "death": 1
+      },
+      {
+        "county": "Delaware",
+        "case": 58,
+        "death": 2
+      },
+      {
+        "county": "Dutchess",
+        "case": 2729,
+        "death": 62
+      },
+      {
+        "county": "Erie",
+        "case": 2954,
+        "death": 194
+      },
+      {
+        "county": "Essex",
+        "case": 24,
+        "death": 0
+      },
+      {
+        "county": "Franklin",
+        "case": 14,
+        "death": 0
+      },
+      {
+        "county": "Fulton",
+        "case": 62,
+        "death": 3
+      },
+      {
+        "county": "Genesee",
+        "case": 144,
+        "death": 3
+      },
+      {
+        "county": "Greene",
+        "case": 110,
+        "death": 2
+      },
+      {
+        "county": "Hamilton",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Herkimer",
+        "case": 57,
+        "death": 3
+      },
+      {
+        "county": "Jefferson",
+        "case": 59,
+        "death": 0
+      },
+      {
+        "county": "Lewis",
+        "case": 9,
+        "death": 3
+      },
+      {
+        "county": "Livingston",
+        "case": 60,
+        "death": 2
+      },
+      {
+        "county": "Madison",
+        "case": 127,
+        "death": 5
+      },
+      {
+        "county": "Monroe",
+        "case": 1316,
+        "death": 90
+      },
+      {
+        "county": "Montgomery",
+        "case": 47,
+        "death": 4
+      },
+      {
+        "county": "Nassau",
+        "case": 33798,
+        "death": 1587
+      },
+      {
+        "county": "Niagara",
+        "case": 368,
+        "death": 21
+      },
+      {
+        "county": "Oneida",
+        "case": 384,
+        "death": 11
+      },
+      {
+        "county": "Onondaga",
+        "case": 774,
+        "death": 25
+      },
+      {
+        "county": "Ontario",
+        "case": 88,
+        "death": 9
+      },
+      {
+        "county": "Orange",
+        "case": 8106,
+        "death": 274
+      },
+      {
+        "county": "Orleans",
+        "case": 80,
+        "death": 6
+      },
+      {
+        "county": "Oswego",
+        "case": 61,
+        "death": 2
+      },
+      {
+        "county": "Otsego",
+        "case": 60,
+        "death": 3
+      },
+      {
+        "county": "Putnam",
+        "case": 988,
+        "death": 43
+      },
+      {
+        "county": "Rensselaer",
+        "case": 242,
+        "death": 11
+      },
+      {
+        "county": "Rockland",
+        "case": 11256,
+        "death": 453
+      },
+      {
+        "county": "Saratoga",
+        "case": 330,
+        "death": 11
+      },
+      {
+        "county": "Schenectady",
+        "case": 449,
+        "death": 19
+      },
+      {
+        "county": "Schoharie",
+        "case": 35,
+        "death": 1
+      },
+      {
+        "county": "Schuyler",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Seneca",
+        "case": 38,
+        "death": 2
+      },
+      {
+        "county": "St. Lawrence",
+        "case": 167,
+        "death": 1
+      },
+      {
+        "county": "Steuben",
+        "case": 219,
+        "death": 33
+      },
+      {
+        "county": "Suffolk",
+        "case": 32537,
+        "death": 1070
+      },
+      {
+        "county": "Sullivan",
+        "case": 724,
+        "death": 17
+      },
+      {
+        "county": "Tioga",
+        "case": 71,
+        "death": 3
+      },
+      {
+        "county": "Tompkins",
+        "case": 127,
+        "death": 0
+      },
+      {
+        "county": "Ulster",
+        "case": 1234,
+        "death": 23
+      },
+      {
+        "county": "Warren",
+        "case": 132,
+        "death": 7
+      },
+      {
+        "county": "Washington",
+        "case": 113,
+        "death": 3
+      },
+      {
+        "county": "Wayne",
+        "case": 65,
+        "death": 1
+      },
+      {
+        "county": "Westchester",
+        "case": 27664,
+        "death": 946
+      },
+      {
+        "county": "Wyoming",
+        "case": 59,
+        "death": 5
+      },
+      {
+        "county": "Yates",
+        "case": 17,
+        "death": 1
+      },
+      {
+        "county": "New York City ",
+        "case": 158258,
+        "death": 12067
+      }
+    ]
   }
 ]
