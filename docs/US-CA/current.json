@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1587951118856,
+  "timeStamp": 1587954700768,
   "data": [
     {
       "county": "Los Angeles",
@@ -142,6 +142,11 @@
       "death": 3
     },
     {
+      "county": "Kings",
+      "case": 67,
+      "death": 1
+    },
+    {
       "county": "Napa",
       "case": 60,
       "death": 2
@@ -150,11 +155,6 @@
       "county": "Humboldt",
       "case": 53,
       "death": 0
-    },
-    {
-      "county": "Kings",
-      "case": 52,
-      "death": 1
     },
     {
       "county": "San Benito",
@@ -168,7 +168,7 @@
     },
     {
       "county": "Madera",
-      "case": 40,
+      "case": 41,
       "death": 2
     },
     {
@@ -194,7 +194,7 @@
     {
       "county": "Inyo",
       "case": 19,
-      "death": 0
+      "death": 1
     },
     {
       "county": "Butte",
@@ -253,7 +253,7 @@
     },
     {
       "county": "Del Norte",
-      "case": 2,
+      "case": 3,
       "death": 0
     },
     {
