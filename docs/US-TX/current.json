@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1588030311324,
+  "timeStamp": 1588033907153,
   "data": [
     {
       "county": "Anderson",
@@ -53,12 +53,12 @@
     },
     {
       "county": "Bell",
-      "case": 153,
+      "case": 161,
       "death": 3
     },
     {
       "county": "Bexar",
-      "case": 1195,
+      "case": 1254,
       "death": 43
     },
     {
@@ -78,12 +78,12 @@
     },
     {
       "county": "Brazoria",
-      "case": 382,
+      "case": 577,
       "death": 3
     },
     {
       "county": "Brazos",
-      "case": 177,
+      "case": 182,
       "death": 16
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "county": "Calhoun",
-      "case": 23,
+      "case": 29,
       "death": 2
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "county": "Cameron",
-      "case": 321,
+      "case": 366,
       "death": 9
     },
     {
@@ -173,8 +173,8 @@
     },
     {
       "county": "Collin",
-      "case": 584,
-      "death": 14
+      "case": 663,
+      "death": 17
     },
     {
       "county": "Colorado",
@@ -183,7 +183,7 @@
     },
     {
       "county": "Comal",
-      "case": 47,
+      "case": 49,
       "death": 6
     },
     {
@@ -223,8 +223,8 @@
     },
     {
       "county": "Dallas",
-      "case": 2683,
-      "death": 65
+      "case": 3105,
+      "death": 84
     },
     {
       "county": "Dawson",
@@ -243,8 +243,8 @@
     },
     {
       "county": "Denton",
-      "case": 644,
-      "death": 19
+      "case": 702,
+      "death": 20
     },
     {
       "county": "DeWitt",
@@ -278,18 +278,18 @@
     },
     {
       "county": "Ector",
-      "case": 62,
+      "case": 79,
       "death": 4
     },
     {
       "county": "El Paso",
-      "case": 645,
-      "death": 10
+      "case": 802,
+      "death": 12
     },
     {
       "county": "Ellis",
-      "case": 111,
-      "death": 4
+      "case": 147,
+      "death": 5
     },
     {
       "county": "Erath",
@@ -318,8 +318,8 @@
     },
     {
       "county": "Fort Bend",
-      "case": 870,
-      "death": 18
+      "case": 952,
+      "death": 21
     },
     {
       "county": "Franklin",
@@ -343,8 +343,8 @@
     },
     {
       "county": "Galveston",
-      "case": 491,
-      "death": 21
+      "case": 541,
+      "death": 22
     },
     {
       "county": "Gillespie",
@@ -373,17 +373,17 @@
     },
     {
       "county": "Gregg",
-      "case": 55,
+      "case": 72,
       "death": 0
     },
     {
       "county": "Grimes",
-      "case": 10,
+      "case": 13,
       "death": 1
     },
     {
       "county": "Guadalupe",
-      "case": 64,
+      "case": 73,
       "death": 0
     },
     {
@@ -423,7 +423,7 @@
     },
     {
       "county": "Hays",
-      "case": 140,
+      "case": 155,
       "death": 1
     },
     {
