@@ -1,9 +1,9 @@
 {
-  "timeStamp": 1588095108950,
+  "timeStamp": 1588098712826,
   "data": [
     {
       "county": "Albany",
-      "case": 979,
+      "case": 1009,
       "death": 26
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "county": "Broome",
-      "case": 262,
+      "case": 266,
       "death": 19
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "county": "Chemung",
-      "case": 108,
+      "case": 113,
       "death": 1
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "county": "Dutchess",
-      "case": 2793,
-      "death": 64
+      "case": 2817,
+      "death": 65
     },
     {
       "county": "Erie",
@@ -73,7 +73,7 @@
     },
     {
       "county": "Essex",
-      "case": 24,
+      "case": 26,
       "death": 0
     },
     {
@@ -83,17 +83,17 @@
     },
     {
       "county": "Fulton",
-      "case": 62,
+      "case": 66,
       "death": 3
     },
     {
       "county": "Genesee",
-      "case": 148,
+      "case": 149,
       "death": 3
     },
     {
       "county": "Greene",
-      "case": 111,
+      "case": 112,
       "death": 2
     },
     {
@@ -118,7 +118,7 @@
     },
     {
       "county": "Livingston",
-      "case": 62,
+      "case": 65,
       "death": 2
     },
     {
@@ -128,18 +128,18 @@
     },
     {
       "county": "Monroe",
-      "case": 1331,
+      "case": 1371,
       "death": 98
     },
     {
       "county": "Montgomery",
-      "case": 47,
+      "case": 49,
       "death": 4
     },
     {
       "county": "Nassau",
-      "case": 34865,
-      "death": 1620
+      "case": 35085,
+      "death": 1647
     },
     {
       "county": "Niagara",
@@ -148,7 +148,7 @@
     },
     {
       "county": "Oneida",
-      "case": 397,
+      "case": 411,
       "death": 15
     },
     {
@@ -158,33 +158,33 @@
     },
     {
       "county": "Ontario",
-      "case": 88,
+      "case": 90,
       "death": 9
     },
     {
       "county": "Orange",
-      "case": 8238,
+      "case": 8374,
       "death": 299
     },
     {
       "county": "Orleans",
       "case": 80,
-      "death": 7
+      "death": 8
     },
     {
       "county": "Oswego",
-      "case": 61,
+      "case": 63,
       "death": 2
     },
     {
       "county": "Otsego",
-      "case": 62,
+      "case": 65,
       "death": 3
     },
     {
       "county": "Putnam",
       "case": 1038,
-      "death": 43
+      "death": 45
     },
     {
       "county": "Rensselaer",
@@ -193,22 +193,22 @@
     },
     {
       "county": "Rockland",
-      "case": 11366,
+      "case": 11453,
       "death": 453
     },
     {
       "county": "Saratoga",
-      "case": 336,
+      "case": 343,
       "death": 11
     },
     {
       "county": "Schenectady",
-      "case": 457,
-      "death": 19
+      "case": 469,
+      "death": 22
     },
     {
       "county": "Schoharie",
-      "case": 35,
+      "case": 38,
       "death": 1
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "county": "St. Lawrence",
-      "case": 169,
+      "case": 170,
       "death": 2
     },
     {
@@ -234,17 +234,17 @@
     {
       "county": "Suffolk",
       "case": 33320,
-      "death": 1102
+      "death": 1131
     },
     {
       "county": "Sullivan",
-      "case": 748,
+      "case": 769,
       "death": 17
     },
     {
       "county": "Tioga",
-      "case": 71,
-      "death": 3
+      "case": 82,
+      "death": 4
     },
     {
       "county": "Tompkins",
@@ -258,23 +258,23 @@
     },
     {
       "county": "Warren",
-      "case": 147,
+      "case": 150,
       "death": 7
     },
     {
       "county": "Washington",
-      "case": 130,
+      "case": 131,
       "death": 3
     },
     {
       "county": "Wayne",
-      "case": 69,
+      "case": 70,
       "death": 1
     },
     {
       "county": "Westchester",
-      "case": 28007,
-      "death": 962
+      "case": 28245,
+      "death": 983
     },
     {
       "county": "Wyoming",
@@ -288,8 +288,8 @@
     },
     {
       "county": "New York City ",
-      "case": 160489,
-      "death": 12287
+      "case": 162338,
+      "death": 12509
     }
   ]
 }
