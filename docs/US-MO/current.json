@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1588098712600,
+  "timeStamp": 1588102315479,
   "data": [
     {
       "county": "Adair",
@@ -43,12 +43,12 @@
     },
     {
       "county": "Boone",
-      "case": 98,
+      "case": 99,
       "death": 1
     },
     {
       "county": "Buchanan",
-      "case": 63,
+      "case": 68,
       "death": 1
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "county": "Callaway",
-      "case": 21,
+      "case": 22,
       "death": 1
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "county": "Cass",
-      "case": 58,
+      "case": 61,
       "death": 6
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "county": "Clay",
-      "case": 68,
+      "case": 69,
       "death": 1
     },
     {
@@ -158,7 +158,7 @@
     },
     {
       "county": "Franklin",
-      "case": 106,
+      "case": 110,
       "death": 6
     },
     {
@@ -218,7 +218,7 @@
     },
     {
       "county": "Jefferson",
-      "case": 249,
+      "case": 255,
       "death": 3
     },
     {
@@ -233,12 +233,12 @@
     },
     {
       "county": "Kansas City",
-      "case": 500,
-      "death": 15
+      "case": 508,
+      "death": 16
     },
     {
       "county": "Lafayette",
-      "case": 35,
+      "case": 34,
       "death": 1
     },
     {
@@ -248,7 +248,7 @@
     },
     {
       "county": "Lincoln",
-      "case": 45,
+      "case": 46,
       "death": 1
     },
     {
@@ -278,7 +278,7 @@
     },
     {
       "county": "Marion",
-      "case": 5,
+      "case": 4,
       "death": 0
     },
     {
@@ -338,7 +338,7 @@
     },
     {
       "county": "Pemiscot",
-      "case": 19,
+      "case": 21,
       "death": 1
     },
     {
@@ -348,7 +348,7 @@
     },
     {
       "county": "Pettis",
-      "case": 27,
+      "case": 31,
       "death": 0
     },
     {
@@ -388,7 +388,7 @@
     },
     {
       "county": "Ray",
-      "case": 11,
+      "case": 12,
       "death": 0
     },
     {
@@ -403,7 +403,7 @@
     },
     {
       "county": "Saline",
-      "case": 168,
+      "case": 170,
       "death": 0
     },
     {
@@ -413,8 +413,8 @@
     },
     {
       "county": "Scott",
-      "case": 61,
-      "death": 1
+      "case": 62,
+      "death": 2
     },
     {
       "county": "Shelby",
@@ -423,8 +423,8 @@
     },
     {
       "county": "St. Charles",
-      "case": 543,
-      "death": 27
+      "case": 555,
+      "death": 28
     },
     {
       "county": "St. Clair",
@@ -433,18 +433,18 @@
     },
     {
       "county": "St. Francois",
-      "case": 28,
+      "case": 27,
       "death": 1
     },
     {
       "county": "St. Louis City",
-      "case": 1027,
-      "death": 54
+      "case": 1054,
+      "death": 55
     },
     {
       "county": "St. Louis County",
-      "case": 2897,
-      "death": 137
+      "case": 2958,
+      "death": 159
     },
     {
       "county": "Ste. Genevieve",
@@ -463,7 +463,7 @@
     },
     {
       "county": "Taney",
-      "case": 10,
+      "case": 11,
       "death": 1
     },
     {
@@ -473,7 +473,7 @@
     },
     {
       "county": "Warren",
-      "case": 22,
+      "case": 20,
       "death": 0
     },
     {
