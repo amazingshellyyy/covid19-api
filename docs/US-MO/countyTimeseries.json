@@ -179538,5 +179538,505 @@
         "death": 0
       }
     ]
+  },
+  {
+    "timeStamp": 1588106076204,
+    "data": [
+      {
+        "county": "Adair",
+        "case": 12,
+        "death": 0
+      },
+      {
+        "county": "Andrew",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Atchison",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Audrain",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Barry",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Bates",
+        "case": 6,
+        "death": 1
+      },
+      {
+        "county": "Benton",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Bollinger",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Boone",
+        "case": 99,
+        "death": 1
+      },
+      {
+        "county": "Buchanan",
+        "case": 68,
+        "death": 1
+      },
+      {
+        "county": "Butler",
+        "case": 26,
+        "death": 0
+      },
+      {
+        "county": "Caldwell",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Callaway",
+        "case": 22,
+        "death": 1
+      },
+      {
+        "county": "Camden",
+        "case": 35,
+        "death": 1
+      },
+      {
+        "county": "Cape Girardeau",
+        "case": 48,
+        "death": 1
+      },
+      {
+        "county": "Carroll",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Carter",
+        "case": 3,
+        "death": 1
+      },
+      {
+        "county": "Cass",
+        "case": 61,
+        "death": 6
+      },
+      {
+        "county": "Cedar",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Chariton",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Christian",
+        "case": 19,
+        "death": 0
+      },
+      {
+        "county": "Clark",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Clay",
+        "case": 69,
+        "death": 1
+      },
+      {
+        "county": "Clinton",
+        "case": 11,
+        "death": 0
+      },
+      {
+        "county": "Cole",
+        "case": 50,
+        "death": 1
+      },
+      {
+        "county": "Cooper",
+        "case": 7,
+        "death": 0
+      },
+      {
+        "county": "Crawford",
+        "case": 7,
+        "death": 0
+      },
+      {
+        "county": "Dallas",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Daviess",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "DeKalb",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Dunklin",
+        "case": 20,
+        "death": 2
+      },
+      {
+        "county": "Franklin",
+        "case": 110,
+        "death": 6
+      },
+      {
+        "county": "Gasconade",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Gentry",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Greene",
+        "case": 83,
+        "death": 7
+      },
+      {
+        "county": "Harrison",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Henry",
+        "case": 8,
+        "death": 1
+      },
+      {
+        "county": "Holt",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Howard",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Howell",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Iron",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Jackson",
+        "case": 309,
+        "death": 9
+      },
+      {
+        "county": "Jasper",
+        "case": 16,
+        "death": 0
+      },
+      {
+        "county": "Jefferson",
+        "case": 255,
+        "death": 3
+      },
+      {
+        "county": "Johnson",
+        "case": 54,
+        "death": 0
+      },
+      {
+        "county": "Joplin",
+        "case": 7,
+        "death": 0
+      },
+      {
+        "county": "Kansas City",
+        "case": 508,
+        "death": 16
+      },
+      {
+        "county": "Lafayette",
+        "case": 34,
+        "death": 1
+      },
+      {
+        "county": "Lewis",
+        "case": 6,
+        "death": 1
+      },
+      {
+        "county": "Lincoln",
+        "case": 46,
+        "death": 1
+      },
+      {
+        "county": "Linn",
+        "case": 5,
+        "death": 1
+      },
+      {
+        "county": "Livingston",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Macon",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Madison",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Maries",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Marion",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "McDonald",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Miller",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Mississippi",
+        "case": 23,
+        "death": 0
+      },
+      {
+        "county": "Moniteau",
+        "case": 40,
+        "death": 0
+      },
+      {
+        "county": "Montgomery",
+        "case": 7,
+        "death": 0
+      },
+      {
+        "county": "Morgan",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "New Madrid",
+        "case": 9,
+        "death": 0
+      },
+      {
+        "county": "Newton",
+        "case": 10,
+        "death": 1
+      },
+      {
+        "county": "Nodaway",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Oregon",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Osage",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Pemiscot",
+        "case": 21,
+        "death": 1
+      },
+      {
+        "county": "Perry",
+        "case": 41,
+        "death": 0
+      },
+      {
+        "county": "Pettis",
+        "case": 31,
+        "death": 0
+      },
+      {
+        "county": "Phelps",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Pike",
+        "case": 9,
+        "death": 0
+      },
+      {
+        "county": "Platte",
+        "case": 31,
+        "death": 0
+      },
+      {
+        "county": "Polk",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Pulaski",
+        "case": 33,
+        "death": 1
+      },
+      {
+        "county": "Ralls",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Randolph",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Ray",
+        "case": 12,
+        "death": 0
+      },
+      {
+        "county": "Reynolds",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "Ripley",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Saline",
+        "case": 170,
+        "death": 0
+      },
+      {
+        "county": "Scotland",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Scott",
+        "case": 62,
+        "death": 2
+      },
+      {
+        "county": "Shelby",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "St. Charles",
+        "case": 555,
+        "death": 28
+      },
+      {
+        "county": "St. Clair",
+        "case": 2,
+        "death": 0
+      },
+      {
+        "county": "St. Francois",
+        "case": 27,
+        "death": 1
+      },
+      {
+        "county": "St. Louis City",
+        "case": 1054,
+        "death": 55
+      },
+      {
+        "county": "St. Louis County",
+        "case": 2958,
+        "death": 159
+      },
+      {
+        "county": "Ste. Genevieve",
+        "case": 7,
+        "death": 1
+      },
+      {
+        "county": "Stoddard",
+        "case": 19,
+        "death": 0
+      },
+      {
+        "county": "Stone",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Taney",
+        "case": 11,
+        "death": 1
+      },
+      {
+        "county": "Vernon",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Warren",
+        "case": 20,
+        "death": 0
+      },
+      {
+        "county": "Washington",
+        "case": 8,
+        "death": 1
+      },
+      {
+        "county": "Webster",
+        "case": 13,
+        "death": 0
+      },
+      {
+        "county": "Worth",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Wright",
+        "case": 9,
+        "death": 0
+      }
+    ]
   }
 ]
