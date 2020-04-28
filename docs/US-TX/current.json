@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1588033907153,
+  "timeStamp": 1588037513186,
   "data": [
     {
       "county": "Anderson",
@@ -403,8 +403,8 @@
     },
     {
       "county": "Hardin",
-      "case": 91,
-      "death": 2
+      "case": 99,
+      "death": 3
     },
     {
       "county": "Harris",
@@ -473,7 +473,7 @@
     },
     {
       "county": "Hunt",
-      "case": 37,
+      "case": 44,
       "death": 2
     },
     {
@@ -493,12 +493,12 @@
     },
     {
       "county": "Jasper",
-      "case": 10,
+      "case": 21,
       "death": 0
     },
     {
       "county": "Jefferson",
-      "case": 224,
+      "case": 289,
       "death": 13
     },
     {
@@ -588,8 +588,8 @@
     },
     {
       "county": "Liberty",
-      "case": 36,
-      "death": 0
+      "case": 39,
+      "death": 1
     },
     {
       "county": "Limestone",
@@ -608,8 +608,8 @@
     },
     {
       "county": "Lubbock",
-      "case": 470,
-      "death": 39
+      "case": 504,
+      "death": 43
     },
     {
       "county": "Lynn",
@@ -638,7 +638,7 @@
     },
     {
       "county": "Matagorda",
-      "case": 57,
+      "case": 63,
       "death": 3
     },
     {
@@ -683,8 +683,8 @@
     },
     {
       "county": "Montgomery",
-      "case": 440,
-      "death": 7
+      "case": 506,
+      "death": 9
     },
     {
       "county": "Moore",
@@ -723,8 +723,8 @@
     },
     {
       "county": "Nueces",
-      "case": 90,
-      "death": 1
+      "case": 99,
+      "death": 3
     },
     {
       "county": "Oldham",
@@ -733,8 +733,8 @@
     },
     {
       "county": "Orange",
-      "case": 59,
-      "death": 0
+      "case": 70,
+      "death": 1
     },
     {
       "county": "Palo Pinto",
@@ -743,8 +743,8 @@
     },
     {
       "county": "Panola",
-      "case": 61,
-      "death": 1
+      "case": 94,
+      "death": 6
     },
     {
       "county": "Parker",
@@ -763,7 +763,7 @@
     },
     {
       "county": "Polk",
-      "case": 17,
+      "case": 18,
       "death": 0
     },
     {
@@ -843,7 +843,7 @@
     },
     {
       "county": "Smith",
-      "case": 125,
+      "case": 139,
       "death": 3
     },
     {
@@ -888,8 +888,8 @@
     },
     {
       "county": "Travis",
-      "case": 1263,
-      "death": 28
+      "case": 1464,
+      "death": 42
     },
     {
       "county": "Trinity",
@@ -923,27 +923,27 @@
     },
     {
       "county": "Victoria",
-      "case": 105,
-      "death": 2
+      "case": 127,
+      "death": 3
     },
     {
       "county": "Walker",
-      "case": 136,
-      "death": 1
+      "case": 174,
+      "death": 5
     },
     {
       "county": "Waller",
-      "case": 25,
+      "case": 28,
       "death": 0
     },
     {
       "county": "Washington",
-      "case": 77,
-      "death": 6
+      "case": 113,
+      "death": 12
     },
     {
       "county": "Webb",
-      "case": 302,
+      "case": 321,
       "death": 12
     },
     {
@@ -973,7 +973,7 @@
     },
     {
       "county": "Williamson",
-      "case": 167,
+      "case": 262,
       "death": 5
     },
     {
