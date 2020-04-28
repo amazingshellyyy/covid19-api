@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1588087911078,
+  "timeStamp": 1588091510970,
   "data": [
     {
       "county": "Adair",
@@ -8,7 +8,7 @@
     },
     {
       "county": "Andrew",
-      "case": 1,
+      "case": 2,
       "death": 0
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "county": "Buchanan",
-      "case": 57,
+      "case": 63,
       "death": 1
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "county": "Caldwell",
-      "case": 2,
+      "case": 3,
       "death": 0
     },
     {
@@ -73,12 +73,12 @@
     },
     {
       "county": "Cape Girardeau",
-      "case": 47,
+      "case": 48,
       "death": 1
     },
     {
       "county": "Carroll",
-      "case": 3,
+      "case": 2,
       "death": 0
     },
     {
@@ -103,7 +103,7 @@
     },
     {
       "county": "Christian",
-      "case": 18,
+      "case": 19,
       "death": 0
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "county": "Clay",
-      "case": 67,
+      "case": 68,
       "death": 1
     },
     {
@@ -208,7 +208,7 @@
     },
     {
       "county": "Jackson",
-      "case": 307,
+      "case": 309,
       "death": 9
     },
     {
@@ -218,12 +218,12 @@
     },
     {
       "county": "Jefferson",
-      "case": 250,
+      "case": 249,
       "death": 3
     },
     {
       "county": "Johnson",
-      "case": 53,
+      "case": 54,
       "death": 0
     },
     {
@@ -233,7 +233,7 @@
     },
     {
       "county": "Kansas City",
-      "case": 493,
+      "case": 500,
       "death": 15
     },
     {
@@ -248,7 +248,7 @@
     },
     {
       "county": "Lincoln",
-      "case": 43,
+      "case": 45,
       "death": 1
     },
     {
@@ -298,7 +298,7 @@
     },
     {
       "county": "Moniteau",
-      "case": 39,
+      "case": 40,
       "death": 0
     },
     {
@@ -338,7 +338,7 @@
     },
     {
       "county": "Pemiscot",
-      "case": 17,
+      "case": 19,
       "death": 1
     },
     {
@@ -358,7 +358,7 @@
     },
     {
       "county": "Pike",
-      "case": 8,
+      "case": 9,
       "death": 0
     },
     {
@@ -403,7 +403,7 @@
     },
     {
       "county": "Saline",
-      "case": 159,
+      "case": 168,
       "death": 0
     },
     {
@@ -423,7 +423,7 @@
     },
     {
       "county": "St. Charles",
-      "case": 526,
+      "case": 543,
       "death": 27
     },
     {
@@ -438,13 +438,13 @@
     },
     {
       "county": "St. Louis City",
-      "case": 1007,
-      "death": 50
+      "case": 1027,
+      "death": 54
     },
     {
       "county": "St. Louis County",
-      "case": 2794,
-      "death": 127
+      "case": 2897,
+      "death": 137
     },
     {
       "county": "Ste. Genevieve",
