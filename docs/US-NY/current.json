@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1588051924696,
+  "timeStamp": 1588055502441,
   "data": [
     {
       "county": "Albany",
@@ -68,8 +68,8 @@
     },
     {
       "county": "Erie",
-      "case": 3061,
-      "death": 195
+      "case": 3109,
+      "death": 220
     },
     {
       "county": "Essex",
@@ -149,12 +149,12 @@
     {
       "county": "Oneida",
       "case": 397,
-      "death": 14
+      "death": 15
     },
     {
       "county": "Onondaga",
-      "case": 774,
-      "death": 25
+      "case": 819,
+      "death": 26
     },
     {
       "county": "Ontario",
@@ -188,7 +188,7 @@
     },
     {
       "county": "Rensselaer",
-      "case": 246,
+      "case": 256,
       "death": 8
     },
     {
@@ -228,8 +228,8 @@
     },
     {
       "county": "Steuben",
-      "case": 221,
-      "death": 33
+      "case": 225,
+      "death": 35
     },
     {
       "county": "Suffolk",
