@@ -19243,5 +19243,60 @@
         "death": 0
       }
     ]
+  },
+  {
+    "timeStamp": 1588131108345,
+    "data": [
+      {
+        "county": "8 / 8",
+        "case": 25269,
+        "death": 1924
+      },
+      {
+        "county": "Fairfield",
+        "case": 10529,
+        "death": 707
+      },
+      {
+        "county": "Hartford",
+        "case": 4989,
+        "death": 579
+      },
+      {
+        "county": "Litchfield",
+        "case": 864,
+        "death": 74
+      },
+      {
+        "county": "Middlesex",
+        "case": 588,
+        "death": 66
+      },
+      {
+        "county": "New Haven",
+        "case": 6715,
+        "death": 429
+      },
+      {
+        "county": "New London",
+        "case": 498,
+        "death": 31
+      },
+      {
+        "county": "Tolland",
+        "case": 407,
+        "death": 35
+      },
+      {
+        "county": "Windham",
+        "case": 157,
+        "death": 3
+      },
+      {
+        "county": "Unknown ",
+        "case": 522,
+        "death": 0
+      }
+    ]
   }
 ]
