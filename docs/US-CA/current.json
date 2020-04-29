@@ -1,35 +1,35 @@
 {
-  "timeStamp": 1588120314986,
+  "timeStamp": 1588123912354,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 19528,
-      "death": 913
+      "case": 20976,
+      "death": 1000
     },
     {
       "county": "Riverside",
-      "case": 3563,
-      "death": 118
+      "case": 3735,
+      "death": 141
     },
     {
       "county": "San Diego",
-      "case": 3043,
-      "death": 111
-    },
-    {
-      "county": "Santa Clara",
-      "case": 2084,
-      "death": 100
+      "case": 3314,
+      "death": 118
     },
     {
       "county": "Orange",
-      "case": 2074,
-      "death": 39
+      "case": 2151,
+      "death": 42
+    },
+    {
+      "county": "Santa Clara",
+      "case": 2122,
+      "death": 106
     },
     {
       "county": "San Bernardino",
-      "case": 1751,
-      "death": 82
+      "case": 1827,
+      "death": 85
     },
     {
       "county": "Alameda",
