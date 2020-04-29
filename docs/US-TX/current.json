@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1588181535925,
+  "timeStamp": 1588185116697,
   "data": [
     {
       "county": "207 / 254",
@@ -63,7 +63,7 @@
     },
     {
       "county": "Bexar",
-      "case": 1275,
+      "case": 1307,
       "death": 44
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "county": "Brazoria",
-      "case": 464,
-      "death": 5
+      "case": 476,
+      "death": 6
     },
     {
       "county": "Brazos",
-      "case": 182,
+      "case": 193,
       "death": 16
     },
     {
@@ -128,8 +128,8 @@
     },
     {
       "county": "Cameron",
-      "case": 376,
-      "death": 14
+      "case": 387,
+      "death": 16
     },
     {
       "county": "Camp",
@@ -178,8 +178,8 @@
     },
     {
       "county": "Collin",
-      "case": 676,
-      "death": 17
+      "case": 692,
+      "death": 19
     },
     {
       "county": "Colorado",
@@ -188,7 +188,7 @@
     },
     {
       "county": "Comal",
-      "case": 49,
+      "case": 54,
       "death": 6
     },
     {
@@ -233,8 +233,8 @@
     },
     {
       "county": "Dallas",
-      "case": 3105,
-      "death": 84
+      "case": 3240,
+      "death": 94
     },
     {
       "county": "Dawson",
@@ -253,7 +253,7 @@
     },
     {
       "county": "Denton",
-      "case": 725,
+      "case": 738,
       "death": 20
     },
     {
@@ -288,17 +288,17 @@
     },
     {
       "county": "Ector",
-      "case": 76,
+      "case": 81,
       "death": 4
     },
     {
       "county": "El Paso",
-      "case": 829,
-      "death": 12
+      "case": 865,
+      "death": 66
     },
     {
       "county": "Ellis",
-      "case": 133,
+      "case": 160,
       "death": 5
     },
     {
@@ -328,8 +328,8 @@
     },
     {
       "county": "Fort Bend",
-      "case": 957,
-      "death": 22
+      "case": 1018,
+      "death": 24
     },
     {
       "county": "Franklin",
@@ -353,7 +353,7 @@
     },
     {
       "county": "Galveston",
-      "case": 548,
+      "case": 554,
       "death": 24
     },
     {
@@ -383,7 +383,7 @@
     },
     {
       "county": "Gregg",
-      "case": 69,
+      "case": 74,
       "death": 0
     },
     {
@@ -393,7 +393,7 @@
     },
     {
       "county": "Guadalupe",
-      "case": 69,
+      "case": 80,
       "death": 0
     },
     {
@@ -413,7 +413,7 @@
     },
     {
       "county": "Hardin",
-      "case": 96,
+      "case": 99,
       "death": 3
     },
     {
@@ -433,7 +433,7 @@
     },
     {
       "county": "Hays",
-      "case": 155,
+      "case": 165,
       "death": 1
     },
     {
@@ -503,12 +503,12 @@
     },
     {
       "county": "Jasper",
-      "case": 12,
+      "case": 21,
       "death": 0
     },
     {
       "county": "Jefferson",
-      "case": 288,
+      "case": 289,
       "death": 19
     },
     {
@@ -599,7 +599,7 @@
     {
       "county": "Liberty",
       "case": 39,
-      "death": 0
+      "death": 1
     },
     {
       "county": "Limestone",
@@ -653,7 +653,7 @@
     },
     {
       "county": "Matagorda",
-      "case": 60,
+      "case": 63,
       "death": 3
     },
     {
@@ -753,8 +753,8 @@
     },
     {
       "county": "Orange",
-      "case": 64,
-      "death": 0
+      "case": 70,
+      "death": 1
     },
     {
       "county": "Palo Pinto",
@@ -763,8 +763,8 @@
     },
     {
       "county": "Panola",
-      "case": 80,
-      "death": 1
+      "case": 94,
+      "death": 6
     },
     {
       "county": "Parker",
@@ -788,7 +788,7 @@
     },
     {
       "county": "Potter",
-      "case": 396,
+      "case": 446,
       "death": 6
     },
     {
@@ -964,11 +964,11 @@
     {
       "county": "Washington",
       "case": 136,
-      "death": 11
+      "death": 12
     },
     {
       "county": "Webb",
-      "case": 346,
+      "case": 349,
       "death": 15
     },
     {
@@ -999,7 +999,7 @@
     {
       "county": "Williamson",
       "case": 287,
-      "death": 6
+      "death": 8
     },
     {
       "county": "Wilson",
