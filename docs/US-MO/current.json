@@ -1,6 +1,11 @@
 {
-  "timeStamp": 1588177916704,
+  "timeStamp": 1588181536914,
   "data": [
+    {
+      "county": "97 / 115",
+      "case": 7303,
+      "death": 314
+    },
     {
       "county": "Adair",
       "case": 12,
@@ -23,7 +28,7 @@
     },
     {
       "county": "Barry",
-      "case": 6,
+      "case": 5,
       "death": 0
     },
     {
@@ -147,7 +152,7 @@
       "death": 0
     },
     {
-      "county": "DeKalb",
+      "county": "Dekalb",
       "case": 3,
       "death": 0
     },
@@ -173,7 +178,7 @@
     },
     {
       "county": "Greene",
-      "case": 83,
+      "case": 82,
       "death": 7
     },
     {
@@ -183,7 +188,7 @@
     },
     {
       "county": "Henry",
-      "case": 8,
+      "case": 6,
       "death": 1
     },
     {
@@ -437,7 +442,7 @@
       "death": 1
     },
     {
-      "county": "St. Louis City",
+      "county": "St. Louis (City)",
       "case": 1054,
       "death": 55
     },
