@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1588185210515,
+  "timeStamp": 1588196008140,
   "data": [
     {
       "state": "Alabama",
@@ -53,8 +53,8 @@
     },
     {
       "state": "Florida",
-      "case": 32138,
-      "death": 1088
+      "case": 33193,
+      "death": 1218
     },
     {
       "state": "Georgia",
@@ -78,7 +78,7 @@
     },
     {
       "state": "Illinois",
-      "case": 48102,
+      "case": 50355,
       "death": 2125
     },
     {
@@ -93,8 +93,8 @@
     },
     {
       "state": "Kansas",
-      "case": 3491,
-      "death": 124
+      "case": 3738,
+      "death": 125
     },
     {
       "state": "Kentucky",
@@ -103,8 +103,8 @@
     },
     {
       "state": "Louisiana",
-      "case": 27068,
-      "death": 1697
+      "case": 27660,
+      "death": 1802
     },
     {
       "state": "Maine",
@@ -118,13 +118,13 @@
     },
     {
       "state": "Massachusetts",
-      "case": 58302,
-      "death": 3153
+      "case": 60265,
+      "death": 3405
     },
     {
       "state": "Michigan",
-      "case": 39262,
-      "death": 3567
+      "case": 40399,
+      "death": 3670
     },
     {
       "state": "Minnesota",
@@ -163,8 +163,8 @@
     },
     {
       "state": "New Jersey",
-      "case": 113856,
-      "death": 6442
+      "case": 116264,
+      "death": 6770
     },
     {
       "state": "New Mexico",
@@ -173,8 +173,8 @@
     },
     {
       "state": "New York",
-      "case": 295106,
-      "death": 17638
+      "case": 299691,
+      "death": 18015
     },
     {
       "state": "North Carolina",
@@ -208,8 +208,8 @@
     },
     {
       "state": "Pennsylvania",
-      "case": 43264,
-      "death": 1716
+      "case": 44366,
+      "death": 2195
     },
     {
       "state": "Puerto Rico",
@@ -238,8 +238,8 @@
     },
     {
       "state": "Texas",
-      "case": 25297,
-      "death": 663
+      "case": 27054,
+      "death": 732
     },
     {
       "state": "Utah",
