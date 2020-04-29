@@ -1,10 +1,10 @@
 {
-  "timeStamp": 1588188814261,
+  "timeStamp": 1588192303936,
   "data": [
     {
       "county": "Albany",
-      "case": 1009,
-      "death": 26
+      "case": 1067,
+      "death": 27
     },
     {
       "county": "Allegany",
@@ -13,12 +13,12 @@
     },
     {
       "county": "Broome",
-      "case": 266,
-      "death": 19
+      "case": 273,
+      "death": 21
     },
     {
       "county": "Cattaraugus",
-      "case": 45,
+      "case": 47,
       "death": 2
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "county": "Chautauqua",
-      "case": 30,
+      "case": 31,
       "death": 1
     },
     {
       "county": "Chemung",
-      "case": 113,
+      "case": 119,
       "death": 1
     },
     {
       "county": "Chenango",
-      "case": 95,
+      "case": 96,
       "death": 0
     },
     {
@@ -48,12 +48,12 @@
     },
     {
       "county": "Columbia",
-      "case": 154,
+      "case": 165,
       "death": 14
     },
     {
       "county": "Cortland",
-      "case": 32,
+      "case": 33,
       "death": 1
     },
     {
@@ -63,37 +63,37 @@
     },
     {
       "county": "Dutchess",
-      "case": 2817,
-      "death": 65
+      "case": 2881,
+      "death": 68
     },
     {
       "county": "Erie",
-      "case": 3109,
-      "death": 220
+      "case": 3224,
+      "death": 234
     },
     {
       "county": "Essex",
-      "case": 26,
+      "case": 27,
       "death": 0
     },
     {
       "county": "Franklin",
-      "case": 14,
+      "case": 15,
       "death": 0
     },
     {
       "county": "Fulton",
-      "case": 66,
+      "case": 67,
       "death": 3
     },
     {
       "county": "Genesee",
-      "case": 149,
+      "case": 152,
       "death": 3
     },
     {
       "county": "Greene",
-      "case": 112,
+      "case": 114,
       "death": 2
     },
     {
@@ -118,12 +118,12 @@
     },
     {
       "county": "Livingston",
-      "case": 65,
+      "case": 67,
       "death": 2
     },
     {
       "county": "Madison",
-      "case": 134,
+      "case": 147,
       "death": 5
     },
     {
@@ -288,8 +288,8 @@
     },
     {
       "county": "New York City ",
-      "case": 162338,
-      "death": 12509
+      "case": 164841,
+      "death": 12774
     }
   ]
 }
