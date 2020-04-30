@@ -230418,5 +230418,280 @@
         "death": 0
       }
     ]
+  },
+  {
+    "timeStamp": 1588264308288,
+    "data": [
+      {
+        "county": "Los Angeles",
+        "case": 22485,
+        "death": 1056
+      },
+      {
+        "county": "Riverside",
+        "case": 3942,
+        "death": 143
+      },
+      {
+        "county": "San Diego",
+        "case": 3432,
+        "death": 120
+      },
+      {
+        "county": "Orange",
+        "case": 2252,
+        "death": 44
+      },
+      {
+        "county": "Santa Clara",
+        "case": 2134,
+        "death": 107
+      },
+      {
+        "county": "San Bernardino",
+        "case": 1928,
+        "death": 89
+      },
+      {
+        "county": "Alameda",
+        "case": 1568,
+        "death": 57
+      },
+      {
+        "county": "San Francisco",
+        "case": 1490,
+        "death": 23
+      },
+      {
+        "county": "San Mateo",
+        "case": 1136,
+        "death": 48
+      },
+      {
+        "county": "Sacramento",
+        "case": 1068,
+        "death": 42
+      },
+      {
+        "county": "Kern",
+        "case": 866,
+        "death": 6
+      },
+      {
+        "county": "Contra Costa",
+        "case": 862,
+        "death": 25
+      },
+      {
+        "county": "Tulare",
+        "case": 626,
+        "death": 36
+      },
+      {
+        "county": "San Joaquin",
+        "case": 540,
+        "death": 25
+      },
+      {
+        "county": "Fresno",
+        "case": 538,
+        "death": 7
+      },
+      {
+        "county": "Ventura",
+        "case": 517,
+        "death": 17
+      },
+      {
+        "county": "Santa Barbara",
+        "case": 485,
+        "death": 8
+      },
+      {
+        "county": "Stanislaus",
+        "case": 339,
+        "death": 11
+      },
+      {
+        "county": "Imperial",
+        "case": 319,
+        "death": 8
+      },
+      {
+        "county": "Solano",
+        "case": 254,
+        "death": 5
+      },
+      {
+        "county": "Marin",
+        "case": 235,
+        "death": 13
+      },
+      {
+        "county": "Sonoma",
+        "case": 228,
+        "death": 2
+      },
+      {
+        "county": "Monterey",
+        "case": 206,
+        "death": 5
+      },
+      {
+        "county": "San Luis Obispo",
+        "case": 181,
+        "death": 1
+      },
+      {
+        "county": "Yolo",
+        "case": 163,
+        "death": 16
+      },
+      {
+        "county": "Placer",
+        "case": 145,
+        "death": 8
+      },
+      {
+        "county": "Santa Cruz",
+        "case": 127,
+        "death": 2
+      },
+      {
+        "county": "Merced",
+        "case": 118,
+        "death": 3
+      },
+      {
+        "county": "Kings",
+        "case": 79,
+        "death": 1
+      },
+      {
+        "county": "Napa",
+        "case": 67,
+        "death": 2
+      },
+      {
+        "county": "Humboldt",
+        "case": 54,
+        "death": 0
+      },
+      {
+        "county": "San Benito",
+        "case": 50,
+        "death": 2
+      },
+      {
+        "county": "Madera",
+        "case": 46,
+        "death": 2
+      },
+      {
+        "county": "El Dorado",
+        "case": 44,
+        "death": 0
+      },
+      {
+        "county": "Nevada",
+        "case": 41,
+        "death": 1
+      },
+      {
+        "county": "Shasta",
+        "case": 31,
+        "death": 4
+      },
+      {
+        "county": "Sutter",
+        "case": 30,
+        "death": 2
+      },
+      {
+        "county": "Mono",
+        "case": 26,
+        "death": 1
+      },
+      {
+        "county": "Inyo",
+        "case": 19,
+        "death": 1
+      },
+      {
+        "county": "Yuba",
+        "case": 17,
+        "death": 1
+      },
+      {
+        "county": "Butte",
+        "case": 16,
+        "death": 0
+      },
+      {
+        "county": "Calaveras",
+        "case": 13,
+        "death": 0
+      },
+      {
+        "county": "Mendocino",
+        "case": 12,
+        "death": 0
+      },
+      {
+        "county": "Amador",
+        "case": 8,
+        "death": 0
+      },
+      {
+        "county": "Lake",
+        "case": 6,
+        "death": 0
+      },
+      {
+        "county": "Siskiyou",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Glenn",
+        "case": 5,
+        "death": 0
+      },
+      {
+        "county": "Plumas",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Tuolumne",
+        "case": 4,
+        "death": 0
+      },
+      {
+        "county": "Colusa",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Del Norte",
+        "case": 3,
+        "death": 0
+      },
+      {
+        "county": "Alpine",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Mariposa",
+        "case": 1,
+        "death": 0
+      },
+      {
+        "county": "Tehama",
+        "case": 1,
+        "death": 0
+      }
+    ]
   }
 ]
