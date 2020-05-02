@@ -1,50 +1,45 @@
 {
-  "timeStamp": 1588440719111,
+  "timeStamp": 1588444310728,
   "data": [
     {
-      "county": "Atlantic",
-      "case": 1012,
-      "death": 45
-    },
-    {
       "county": "Bergen",
-      "case": 15830,
-      "death": 1187
+      "case": 15974,
+      "death": 1202
     },
     {
       "county": "Burlington",
-      "case": 2769,
-      "death": 144
+      "case": 2879,
+      "death": 146
     },
     {
       "county": "Camden",
-      "case": 3646,
-      "death": 155
+      "case": 3773,
+      "death": 161
     },
     {
       "county": "Cape May",
-      "case": 334,
-      "death": 22
+      "case": 337,
+      "death": 23
     },
     {
       "county": "Cumberland",
-      "case": 746,
-      "death": 13
+      "case": 809,
+      "death": 16
     },
     {
       "county": "Essex",
-      "case": 13994,
-      "death": 1240
+      "case": 14248,
+      "death": 1265
     },
     {
       "county": "Gloucester",
-      "case": 1282,
-      "death": 48
+      "case": 1334,
+      "death": 50
     },
     {
       "county": "Hudson",
-      "case": 15148,
-      "death": 819
+      "case": 15401,
+      "death": 834
     },
     {
       "county": "Hunterdon",
@@ -53,62 +48,62 @@
     },
     {
       "county": "Mercer",
-      "case": 4077,
-      "death": 239
+      "case": 4271,
+      "death": 252
     },
     {
       "county": "Middlesex",
-      "case": 11947,
-      "death": 591
+      "case": 12213,
+      "death": 618
     },
     {
       "county": "Monmouth",
-      "case": 6132,
-      "death": 355
+      "case": 6198,
+      "death": 372
     },
     {
       "county": "Morris",
-      "case": 5354,
-      "death": 430
+      "case": 5406,
+      "death": 440
     },
     {
       "county": "Ocean",
-      "case": 6505,
-      "death": 420
+      "case": 6692,
+      "death": 426
     },
     {
       "county": "Passaic",
-      "case": 12814,
-      "death": 599
+      "case": 13082,
+      "death": 624
     },
     {
       "county": "Salem",
-      "case": 237,
-      "death": 11
+      "case": 261,
+      "death": 12
     },
     {
       "county": "Somerset",
-      "case": 3537,
-      "death": 282
+      "case": 3605,
+      "death": 289
     },
     {
       "county": "Sussex",
-      "case": 936,
-      "death": 110
+      "case": 949,
+      "death": 114
     },
     {
       "county": "Union",
-      "case": 12779,
-      "death": 714
+      "case": 12996,
+      "death": 731
     },
     {
       "county": "Warren",
-      "case": 920,
-      "death": 83
+      "case": 941,
+      "death": 84
     },
     {
       "county": "Under investigation",
-      "case": 818,
+      "case": 676,
       "death": 0
     }
   ]
