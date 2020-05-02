@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1588383122416,
+  "timeStamp": 1588386708556,
   "data": [
     {
       "county": "Los Angeles",
@@ -102,14 +102,14 @@
       "death": 5
     },
     {
-      "county": "Marin",
-      "case": 239,
-      "death": 13
-    },
-    {
       "county": "Sonoma",
       "case": 244,
       "death": 2
+    },
+    {
+      "county": "Marin",
+      "case": 239,
+      "death": 13
     },
     {
       "county": "Monterey",
@@ -162,14 +162,14 @@
       "death": 2
     },
     {
+      "county": "El Dorado",
+      "case": 47,
+      "death": 0
+    },
+    {
       "county": "Madera",
       "case": 46,
       "death": 2
-    },
-    {
-      "county": "El Dorado",
-      "case": 44,
-      "death": 0
     },
     {
       "county": "Nevada",
@@ -183,7 +183,7 @@
     },
     {
       "county": "Sutter",
-      "case": 30,
+      "case": 31,
       "death": 2
     },
     {
@@ -198,7 +198,7 @@
     },
     {
       "county": "Yuba",
-      "case": 18,
+      "case": 19,
       "death": 1
     },
     {
@@ -208,6 +208,11 @@
     },
     {
       "county": "Calaveras",
+      "case": 13,
+      "death": 0
+    },
+    {
+      "county": "Mariposa",
       "case": 13,
       "death": 0
     },
@@ -253,11 +258,6 @@
     },
     {
       "county": "Del Norte",
-      "case": 3,
-      "death": 0
-    },
-    {
-      "county": "Mariposa",
       "case": 3,
       "death": 0
     },
