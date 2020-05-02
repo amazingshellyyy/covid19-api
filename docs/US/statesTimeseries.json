@@ -101021,5 +101021,290 @@
         "death": 7
       }
     ]
+  },
+  {
+    "timeStamp": 1588422795985,
+    "data": [
+      {
+        "state": "Alabama",
+        "case": 7294,
+        "death": 289
+      },
+      {
+        "state": "Alaska",
+        "case": 364,
+        "death": 9
+      },
+      {
+        "state": "American Samoa",
+        "case": 0,
+        "death": 0
+      },
+      {
+        "state": "Arizona",
+        "case": 7962,
+        "death": 330
+      },
+      {
+        "state": "Arkansas",
+        "case": 3310,
+        "death": 64
+      },
+      {
+        "state": "California",
+        "case": 50442,
+        "death": 2073
+      },
+      {
+        "state": "Colorado",
+        "case": 15768,
+        "death": 820
+      },
+      {
+        "state": "Connecticut",
+        "case": 28764,
+        "death": 2339
+      },
+      {
+        "state": "Delaware",
+        "case": 4918,
+        "death": 159
+      },
+      {
+        "state": "District of Columbia",
+        "case": 4658,
+        "death": 231
+      },
+      {
+        "state": "Florida",
+        "case": 34728,
+        "death": 1314
+      },
+      {
+        "state": "Georgia",
+        "case": 27494,
+        "death": 1167
+      },
+      {
+        "state": "Guam",
+        "case": 145,
+        "death": 5
+      },
+      {
+        "state": "Hawaii",
+        "case": 618,
+        "death": 16
+      },
+      {
+        "state": "Idaho",
+        "case": 1984,
+        "death": 60
+      },
+      {
+        "state": "Illinois",
+        "case": 56055,
+        "death": 2457
+      },
+      {
+        "state": "Indiana",
+        "case": 17835,
+        "death": 1007
+      },
+      {
+        "state": "Iowa",
+        "case": 7145,
+        "death": 162
+      },
+      {
+        "state": "Kansas",
+        "case": 4449,
+        "death": 130
+      },
+      {
+        "state": "Kentucky",
+        "case": 4708,
+        "death": 240
+      },
+      {
+        "state": "Louisiana",
+        "case": 28001,
+        "death": 1862
+      },
+      {
+        "state": "Maine",
+        "case": 1095,
+        "death": 53
+      },
+      {
+        "state": "Maryland",
+        "case": 21742,
+        "death": 1047
+      },
+      {
+        "state": "Massachusetts",
+        "case": 64311,
+        "death": 3716
+      },
+      {
+        "state": "Michigan",
+        "case": 42356,
+        "death": 3866
+      },
+      {
+        "state": "Minnesota",
+        "case": 5136,
+        "death": 343
+      },
+      {
+        "state": "Mississippi",
+        "case": 6815,
+        "death": 261
+      },
+      {
+        "state": "Missouri",
+        "case": 7582,
+        "death": 329
+      },
+      {
+        "state": "Montana",
+        "case": 453,
+        "death": 16
+      },
+      {
+        "state": "Nebraska",
+        "case": 4281,
+        "death": 70
+      },
+      {
+        "state": "Nevada",
+        "case": 4998,
+        "death": 243
+      },
+      {
+        "state": "New Hampshire",
+        "case": 2054,
+        "death": 66
+      },
+      {
+        "state": "New Jersey",
+        "case": 121190,
+        "death": 7538
+      },
+      {
+        "state": "New Mexico",
+        "case": 3411,
+        "death": 123
+      },
+      {
+        "state": "New York",
+        "case": 308314,
+        "death": 18610
+      },
+      {
+        "state": "North Carolina",
+        "case": 10509,
+        "death": 378
+      },
+      {
+        "state": "North Dakota",
+        "case": 1067,
+        "death": 19
+      },
+      {
+        "state": "Northern Mariana Islands",
+        "case": 14,
+        "death": 2
+      },
+      {
+        "state": "Ohio",
+        "case": 18027,
+        "death": 975
+      },
+      {
+        "state": "Oklahoma",
+        "case": 3618,
+        "death": 222
+      },
+      {
+        "state": "Oregon",
+        "case": 2510,
+        "death": 103
+      },
+      {
+        "state": "Pennsylvania",
+        "case": 46971,
+        "death": 2354
+      },
+      {
+        "state": "Puerto Rico",
+        "case": 1539,
+        "death": 92
+      },
+      {
+        "state": "Rhode Island",
+        "case": 8621,
+        "death": 266
+      },
+      {
+        "state": "South Carolina",
+        "case": 6095,
+        "death": 244
+      },
+      {
+        "state": "South Dakota",
+        "case": 2449,
+        "death": 17
+      },
+      {
+        "state": "Tennessee",
+        "case": 10735,
+        "death": 199
+      },
+      {
+        "state": "Texas",
+        "case": 28087,
+        "death": 782
+      },
+      {
+        "state": "Utah",
+        "case": 4672,
+        "death": 46
+      },
+      {
+        "state": "Virgin Islands",
+        "case": 66,
+        "death": 4
+      },
+      {
+        "state": "Vermont",
+        "case": 866,
+        "death": 49
+      },
+      {
+        "state": "Virginia",
+        "case": 15846,
+        "death": 552
+      },
+      {
+        "state": "Washington",
+        "case": 14070,
+        "death": 801
+      },
+      {
+        "state": "West Virginia",
+        "case": 1125,
+        "death": 44
+      },
+      {
+        "state": "Wisconsin",
+        "case": 6854,
+        "death": 316
+      },
+      {
+        "state": "Wyoming",
+        "case": 559,
+        "death": 7
+      }
+    ]
   }
 ]
