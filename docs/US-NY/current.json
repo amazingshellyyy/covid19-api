@@ -1,10 +1,10 @@
 {
-  "timeStamp": 1588444312485,
+  "timeStamp": 1588447926382,
   "data": [
     {
       "county": "Albany",
-      "case": 1204,
-      "death": 33
+      "case": 1238,
+      "death": 35
     },
     {
       "county": "Allegany",
@@ -13,18 +13,18 @@
     },
     {
       "county": "Broome",
-      "case": 299,
-      "death": 21
+      "case": 305,
+      "death": 22
     },
     {
       "county": "Cattaraugus",
-      "case": 49,
+      "case": 50,
       "death": 2
     },
     {
       "county": "Cayuga",
       "case": 51,
-      "death": 1
+      "death": 2
     },
     {
       "county": "Chautauqua",
@@ -33,7 +33,7 @@
     },
     {
       "county": "Chemung",
-      "case": 123,
+      "case": 124,
       "death": 1
     },
     {
@@ -43,13 +43,13 @@
     },
     {
       "county": "Clinton",
-      "case": 61,
+      "case": 62,
       "death": 4
     },
     {
       "county": "Columbia",
-      "case": 202,
-      "death": 14
+      "case": 215,
+      "death": 15
     },
     {
       "county": "Cortland",
@@ -63,13 +63,13 @@
     },
     {
       "county": "Dutchess",
-      "case": 3002,
-      "death": 70
+      "case": 3049,
+      "death": 73
     },
     {
       "county": "Erie",
-      "case": 3481,
-      "death": 253
+      "case": 3598,
+      "death": 268
     },
     {
       "county": "Essex",
@@ -83,17 +83,17 @@
     },
     {
       "county": "Fulton",
-      "case": 75,
+      "case": 79,
       "death": 3
     },
     {
       "county": "Genesee",
-      "case": 154,
+      "case": 155,
       "death": 3
     },
     {
       "county": "Greene",
-      "case": 139,
+      "case": 142,
       "death": 3
     },
     {
@@ -103,12 +103,12 @@
     },
     {
       "county": "Herkimer",
-      "case": 60,
+      "case": 61,
       "death": 3
     },
     {
       "county": "Jefferson",
-      "case": 61,
+      "case": 62,
       "death": 0
     },
     {
@@ -118,47 +118,47 @@
     },
     {
       "county": "Livingston",
-      "case": 73,
+      "case": 76,
       "death": 2
     },
     {
       "county": "Madison",
-      "case": 167,
+      "case": 174,
       "death": 5
     },
     {
       "county": "Monroe",
-      "case": 1478,
-      "death": 106
+      "case": 1534,
+      "death": 112
     },
     {
       "county": "Montgomery",
-      "case": 53,
+      "case": 54,
       "death": 4
     },
     {
       "county": "Nassau",
-      "case": 36161,
-      "death": 1720
+      "case": 36519,
+      "death": 1745
     },
     {
       "county": "Niagara",
       "case": 488,
-      "death": 25
+      "death": 26
     },
     {
       "county": "Oneida",
-      "case": 451,
+      "case": 474,
       "death": 17
     },
     {
       "county": "Onondaga",
-      "case": 920,
-      "death": 30
+      "case": 947,
+      "death": 34
     },
     {
       "county": "Ontario",
-      "case": 91,
+      "case": 92,
       "death": 9
     },
     {
@@ -168,12 +168,12 @@
     },
     {
       "county": "Orleans",
-      "case": 92,
-      "death": 8
+      "case": 93,
+      "death": 9
     },
     {
       "county": "Oswego",
-      "case": 64,
+      "case": 66,
       "death": 3
     },
     {
@@ -183,28 +183,28 @@
     },
     {
       "county": "Putnam",
-      "case": 1090,
+      "case": 1115,
       "death": 45
     },
     {
       "county": "Rensselaer",
-      "case": 298,
-      "death": 12
+      "case": 311,
+      "death": 14
     },
     {
       "county": "Rockland",
-      "case": 11812,
-      "death": 511
+      "case": 11945,
+      "death": 519
     },
     {
       "county": "Saratoga",
-      "case": 358,
+      "case": 361,
       "death": 13
     },
     {
       "county": "Schenectady",
-      "case": 514,
-      "death": 27
+      "case": 521,
+      "death": 25
     },
     {
       "county": "Schoharie",
@@ -218,7 +218,7 @@
     },
     {
       "county": "Seneca",
-      "case": 41,
+      "case": 42,
       "death": 2
     },
     {
@@ -228,17 +228,17 @@
     },
     {
       "county": "Steuben",
-      "case": 231,
-      "death": 37
+      "case": 234,
+      "death": 38
     },
     {
       "county": "Suffolk",
-      "case": 34387,
-      "death": 1203
+      "case": 34478,
+      "death": 1227
     },
     {
       "county": "Sullivan",
-      "case": 887,
+      "case": 931,
       "death": 22
     },
     {
@@ -254,31 +254,31 @@
     {
       "county": "Ulster",
       "case": 1358,
-      "death": 37
+      "death": 27
     },
     {
       "county": "Warren",
-      "case": 182,
-      "death": 8
+      "case": 185,
+      "death": 9
     },
     {
       "county": "Washington",
-      "case": 170,
+      "case": 184,
       "death": 5
     },
     {
       "county": "Wayne",
-      "case": 72,
+      "case": 73,
       "death": 1
     },
     {
       "county": "Westchester",
-      "case": 28970,
-      "death": 1049
+      "case": 29626,
+      "death": 1067
     },
     {
       "county": "Wyoming",
-      "case": 68,
+      "case": 69,
       "death": 5
     },
     {
