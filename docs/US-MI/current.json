@@ -1,6 +1,11 @@
 {
-  "timeStamp": 1588462319835,
+  "timeStamp": 1588465912305,
   "data": [
+    {
+      "county": "79 / 83",
+      "case": 43207,
+      "death": 4020
+    },
     {
       "county": "Alcona",
       "case": 5,
@@ -402,24 +407,19 @@
       "death": 42
     },
     {
-      "county": "FCI Milan",
+      "county": "FCI",
       "case": 93,
       "death": 2
     },
     {
-      "county": "Out-of-State",
-      "case": 16,
-      "death": 0
-    },
-    {
       "county": "Unknown",
       "case": 16,
-      "death": 0
+      "death": null
     },
     {
-      "county": "Total",
-      "case": 43207,
-      "death": 4020
+      "county": "Out of State",
+      "case": 16,
+      "death": null
     }
   ]
 }
