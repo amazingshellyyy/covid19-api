@@ -1,6 +1,11 @@
 {
-  "timeStamp": 1588509111761,
+  "timeStamp": 1588512743642,
   "data": [
+    {
+      "county": "21 / 21",
+      "case": 123717,
+      "death": 7742
+    },
     {
       "county": "Atlantic",
       "case": 1050,
@@ -48,8 +53,8 @@
     },
     {
       "county": "Hunterdon",
-      "case": 608,
-      "death": 31
+      "case": 622,
+      "death": 35
     },
     {
       "county": "Mercer",
@@ -105,11 +110,6 @@
       "county": "Warren",
       "case": 941,
       "death": 84
-    },
-    {
-      "county": "Under investigation",
-      "case": 676,
-      "death": 0
     }
   ]
 }
