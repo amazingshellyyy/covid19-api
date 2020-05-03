@@ -1,6 +1,11 @@
 {
-  "timeStamp": 1588491110776,
+  "timeStamp": 1588494721606,
   "data": [
+    {
+      "county": "Atlantic",
+      "case": 1050,
+      "death": 48
+    },
     {
       "county": "Bergen",
       "case": 15974,
