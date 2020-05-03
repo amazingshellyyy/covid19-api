@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1588469500733,
+  "timeStamp": 1588473114653,
   "data": [
     {
       "county": "Los Angeles",
@@ -103,7 +103,7 @@
     },
     {
       "county": "Sonoma",
-      "case": 244,
+      "case": 248,
       "death": 2
     },
     {
@@ -113,48 +113,53 @@
     },
     {
       "county": "Monterey",
-      "case": 213,
-      "death": 5
+      "case": 226,
+      "death": 6
     },
     {
       "county": "San Luis Obispo",
-      "case": 188,
+      "case": 196,
       "death": 1
     },
     {
       "county": "Yolo",
-      "case": 169,
+      "case": 171,
       "death": 16
     },
     {
       "county": "Placer",
-      "case": 150,
+      "case": 159,
       "death": 8
     },
     {
+      "county": "Kings",
+      "case": 146,
+      "death": 1
+    },
+    {
       "county": "Merced",
-      "case": 134,
+      "case": 140,
       "death": 3
     },
     {
       "county": "Santa Cruz",
-      "case": 132,
+      "case": 134,
       "death": 2
     },
     {
-      "county": "Kings",
-      "case": 123,
-      "death": 1
-    },
-    {
       "county": "Napa",
-      "case": 68,
+      "case": 70,
       "death": 2
     },
     {
       "county": "Humboldt",
       "case": 54,
       "death": 0
+    },
+    {
+      "county": "Madera",
+      "case": 51,
+      "death": 2
     },
     {
       "county": "San Benito",
@@ -165,11 +170,6 @@
       "county": "El Dorado",
       "case": 47,
       "death": 0
-    },
-    {
-      "county": "Madera",
-      "case": 46,
-      "death": 2
     },
     {
       "county": "Nevada",
