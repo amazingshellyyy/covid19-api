@@ -1,15 +1,20 @@
 {
-  "timeStamp": 1588599125233,
+  "timeStamp": 1588602715760,
   "data": [
     {
       "county": "Albany",
       "case": 1258,
-      "death": 35
+      "death": 36
     },
     {
       "county": "Allegany",
       "case": 35,
       "death": 2
+    },
+    {
+      "county": "Bronx",
+      "case": 38916,
+      "death": 2784
     },
     {
       "county": "Broome",
@@ -112,6 +117,11 @@
       "death": 0
     },
     {
+      "county": "Kings",
+      "case": 46839,
+      "death": 4262
+    },
+    {
       "county": "Lewis",
       "case": 9,
       "death": 4
@@ -125,6 +135,11 @@
       "county": "Madison",
       "case": 181,
       "death": 5
+    },
+    {
+      "county": "Manhattan",
+      "case": 22741,
+      "death": 1654
     },
     {
       "county": "Monroe",
@@ -187,9 +202,19 @@
       "death": 45
     },
     {
+      "county": "Queens",
+      "case": 53640,
+      "death": 4246
+    },
+    {
       "county": "Rensselaer",
       "case": 322,
       "death": 14
+    },
+    {
+      "county": "Richmond",
+      "case": 35982,
+      "death": 592
     },
     {
       "county": "Rockland",
@@ -285,11 +310,6 @@
       "county": "Yates",
       "case": 18,
       "death": 1
-    },
-    {
-      "county": "New York City",
-      "case": 174331,
-      "death": 13538
     }
   ]
 }
