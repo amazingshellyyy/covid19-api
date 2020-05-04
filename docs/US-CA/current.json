@@ -1,30 +1,30 @@
 {
-  "timeStamp": 1588552306731,
+  "timeStamp": 1588555923110,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 24894,
-      "death": 1209
+      "case": 25662,
+      "death": 1229
     },
     {
       "county": "Riverside",
-      "case": 4164,
+      "case": 4180,
       "death": 161
     },
     {
       "county": "San Diego",
-      "case": 3842,
-      "death": 138
+      "case": 3927,
+      "death": 139
     },
     {
       "county": "Orange",
-      "case": 2636,
+      "case": 2743,
       "death": 52
     },
     {
       "county": "Santa Clara",
-      "case": 2204,
-      "death": 114
+      "case": 2231,
+      "death": 115
     },
     {
       "county": "San Bernardino",
@@ -33,12 +33,12 @@
     },
     {
       "county": "Alameda",
-      "case": 1705,
+      "case": 1749,
       "death": 63
     },
     {
       "county": "San Francisco",
-      "case": 1543,
+      "case": 1602,
       "death": 29
     },
     {
@@ -48,22 +48,22 @@
     },
     {
       "county": "Sacramento",
-      "case": 1107,
+      "case": 1117,
       "death": 42
     },
     {
       "county": "Kern",
-      "case": 969,
+      "case": 1005,
       "death": 8
     },
     {
       "county": "Contra Costa",
-      "case": 934,
+      "case": 945,
       "death": 28
     },
     {
       "county": "Tulare",
-      "case": 720,
+      "case": 743,
       "death": 40
     },
     {
@@ -73,22 +73,22 @@
     },
     {
       "county": "San Joaquin",
-      "case": 560,
+      "case": 570,
       "death": 25
     },
     {
       "county": "Ventura",
-      "case": 559,
+      "case": 566,
       "death": 19
     },
     {
       "county": "Santa Barbara",
-      "case": 508,
+      "case": 514,
       "death": 8
     },
     {
       "county": "Stanislaus",
-      "case": 400,
+      "case": 411,
       "death": 14
     },
     {
@@ -103,7 +103,7 @@
     },
     {
       "county": "Sonoma",
-      "case": 248,
+      "case": 252,
       "death": 2
     },
     {
@@ -113,18 +113,18 @@
     },
     {
       "county": "Monterey",
-      "case": 226,
+      "case": 235,
       "death": 6
     },
     {
       "county": "San Luis Obispo",
-      "case": 196,
+      "case": 201,
       "death": 1
     },
     {
       "county": "Yolo",
       "case": 171,
-      "death": 16
+      "death": 17
     },
     {
       "county": "Placer",
@@ -133,17 +133,17 @@
     },
     {
       "county": "Kings",
-      "case": 146,
+      "case": 158,
       "death": 1
     },
     {
       "county": "Merced",
-      "case": 140,
+      "case": 142,
       "death": 3
     },
     {
       "county": "Santa Cruz",
-      "case": 134,
+      "case": 137,
       "death": 2
     },
     {
