@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1588645909621,
+  "timeStamp": 1588649507288,
   "data": [
     {
       "county": "Los Angeles",
@@ -88,12 +88,12 @@
     },
     {
       "county": "Stanislaus",
-      "case": 411,
-      "death": 14
+      "case": 428,
+      "death": 15
     },
     {
       "county": "Imperial",
-      "case": 358,
+      "case": 368,
       "death": 9
     },
     {
@@ -198,12 +198,12 @@
     },
     {
       "county": "Yuba",
-      "case": 19,
-      "death": 1
+      "case": 51,
+      "death": 3
     },
     {
       "county": "Butte",
-      "case": 16,
+      "case": 17,
       "death": 0
     },
     {
