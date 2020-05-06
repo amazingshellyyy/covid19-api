@@ -1,55 +1,55 @@
 {
-  "timeStamp": 1588786306016,
+  "timeStamp": 1588789921381,
   "data": [
     {
       "county": "8 / 8",
-      "case": 30621,
-      "death": 2633
+      "case": 25269,
+      "death": 1924
     },
     {
       "county": "Fairfield",
-      "case": 12630,
-      "death": 935
+      "case": 10529,
+      "death": 707
     },
     {
       "county": "Hartford",
-      "case": 6351,
-      "death": 804
+      "case": 4989,
+      "death": 579
     },
     {
       "county": "Litchfield",
-      "case": 1065,
-      "death": 95
+      "case": 864,
+      "death": 74
     },
     {
       "county": "Middlesex",
-      "case": 734,
-      "death": 95
+      "case": 588,
+      "death": 66
     },
     {
       "county": "New Haven",
-      "case": 8337,
-      "death": 610
+      "case": 6715,
+      "death": 429
     },
     {
       "county": "New London",
-      "case": 681,
-      "death": 45
+      "case": 498,
+      "death": 31
     },
     {
       "county": "Tolland",
-      "case": 502,
-      "death": 43
+      "case": 407,
+      "death": 35
     },
     {
       "county": "Windham",
-      "case": 223,
-      "death": 4
+      "case": 157,
+      "death": 3
     },
     {
       "county": "Unknown ",
-      "case": 368,
-      "death": 2
+      "case": 522,
+      "death": 0
     }
   ]
 }
