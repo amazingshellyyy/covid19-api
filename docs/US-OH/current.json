@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1588883510383,
+  "timeStamp": 1588887101696,
   "data": [
     {
       "county": "88 / 88",
@@ -445,6 +445,46 @@
       "county": "Wyandot",
       "case": 25,
       "death": 2
+    },
+    {
+      "county": "80+",
+      "case": 2416,
+      "death": 787
+    },
+    {
+      "county": "70–79",
+      "case": 2082,
+      "death": 833
+    },
+    {
+      "county": "60–69",
+      "case": 3185,
+      "death": 984
+    },
+    {
+      "county": "50–59",
+      "case": 3834,
+      "death": 762
+    },
+    {
+      "county": "40–49",
+      "case": 3586,
+      "death": 393
+    },
+    {
+      "county": "30–39",
+      "case": 3553,
+      "death": 221
+    },
+    {
+      "county": "20–29",
+      "case": 2808,
+      "death": 126
+    },
+    {
+      "county": "0–19",
+      "case": 656,
+      "death": 34
     }
   ]
 }
