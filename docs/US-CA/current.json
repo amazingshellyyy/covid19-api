@@ -1,129 +1,129 @@
 {
-  "timeStamp": 1589002324323,
+  "timeStamp": 1589005906827,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 29427,
-      "death": 1418
+      "case": 30296,
+      "death": 1468
     },
     {
       "county": "Riverside",
-      "case": 4756,
-      "death": 192
+      "case": 4817,
+      "death": 204
     },
     {
       "county": "San Diego",
-      "case": 4429,
-      "death": 165
+      "case": 4662,
+      "death": 169
     },
     {
       "county": "Orange",
-      "case": 3092,
-      "death": 66
+      "case": 3240,
+      "death": 71
     },
     {
       "county": "San Bernardino",
-      "case": 2562,
-      "death": 108
+      "case": 2629,
+      "death": 111
     },
     {
       "county": "Santa Clara",
-      "case": 2281,
-      "death": 127
+      "case": 2290,
+      "death": 128
     },
     {
       "county": "Alameda",
-      "case": 1917,
-      "death": 67
+      "case": 1961,
+      "death": 70
     },
     {
       "county": "San Francisco",
-      "case": 1806,
-      "death": 32
+      "case": 1853,
+      "death": 33
     },
     {
       "county": "San Mateo",
-      "case": 1377,
+      "case": 1397,
       "death": 56
     },
     {
-      "county": "Sacramento",
-      "case": 1153,
-      "death": 49
+      "county": "Kern",
+      "case": 1166,
+      "death": 15
     },
     {
-      "county": "Kern",
-      "case": 1133,
-      "death": 13
+      "county": "Sacramento",
+      "case": 1160,
+      "death": 50
+    },
+    {
+      "county": "Santa Barbara",
+      "case": 1032,
+      "death": 11
     },
     {
       "county": "Contra Costa",
-      "case": 999,
+      "case": 1014,
       "death": 29
     },
     {
       "county": "Tulare",
-      "case": 969,
-      "death": 43
+      "case": 1013,
+      "death": 44
     },
     {
       "county": "Fresno",
-      "case": 813,
+      "case": 841,
       "death": 9
     },
     {
-      "county": "Santa Barbara",
-      "case": 722,
-      "death": 10
-    },
-    {
       "county": "Ventura",
-      "case": 631,
+      "case": 652,
       "death": 19
     },
     {
       "county": "San Joaquin",
-      "case": 581,
+      "case": 597,
       "death": 28
     },
     {
+      "county": "Imperial",
+      "case": 512,
+      "death": 12
+    },
+    {
       "county": "Stanislaus",
-      "case": 476,
+      "case": 488,
       "death": 19
     },
     {
-      "county": "Imperial",
-      "case": 455,
-      "death": 11
-    },
-    {
       "county": "Solano",
-      "case": 342,
+      "case": 351,
       "death": 7
     },
     {
       "county": "Sonoma",
-      "case": 286,
+      "case": 292,
       "death": 3
     },
     {
-      "county": "Marin",
-      "case": 255,
-      "death": 14
-    },
-    {
       "county": "Monterey",
-      "case": 250,
+      "case": 267,
       "death": 6
     },
     {
       "county": "Kings",
-      "case": 244,
+      "case": 265,
       "death": 1
     },
     {
+      "county": "Marin",
+      "case": 257,
+      "death": 14
+    },
+    {
       "county": "San Luis Obispo",
-      "case": 211,
+      "case": 212,
       "death": 1
     },
     {
@@ -138,12 +138,12 @@
     },
     {
       "county": "Merced",
-      "case": 155,
+      "case": 163,
       "death": 3
     },
     {
       "county": "Santa Cruz",
-      "case": 139,
+      "case": 140,
       "death": 2
     },
     {
@@ -153,7 +153,7 @@
     },
     {
       "county": "Madera",
-      "case": 62,
+      "case": 66,
       "death": 2
     },
     {
@@ -162,14 +162,14 @@
       "death": 0
     },
     {
+      "county": "San Benito",
+      "case": 55,
+      "death": 2
+    },
+    {
       "county": "El Dorado",
       "case": 54,
       "death": 0
-    },
-    {
-      "county": "San Benito",
-      "case": 54,
-      "death": 2
     },
     {
       "county": "Nevada",
@@ -177,14 +177,14 @@
       "death": 1
     },
     {
+      "county": "Sutter",
+      "case": 32,
+      "death": 2
+    },
+    {
       "county": "Shasta",
       "case": 31,
       "death": 4
-    },
-    {
-      "county": "Sutter",
-      "case": 31,
-      "death": 2
     },
     {
       "county": "Mono",
