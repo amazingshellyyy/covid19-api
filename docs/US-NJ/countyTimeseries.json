@@ -75828,5 +75828,120 @@
         "death": 84
       }
     ]
+  },
+  {
+    "timeStamp": 1589049130135,
+    "data": [
+      {
+        "county": "21 / 21",
+        "case": 123717,
+        "death": 7742
+      },
+      {
+        "county": "Atlantic",
+        "case": 1050,
+        "death": 48
+      },
+      {
+        "county": "Bergen",
+        "case": 15974,
+        "death": 1202
+      },
+      {
+        "county": "Burlington",
+        "case": 2879,
+        "death": 146
+      },
+      {
+        "county": "Camden",
+        "case": 3773,
+        "death": 161
+      },
+      {
+        "county": "Cape May",
+        "case": 337,
+        "death": 23
+      },
+      {
+        "county": "Cumberland",
+        "case": 809,
+        "death": 16
+      },
+      {
+        "county": "Essex",
+        "case": 14248,
+        "death": 1265
+      },
+      {
+        "county": "Gloucester",
+        "case": 1334,
+        "death": 50
+      },
+      {
+        "county": "Hudson",
+        "case": 15401,
+        "death": 834
+      },
+      {
+        "county": "Hunterdon",
+        "case": 622,
+        "death": 35
+      },
+      {
+        "county": "Mercer",
+        "case": 4271,
+        "death": 252
+      },
+      {
+        "county": "Middlesex",
+        "case": 12213,
+        "death": 618
+      },
+      {
+        "county": "Monmouth",
+        "case": 6198,
+        "death": 372
+      },
+      {
+        "county": "Morris",
+        "case": 5406,
+        "death": 440
+      },
+      {
+        "county": "Ocean",
+        "case": 6692,
+        "death": 426
+      },
+      {
+        "county": "Passaic",
+        "case": 13082,
+        "death": 624
+      },
+      {
+        "county": "Salem",
+        "case": 261,
+        "death": 12
+      },
+      {
+        "county": "Somerset",
+        "case": 3605,
+        "death": 289
+      },
+      {
+        "county": "Sussex",
+        "case": 949,
+        "death": 114
+      },
+      {
+        "county": "Union",
+        "case": 12996,
+        "death": 731
+      },
+      {
+        "county": "Warren",
+        "case": 941,
+        "death": 84
+      }
+    ]
   }
 ]

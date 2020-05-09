@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1589045511669,
+  "timeStamp": 1589049132124,
   "data": [
     {
       "county": "88 / 88",
@@ -448,43 +448,43 @@
     },
     {
       "county": "80+",
-      "case": 2553,
-      "death": 801
+      "case": 2664,
+      "death": 812
     },
     {
       "county": "70–79",
-      "case": 2169,
-      "death": 848
+      "case": 2228,
+      "death": 861
     },
     {
       "county": "60–69",
-      "case": 3311,
-      "death": 1001
+      "case": 3393,
+      "death": 1014
     },
     {
       "county": "50–59",
-      "case": 3951,
-      "death": 774
+      "case": 4060,
+      "death": 789
     },
     {
       "county": "40–49",
-      "case": 3711,
-      "death": 403
+      "case": 3808,
+      "death": 418
     },
     {
       "county": "30–39",
-      "case": 3683,
-      "death": 227
+      "case": 3781,
+      "death": 236
     },
     {
       "county": "20–29",
-      "case": 2939,
-      "death": 129
+      "case": 3023,
+      "death": 133
     },
     {
       "county": "0–19",
-      "case": 687,
-      "death": 35
+      "case": 725,
+      "death": 37
     }
   ]
 }
