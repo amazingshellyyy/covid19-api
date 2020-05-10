@@ -1,10 +1,10 @@
 {
-  "timeStamp": 1589135507328,
+  "timeStamp": 1589139124511,
   "data": [
     {
       "county": "79 / 83",
-      "case": 46756,
-      "death": 4526
+      "case": 47138,
+      "death": 4551
     },
     {
       "county": "Alcona",
@@ -13,7 +13,7 @@
     },
     {
       "county": "Allegan",
-      "case": 136,
+      "case": 150,
       "death": 2
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "county": "Barry",
-      "case": 49,
+      "case": 48,
       "death": 1
     },
     {
       "county": "Bay",
-      "case": 189,
+      "case": 192,
       "death": 9
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "county": "Berrien",
-      "case": 384,
+      "case": 391,
       "death": 22
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "county": "Calhoun",
-      "case": 258,
+      "case": 260,
       "death": 17
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "county": "Clinton",
-      "case": 127,
+      "case": 126,
       "death": 10
     },
     {
@@ -123,12 +123,12 @@
     },
     {
       "county": "Genesee",
-      "case": 1750,
-      "death": 223
+      "case": 1758,
+      "death": 224
     },
     {
       "county": "Gladwin",
-      "case": 16,
+      "case": 17,
       "death": 1
     },
     {
@@ -143,12 +143,12 @@
     },
     {
       "county": "Gratiot",
-      "case": 29,
+      "case": 31,
       "death": 3
     },
     {
       "county": "Hillsdale",
-      "case": 151,
+      "case": 152,
       "death": 21
     },
     {
@@ -158,47 +158,47 @@
     },
     {
       "county": "Huron",
-      "case": 34,
+      "case": 35,
       "death": 1
     },
     {
       "county": "Ingham",
-      "case": 575,
+      "case": 579,
       "death": 16
     },
     {
       "county": "Ionia",
-      "case": 107,
+      "case": 108,
       "death": 2
     },
     {
       "county": "Iosco",
-      "case": 54,
+      "case": 55,
       "death": 8
     },
     {
       "county": "Isabella",
-      "case": 61,
+      "case": 62,
       "death": 7
     },
     {
       "county": "Jackson",
-      "case": 389,
+      "case": 393,
       "death": 26
     },
     {
       "county": "Kalamazoo",
-      "case": 591,
-      "death": 27
+      "case": 601,
+      "death": 29
     },
     {
       "county": "Kalkaska",
-      "case": 17,
+      "case": 18,
       "death": 2
     },
     {
       "county": "Kent",
-      "case": 2213,
+      "case": 2281,
       "death": 41
     },
     {
@@ -208,7 +208,7 @@
     },
     {
       "county": "Lapeer",
-      "case": 175,
+      "case": 176,
       "death": 29
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "county": "Livingston",
-      "case": 375,
+      "case": 376,
       "death": 22
     },
     {
@@ -238,8 +238,8 @@
     },
     {
       "county": "Macomb",
-      "case": 6019,
-      "death": 697
+      "case": 6042,
+      "death": 698
     },
     {
       "county": "Manistee",
@@ -249,11 +249,11 @@
     {
       "county": "Marquette",
       "case": 51,
-      "death": 9
+      "death": 10
     },
     {
       "county": "Mason",
-      "case": 19,
+      "case": 21,
       "death": 0
     },
     {
@@ -278,7 +278,7 @@
     },
     {
       "county": "Monroe",
-      "case": 387,
+      "case": 389,
       "death": 16
     },
     {
@@ -293,7 +293,7 @@
     },
     {
       "county": "Muskegon",
-      "case": 354,
+      "case": 367,
       "death": 20
     },
     {
@@ -303,12 +303,12 @@
     },
     {
       "county": "Oakland",
-      "case": 7692,
-      "death": 841
+      "case": 7736,
+      "death": 843
     },
     {
       "county": "Oceana",
-      "case": 25,
+      "case": 28,
       "death": 1
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "county": "Ottawa",
-      "case": 373,
+      "case": 388,
       "death": 19
     },
     {
@@ -348,7 +348,7 @@
     },
     {
       "county": "Saginaw",
-      "case": 780,
+      "case": 789,
       "death": 83
     },
     {
@@ -363,12 +363,12 @@
     },
     {
       "county": "Shiawassee",
-      "case": 203,
+      "case": 204,
       "death": 17
     },
     {
       "county": "St. Clair",
-      "case": 353,
+      "case": 357,
       "death": 25
     },
     {
@@ -378,33 +378,33 @@
     },
     {
       "county": "Tuscola",
-      "case": 131,
+      "case": 134,
       "death": 17
     },
     {
       "county": "Van Buren",
-      "case": 84,
-      "death": 3
+      "case": 88,
+      "death": 4
     },
     {
       "county": "Washtenaw",
-      "case": 1176,
+      "case": 1182,
       "death": 81
     },
     {
       "county": "Wayne",
-      "case": 17960,
-      "death": 2082
+      "case": 18075,
+      "death": 2097
     },
     {
       "county": "Wexford",
-      "case": 10,
+      "case": 11,
       "death": 2
     },
     {
       "county": "MDOC",
-      "case": 2136,
-      "death": 50
+      "case": 2138,
+      "death": 51
     },
     {
       "county": "FCI",
@@ -413,12 +413,12 @@
     },
     {
       "county": "Unknown",
-      "case": 12,
-      "death": 0
+      "case": 17,
+      "death": 1
     },
     {
       "county": "Out of State",
-      "case": 21,
+      "case": 22,
       "death": 0
     }
   ]
