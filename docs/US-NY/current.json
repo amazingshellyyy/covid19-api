@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1589088707167,
+  "timeStamp": 1589092449789,
   "data": [
     {
       "county": "Albany",
@@ -137,11 +137,6 @@
       "death": 6
     },
     {
-      "county": "Manhattan",
-      "case": 23054,
-      "death": 1693
-    },
-    {
       "county": "Monroe",
       "case": 1623,
       "death": 119
@@ -155,6 +150,11 @@
       "county": "Nassau",
       "case": 37152,
       "death": 1818
+    },
+    {
+      "county": "New York",
+      "case": 23054,
+      "death": 1693
     },
     {
       "county": "Niagara",
