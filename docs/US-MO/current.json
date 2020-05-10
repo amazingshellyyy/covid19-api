@@ -1,8 +1,8 @@
 {
-  "timeStamp": 1589103164529,
+  "timeStamp": 1589106717982,
   "data": [
     {
-      "county": "99 / 115",
+      "county": "99 of 115",
       "case": 9489,
       "death": 449
     },
@@ -152,7 +152,7 @@
       "death": 0
     },
     {
-      "county": "Dekalb",
+      "county": "DeKalb",
       "case": 4,
       "death": 0
     },
@@ -232,12 +232,12 @@
       "death": 0
     },
     {
-      "county": "Joplin",
+      "county": "Joplin (City)",
       "case": 8,
       "death": 0
     },
     {
-      "county": "Kansas City",
+      "county": "Kansas City (City)",
       "case": 739,
       "death": 16
     },
@@ -447,12 +447,12 @@
       "death": 1
     },
     {
-      "county": "St. Louis City",
+      "county": "St. Louis (City)",
       "case": 1408,
       "death": 71
     },
     {
-      "county": "St. Louis County",
+      "county": "St. Louis (County)",
       "case": 3667,
       "death": 246
     },
