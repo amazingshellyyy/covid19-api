@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1589211399015,
+  "timeStamp": 1589222002201,
   "data": [
     {
       "state": "Alabama",
@@ -8,7 +8,7 @@
     },
     {
       "state": "Alaska",
-      "case": 374,
+      "case": 379,
       "death": 10
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "state": "Connecticut",
-      "case": 31784,
+      "case": 32984,
       "death": 2797
     },
     {
@@ -53,8 +53,8 @@
     },
     {
       "state": "Florida",
-      "case": 38828,
-      "death": 1600
+      "case": 40982,
+      "death": 1735
     },
     {
       "state": "Georgia",
@@ -158,8 +158,8 @@
     },
     {
       "state": "New Hampshire",
-      "case": 2843,
-      "death": 114
+      "case": 3071,
+      "death": 133
     },
     {
       "state": "New Jersey",
@@ -218,8 +218,8 @@
     },
     {
       "state": "Rhode Island",
-      "case": 10530,
-      "death": 388
+      "case": 11450,
+      "death": 430
     },
     {
       "state": "South Carolina",
