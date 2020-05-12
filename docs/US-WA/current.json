@@ -1,10 +1,10 @@
 {
-  "timeStamp": 1589247128127,
+  "timeStamp": 1589250753169,
   "data": [
     {
       "county": "38 / 39",
-      "case": 16891,
-      "death": 931
+      "case": 17122,
+      "death": 945
     },
     {
       "county": "Adams",
@@ -18,13 +18,13 @@
     },
     {
       "county": "Benton",
-      "case": 577,
-      "death": 51
+      "case": 586,
+      "death": 52
     },
     {
       "county": "Chelan",
-      "case": 148,
-      "death": 5
+      "case": 149,
+      "death": 6
     },
     {
       "county": "Clallam",
@@ -33,7 +33,7 @@
     },
     {
       "county": "Clark",
-      "case": 351,
+      "case": 352,
       "death": 20
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "county": "Douglas",
-      "case": 112,
+      "case": 114,
       "death": 2
     },
     {
@@ -58,12 +58,12 @@
     },
     {
       "county": "Franklin",
-      "case": 412,
+      "case": 420,
       "death": 16
     },
     {
       "county": "Grant",
-      "case": 181,
+      "case": 183,
       "death": 3
     },
     {
@@ -83,22 +83,22 @@
     },
     {
       "county": "King",
-      "case": 7007,
-      "death": 500
+      "case": 7068,
+      "death": 506
     },
     {
       "county": "Kitsap",
-      "case": 155,
+      "case": 156,
       "death": 2
     },
     {
       "county": "Kittitas",
-      "case": 18,
+      "case": 40,
       "death": 0
     },
     {
       "county": "Klickitat",
-      "case": 19,
+      "case": 20,
       "death": 3
     },
     {
@@ -133,8 +133,8 @@
     },
     {
       "county": "Pierce",
-      "case": 1562,
-      "death": 57
+      "case": 1582,
+      "death": 58
     },
     {
       "county": "San Juan",
@@ -143,7 +143,7 @@
     },
     {
       "county": "Skagit",
-      "case": 401,
+      "case": 402,
       "death": 14
     },
     {
@@ -153,13 +153,13 @@
     },
     {
       "county": "Snohomish",
-      "case": 2681,
-      "death": 117
+      "case": 2690,
+      "death": 118
     },
     {
       "county": "Spokane",
-      "case": 382,
-      "death": 28
+      "case": 384,
+      "death": 29
     },
     {
       "county": "Stevens",
@@ -173,17 +173,17 @@
     },
     {
       "county": "Wahkiakum",
-      "case": 3,
+      "case": 4,
       "death": 0
     },
     {
       "county": "Walla Walla",
-      "case": 99,
+      "case": 103,
       "death": 2
     },
     {
       "county": "Whatcom",
-      "case": 333,
+      "case": 338,
       "death": 34
     },
     {
@@ -193,12 +193,12 @@
     },
     {
       "county": "Yakima",
-      "case": 1781,
-      "death": 59
+      "case": 1864,
+      "death": 62
     },
     {
       "county": "Unassigned",
-      "case": 40,
+      "case": 38,
       "death": 0
     }
   ]
