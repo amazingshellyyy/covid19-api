@@ -33,12 +33,13 @@ const getCountyData = (stateCode, url, selector, countyIndex, caseIndex, deathIn
                     let i = 0;
                     if (stateCode == 'CA') {
                         i = 1;
-                    } else if (stateCode == 'NY') {
-                        i = 58;
                     } else if (stateCode == 'GA') {
                         i= 10;
+                    } else if (stateCode == 'NY') {
+                        i=58;
                     }
                     console.log('i',i)
+                    // console.log(rows.text())
                     rows.each((index, el) => {
                         if (index < rows.length && index > i ) {
                             data.push($(el).ignore("sup").text());
@@ -46,6 +47,10 @@ const getCountyData = (stateCode, url, selector, countyIndex, caseIndex, deathIn
                     })
                     // console.log('data',data)
                     let newData = [];
+                    if (stateCode == 'NY' && data.length > 63) {
+                        data = data.slice(0,62)
+                    }
+                    console.log('data2',data)
                     data.forEach(county => {
                         const datastr = JSON.stringify(county).split('\\n');
                         // console.log(datastr[deathIndex].length);
