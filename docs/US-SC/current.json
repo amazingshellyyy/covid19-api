@@ -1,80 +1,80 @@
 {
-  "timeStamp": 1589272314906,
+  "timeStamp": 1589275917686,
   "data": [
     {
       "county": "46 / 46",
-      "case": 6936,
-      "death": 305
+      "case": 7792,
+      "death": 346
     },
     {
       "county": "Abbeville",
-      "case": 33,
-      "death": 0
-    },
-    {
-      "county": "Aiken",
-      "case": 108,
-      "death": 6
-    },
-    {
-      "county": "Allendale",
-      "case": 18,
-      "death": 2
-    },
-    {
-      "county": "Anderson",
-      "case": 173,
-      "death": 8
-    },
-    {
-      "county": "Bamberg",
-      "case": 14,
-      "death": 0
-    },
-    {
-      "county": "Barnwell",
-      "case": 28,
-      "death": 0
-    },
-    {
-      "county": "Beaufort",
-      "case": 269,
-      "death": 12
-    },
-    {
-      "county": "Berkeley",
-      "case": 189,
-      "death": 14
-    },
-    {
-      "county": "Calhoun",
-      "case": 7,
-      "death": 1
-    },
-    {
-      "county": "Charleston",
-      "case": 464,
-      "death": 9
-    },
-    {
-      "county": "Cherokee",
-      "case": 19,
-      "death": 0
-    },
-    {
-      "county": "Chester",
       "case": 34,
       "death": 0
     },
     {
+      "county": "Aiken",
+      "case": 119,
+      "death": 6
+    },
+    {
+      "county": "Allendale",
+      "case": 26,
+      "death": 3
+    },
+    {
+      "county": "Anderson",
+      "case": 286,
+      "death": 8
+    },
+    {
+      "county": "Bamberg",
+      "case": 16,
+      "death": 0
+    },
+    {
+      "county": "Barnwell",
+      "case": 33,
+      "death": 0
+    },
+    {
+      "county": "Beaufort",
+      "case": 280,
+      "death": 12
+    },
+    {
+      "county": "Berkeley",
+      "case": 195,
+      "death": 15
+    },
+    {
+      "county": "Calhoun",
+      "case": 8,
+      "death": 1
+    },
+    {
+      "county": "Charleston",
+      "case": 491,
+      "death": 11
+    },
+    {
+      "county": "Cherokee",
+      "case": 22,
+      "death": 0
+    },
+    {
+      "county": "Chester",
+      "case": 40,
+      "death": 0
+    },
+    {
       "county": "Chesterfield",
-      "case": 65,
+      "case": 80,
       "death": 1
     },
     {
       "county": "Clarendon",
-      "case": 248,
-      "death": 24
+      "case": 265,
+      "death": 27
     },
     {
       "county": "Colleton",
@@ -83,97 +83,97 @@
     },
     {
       "county": "Darlington",
-      "case": 151,
-      "death": 2
+      "case": 179,
+      "death": 3
     },
     {
       "county": "Dillon",
-      "case": 74,
+      "case": 102,
       "death": 0
     },
     {
       "county": "Dorchester",
-      "case": 103,
+      "case": 108,
       "death": 3
     },
     {
       "county": "Edgefield",
-      "case": 35,
+      "case": 39,
       "death": 2
     },
     {
       "county": "Fairfield",
-      "case": 74,
-      "death": 2
+      "case": 81,
+      "death": 5
     },
     {
       "county": "Florence",
-      "case": 358,
-      "death": 19
+      "case": 444,
+      "death": 23
     },
     {
       "county": "Georgetown",
-      "case": 48,
+      "case": 51,
       "death": 3
     },
     {
       "county": "Greenville",
-      "case": 803,
-      "death": 42
+      "case": 946,
+      "death": 45
     },
     {
       "county": "Greenwood",
-      "case": 61,
+      "case": 63,
       "death": 0
     },
     {
       "county": "Hampton",
-      "case": 27,
-      "death": 0
+      "case": 28,
+      "death": 1
     },
     {
       "county": "Horry",
-      "case": 238,
+      "case": 267,
       "death": 18
     },
     {
       "county": "Jasper",
-      "case": 21,
+      "case": 25,
       "death": 1
     },
     {
       "county": "Kershaw",
-      "case": 245,
-      "death": 10
+      "case": 257,
+      "death": 12
     },
     {
       "county": "Lancaster",
-      "case": 99,
-      "death": 4
+      "case": 111,
+      "death": 5
     },
     {
       "county": "Laurens",
-      "case": 42,
+      "case": 48,
       "death": 2
     },
     {
       "county": "Lee",
-      "case": 70,
+      "case": 115,
       "death": 8
     },
     {
       "county": "Lexington",
-      "case": 442,
-      "death": 18
+      "case": 484,
+      "death": 24
     },
     {
       "county": "Marion",
-      "case": 41,
-      "death": 2
+      "case": 49,
+      "death": 3
     },
     {
       "county": "Marlboro",
-      "case": 54,
+      "case": 59,
       "death": 1
     },
     {
@@ -188,52 +188,52 @@
     },
     {
       "county": "Oconee",
-      "case": 31,
+      "case": 37,
       "death": 0
     },
     {
       "county": "Orangeburg",
-      "case": 95,
+      "case": 101,
       "death": 2
     },
     {
       "county": "Pickens",
-      "case": 61,
+      "case": 73,
       "death": 1
     },
     {
       "county": "Richland",
-      "case": 1014,
-      "death": 49
+      "case": 1119,
+      "death": 57
     },
     {
       "county": "Saluda",
-      "case": 73,
+      "case": 90,
       "death": 0
     },
     {
       "county": "Spartanburg",
-      "case": 318,
+      "case": 346,
       "death": 12
     },
     {
       "county": "Sumter",
-      "case": 271,
-      "death": 12
+      "case": 290,
+      "death": 13
     },
     {
       "county": "Union",
-      "case": 26,
+      "case": 31,
       "death": 0
     },
     {
       "county": "Williamsburg",
-      "case": 100,
-      "death": 4
+      "case": 142,
+      "death": 7
     },
     {
       "county": "York",
-      "case": 222,
+      "case": 242,
       "death": 5
     }
   ]
