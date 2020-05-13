@@ -6,7 +6,7 @@ getCountyData('NJ','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_N
 getCountyData('MI','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Michigan','.sortable tbody tr[class!=sortbottom]',1,3,5).then(successCallback, failureCallback);
 getCountyData('PA','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Pennsylvania','.sortable tbody tr[class!=sortbottom]',1,3,5).then(successCallback, failureCallback);
 getCountyData('IL','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Illinois','.sortable tbody tr[class!=sortbottom]',1,3,5).then(successCallback, failureCallback);
-getCountyData('LA','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Louisiana','.sortable tbody tr[class!=sortbottom]',1,5,7).then(successCallback, failureCallback);
+getCountyData('LA','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Louisiana','.sortable tbody tr[class!=sortbottom]',1,3,5).then(successCallback, failureCallback);
 getCountyData('FL','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Florida','.sortable tbody tr[class!=sortbottom]',1,3,7).then(successCallback, failureCallback);
 getCountyData('TX','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Texas','.sortable tbody tr[class!=sortbottom]',1,3,5).then(successCallback, failureCallback);
 getCountyData('GA','https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Georgia_(U.S._state)','.sortable tbody tr[class!=sortbottom]',1,3,5).then(successCallback, failureCallback);

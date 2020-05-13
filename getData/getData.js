@@ -31,7 +31,7 @@ const getCountyData = (stateCode, url, selector, countyIndex, caseIndex, deathIn
                     // console.log('rows',$(rows).text())
 
                     let i = 0;
-                    if (stateCode == 'CA') {
+                    if (stateCode == 'CA' || stateCode == 'WA' || stateCode == 'NJ' ||stateCode == 'MI' ||stateCode == 'PA' ||stateCode == 'IL'||stateCode == 'LA'||stateCode == 'FL'||stateCode == 'TX'||stateCode == 'VA'||stateCode == 'MO'||stateCode == 'NC' ||stateCode == 'SC'||stateCode == 'CT') {
                         i = 1;
                     } else if (stateCode == 'GA') {
                         i= 10;
