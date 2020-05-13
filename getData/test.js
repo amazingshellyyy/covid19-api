@@ -7,13 +7,18 @@ const { getCountyData, successCallback, failureCallback } = require('./getData.j
 const testData = require('../docs/US-NY/countyTimeseries.json');
 
 let count = 0;
-for (let i = 0; i < testData.length; i++) {
+for (let i = 0; i < testData.length-300; i++) {
     const bigData = testData[i];
     
     if (bigData.data.length > 63) {
+        console.log(i)
+        // bigData.data.splice(63,62)
         console.log(bigData.data[63])
+        console.log(bigData.data[85])
+        console.log(bigData.data[100])
         console.log(bigData.data.length)
-        
+        count ++;
+        console.log(bigData.data)
     }
 }
 
