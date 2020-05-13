@@ -38,21 +38,21 @@ const getCountyData = (stateCode, url, selector, countyIndex, caseIndex, deathIn
                     } else if (stateCode == 'NY') {
                         i=58;
                     }
-                    console.log('i',i)
+                    // console.log('i',i)
                     // console.log(rows.text())
                     rows.each((index, el) => {
                         if (index < rows.length && index > i ) {
                             data.push($(el).ignore("sup").text());
                         }
                     })
-                    console.log('data',data)
+                    // console.log('data',data)
                     let newData = [];
                     if (stateCode == 'NY' && data.length > 63) {
                         data = data.slice(0,62)
                     } else if (stateCode == 'OH' && data.length > 88) {
                         data = data.slice(0,88)
                     }
-                    console.log('data2',data)
+                    // console.log('data2',data)
                     data.forEach(county => {
                         const datastr = JSON.stringify(county).split('\\n');
                         // console.log(datastr[deathIndex].length);
@@ -66,7 +66,7 @@ const getCountyData = (stateCode, url, selector, countyIndex, caseIndex, deathIn
                                 "case": parseInt(datastr[caseIndex].split(',').join('')),
                                 "death": death
                             }
-                            console.log(datas)
+                            // console.log(datas)
                             newData.push(datas);
                         }
                     })
