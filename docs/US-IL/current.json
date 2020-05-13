@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1589322731928,
+  "timeStamp": 1589401916857,
   "data": [
     {
       "county": "96 / 102",
@@ -53,8 +53,8 @@
     },
     {
       "county": "Champaign",
-      "case": 256,
-      "death": 6
+      "case": 303,
+      "death": 7
     },
     {
       "county": "Christian",
@@ -188,7 +188,7 @@
     },
     {
       "county": "Jackson",
-      "case": 168,
+      "case": 169,
       "death": 10
     },
     {
@@ -278,8 +278,8 @@
     },
     {
       "county": "Madison",
-      "case": 369,
-      "death": 27
+      "case": 446,
+      "death": 33
     },
     {
       "county": "Marion",
@@ -483,8 +483,8 @@
     },
     {
       "county": "Winnebago",
-      "case": 485,
-      "death": 11
+      "case": 1133,
+      "death": 35
     },
     {
       "county": "Woodford",
