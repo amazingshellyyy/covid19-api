@@ -11,7 +11,6 @@ const { getCountyData, successCallback, failureCallback } = require('./getData.j
 
 
 
-
 // const fs = require('fs');
 // const testData = require('../docs/US-NY/countyTimeseries.json');
 // const path = require('path');

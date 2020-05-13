@@ -1,11 +1,6 @@
 {
-  "timeStamp": 1589405511851,
+  "timeStamp": 1589408798035,
   "data": [
-    {
-      "county": "88 / 88",
-      "case": 25721,
-      "death": 1483
-    },
     {
       "county": "Adams",
       "case": 6,
@@ -445,46 +440,6 @@
       "county": "Wyandot",
       "case": 27,
       "death": 2
-    },
-    {
-      "county": "80+",
-      "case": 2865,
-      "death": 869
-    },
-    {
-      "county": "70–79",
-      "case": 2382,
-      "death": 916
-    },
-    {
-      "county": "60–69",
-      "case": 3658,
-      "death": 1077
-    },
-    {
-      "county": "50–59",
-      "case": 4378,
-      "death": 847
-    },
-    {
-      "county": "40–49",
-      "case": 4109,
-      "death": 452
-    },
-    {
-      "county": "30–39",
-      "case": 4122,
-      "death": 264
-    },
-    {
-      "county": "20–29",
-      "case": 3330,
-      "death": 149
-    },
-    {
-      "county": "0–19",
-      "case": 853,
-      "death": 43
     }
   ]
 }

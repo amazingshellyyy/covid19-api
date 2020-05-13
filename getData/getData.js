@@ -31,7 +31,7 @@ const getCountyData = (stateCode, url, selector, countyIndex, caseIndex, deathIn
                     // console.log('rows',$(rows).text())
 
                     let i = 0;
-                    if (stateCode == 'CA' || stateCode == 'WA' || stateCode == 'NJ' ||stateCode == 'MI' ||stateCode == 'PA' ||stateCode == 'IL'||stateCode == 'LA'||stateCode == 'FL'||stateCode == 'TX'||stateCode == 'VA'||stateCode == 'MO'||stateCode == 'NC' ||stateCode == 'SC'||stateCode == 'CT') {
+                    if (stateCode == 'CA' || stateCode == 'WA' || stateCode == 'NJ' ||stateCode == 'MI' ||stateCode == 'PA' ||stateCode == 'IL'||stateCode == 'LA'||stateCode == 'FL'||stateCode == 'TX'||stateCode == 'VA'||stateCode == 'MO'||stateCode == 'NC' ||stateCode == 'SC'||stateCode == 'CT'||stateCode == 'IN'||stateCode == 'OH') {
                         i = 1;
                     } else if (stateCode == 'GA') {
                         i= 10;
@@ -45,10 +45,12 @@ const getCountyData = (stateCode, url, selector, countyIndex, caseIndex, deathIn
                             data.push($(el).ignore("sup").text());
                         }
                     })
-                    // console.log('data',data)
+                    console.log('data',data)
                     let newData = [];
                     if (stateCode == 'NY' && data.length > 63) {
                         data = data.slice(0,62)
+                    } else if (stateCode == 'OH' && data.length > 88) {
+                        data = data.slice(0,88)
                     }
                     console.log('data2',data)
                     data.forEach(county => {
@@ -64,6 +66,7 @@ const getCountyData = (stateCode, url, selector, countyIndex, caseIndex, deathIn
                                 "case": parseInt(datastr[caseIndex].split(',').join('')),
                                 "death": death
                             }
+                            console.log(datas)
                             newData.push(datas);
                         }
                     })
@@ -76,7 +79,7 @@ const getCountyData = (stateCode, url, selector, countyIndex, caseIndex, deathIn
                         if(err) {
                             return reject(err)
                         } else {
-                            console.log('finish writing current file')
+                            console.log(`finish writing current ${stateCode} file`)
                         }
                     })
                     covidData.push(timeseriesData);
