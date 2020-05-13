@@ -61,6 +61,12 @@ const getCountyData = (stateCode, url, selector, countyIndex, caseIndex, deathIn
                         }
                         const death = datastr[deathIndex].length == 0 ? 0 :parseInt(datastr[deathIndex].split(',').join(''));
                         if (datastr[countyIndex] && parseInt(datastr[caseIndex])) {
+
+                            if (datastr[countyIndex].toLocaleLowerCase().includes('county')) {
+                                datastr[countyIndex] = datastr[countyIndex].replace(/([-]?|[(]?)County[)]?/ig, '').trim();
+                            }
+
+
                             const datas = {
                                 "county": datastr[countyIndex],
                                 "case": parseInt(datastr[caseIndex].split(',').join('')),
