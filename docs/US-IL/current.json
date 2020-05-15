@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1589556713590,
+  "timeStamp": 1589560312412,
   "data": [
     {
       "county": "Adams",
@@ -18,7 +18,7 @@
     },
     {
       "county": "Boone",
-      "case": 253,
+      "case": 268,
       "death": 13
     },
     {
@@ -43,13 +43,13 @@
     },
     {
       "county": "Cass",
-      "case": 62,
+      "case": 66,
       "death": 0
     },
     {
       "county": "Champaign",
-      "case": 318,
-      "death": 7
+      "case": 324,
+      "death": 6
     },
     {
       "county": "Christian",
@@ -58,7 +58,7 @@
     },
     {
       "county": "Clark",
-      "case": 8,
+      "case": 9,
       "death": 0
     },
     {
@@ -68,18 +68,18 @@
     },
     {
       "county": "Clinton",
-      "case": 142,
+      "case": 155,
       "death": 13
     },
     {
       "county": "Coles",
       "case": 62,
-      "death": 2
+      "death": 4
     },
     {
       "county": "Cook",
-      "case": 56406,
-      "death": 2589
+      "case": 58457,
+      "death": 2675
     },
     {
       "county": "Crawford",
@@ -88,17 +88,17 @@
     },
     {
       "county": "Cumberland",
-      "case": 7,
+      "case": 8,
       "death": 0
     },
     {
       "county": "DeKalb",
-      "case": 211,
+      "case": 217,
       "death": 2
     },
     {
       "county": "DeWitt",
-      "case": 3,
+      "case": 4,
       "death": 0
     },
     {
@@ -108,8 +108,8 @@
     },
     {
       "county": "DuPage",
-      "case": 5244,
-      "death": 271
+      "case": 5453,
+      "death": 279
     },
     {
       "county": "Edwards",
@@ -128,17 +128,17 @@
     },
     {
       "county": "Ford",
-      "case": 14,
+      "case": 15,
       "death": 1
     },
     {
       "county": "Franklin",
-      "case": 12,
+      "case": 11,
       "death": 0
     },
     {
       "county": "Fulton",
-      "case": 4,
+      "case": 6,
       "death": 0
     },
     {
@@ -153,7 +153,7 @@
     },
     {
       "county": "Grundy",
-      "case": 62,
+      "case": 65,
       "death": 1
     },
     {
@@ -178,17 +178,17 @@
     },
     {
       "county": "Henry",
-      "case": 61,
+      "case": 62,
       "death": 0
     },
     {
       "county": "Iroquois",
-      "case": 101,
+      "case": 107,
       "death": 3
     },
     {
       "county": "Jackson",
-      "case": 171,
+      "case": 175,
       "death": 10
     },
     {
@@ -198,18 +198,18 @@
     },
     {
       "county": "Jefferson",
-      "case": 97,
-      "death": 16
+      "case": 98,
+      "death": 17
     },
     {
       "county": "Jersey",
-      "case": 17,
+      "case": 18,
       "death": 1
     },
     {
       "county": "Jo Daviess",
-      "case": 19,
-      "death": 1
+      "case": 18,
+      "death": 0
     },
     {
       "county": "Johnson",
@@ -218,18 +218,18 @@
     },
     {
       "county": "Kane",
-      "case": 3744,
-      "death": 98
+      "case": 3995,
+      "death": 104
     },
     {
       "county": "Kankakee",
-      "case": 607,
+      "case": 623,
       "death": 31
     },
     {
       "county": "Kendall",
-      "case": 496,
-      "death": 15
+      "case": 518,
+      "death": 17
     },
     {
       "county": "Knox",
@@ -238,8 +238,8 @@
     },
     {
       "county": "Lake",
-      "case": 5758,
-      "death": 194
+      "case": 5992,
+      "death": 202
     },
     {
       "county": "LaSalle",
