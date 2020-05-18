@@ -1,14 +1,14 @@
 {
-  "timeStamp": 1589787106734,
+  "timeStamp": 1589790725291,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 37303,
-      "death": 1793
+      "case": 37974,
+      "death": 1821
     },
     {
       "county": "San Diego",
-      "case": 5662,
+      "case": 5836,
       "death": 209
     },
     {
@@ -18,22 +18,22 @@
     },
     {
       "county": "Orange",
-      "case": 4222,
-      "death": 86
+      "case": 4376,
+      "death": 88
     },
     {
       "county": "San Bernardino",
-      "case": 3463,
+      "case": 3511,
       "death": 155
     },
     {
       "county": "Santa Clara",
-      "case": 2418,
+      "case": 2453,
       "death": 135
     },
     {
       "county": "Alameda",
-      "case": 2351,
+      "case": 2392,
       "death": 83
     },
     {
@@ -48,23 +48,23 @@
     },
     {
       "county": "Kern",
-      "case": 1473,
+      "case": 1515,
       "death": 25
     },
     {
-      "county": "Tulare",
-      "case": 1426,
-      "death": 67
-    },
-    {
       "county": "Santa Barbara",
-      "case": 1418,
+      "case": 1474,
       "death": 11
     },
     {
+      "county": "Tulare",
+      "case": 1430,
+      "death": 67
+    },
+    {
       "county": "Sacramento",
-      "case": 1222,
-      "death": 54
+      "case": 1237,
+      "death": 55
     },
     {
       "county": "Fresno",
@@ -73,7 +73,7 @@
     },
     {
       "county": "Contra Costa",
-      "case": 1121,
+      "case": 1146,
       "death": 33
     },
     {
@@ -88,12 +88,12 @@
     },
     {
       "county": "San Joaquin",
-      "case": 670,
-      "death": 31
+      "case": 689,
+      "death": 32
     },
     {
       "county": "Stanislaus",
-      "case": 559,
+      "case": 571,
       "death": 24
     },
     {
@@ -103,7 +103,7 @@
     },
     {
       "county": "Kings",
-      "case": 392,
+      "case": 399,
       "death": 2
     },
     {
@@ -113,12 +113,12 @@
     },
     {
       "county": "Monterey",
-      "case": 328,
+      "case": 341,
       "death": 8
     },
     {
       "county": "Marin",
-      "case": 299,
+      "case": 317,
       "death": 14
     },
     {
@@ -133,12 +133,12 @@
     },
     {
       "county": "Yolo",
-      "case": 183,
+      "case": 184,
       "death": 22
     },
     {
       "county": "Placer",
-      "case": 174,
+      "case": 175,
       "death": 8
     },
     {
@@ -158,7 +158,7 @@
     },
     {
       "county": "Madera",
-      "case": 70,
+      "case": 71,
       "death": 2
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "county": "Mono",
-      "case": 33,
+      "case": 34,
       "death": 1
     },
     {
@@ -212,12 +212,12 @@
       "death": 1
     },
     {
-      "county": "Calaveras",
-      "case": 13,
+      "county": "Mendocino",
+      "case": 14,
       "death": 0
     },
     {
-      "county": "Mendocino",
+      "county": "Calaveras",
       "case": 13,
       "death": 0
     },
@@ -238,7 +238,7 @@
     },
     {
       "county": "Del Norte",
-      "case": 7,
+      "case": 8,
       "death": 0
     },
     {
