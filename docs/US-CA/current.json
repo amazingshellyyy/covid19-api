@@ -1,134 +1,134 @@
 {
-  "timeStamp": 1589866323204,
+  "timeStamp": 1589869914357,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 37974,
-      "death": 1821
-    },
-    {
-      "county": "San Diego",
-      "case": 5836,
-      "death": 209
+      "case": 38451,
+      "death": 1839
     },
     {
       "county": "Riverside",
-      "case": 5618,
-      "death": 242
+      "case": 5952,
+      "death": 261
+    },
+    {
+      "county": "San Diego",
+      "case": 5946,
+      "death": 211
     },
     {
       "county": "Orange",
-      "case": 4376,
+      "case": 4434,
       "death": 88
     },
     {
       "county": "San Bernardino",
-      "case": 3511,
+      "case": 3593,
       "death": 155
     },
     {
       "county": "Santa Clara",
-      "case": 2453,
+      "case": 2470,
       "death": 135
     },
     {
       "county": "Alameda",
-      "case": 2392,
+      "case": 2457,
       "death": 83
     },
     {
       "county": "San Francisco",
-      "case": 2054,
+      "case": 2131,
       "death": 36
     },
     {
       "county": "San Mateo",
-      "case": 1602,
+      "case": 1671,
       "death": 66
     },
     {
       "county": "Kern",
-      "case": 1515,
+      "case": 1537,
       "death": 25
     },
     {
       "county": "Santa Barbara",
-      "case": 1474,
+      "case": 1496,
       "death": 11
     },
     {
       "county": "Tulare",
-      "case": 1430,
+      "case": 1436,
       "death": 67
     },
     {
-      "county": "Sacramento",
-      "case": 1237,
-      "death": 55
+      "county": "Fresno",
+      "case": 1263,
+      "death": 17
     },
     {
-      "county": "Fresno",
-      "case": 1192,
-      "death": 16
+      "county": "Sacramento",
+      "case": 1245,
+      "death": 56
     },
     {
       "county": "Contra Costa",
-      "case": 1146,
+      "case": 1155,
       "death": 33
     },
     {
       "county": "Imperial",
-      "case": 786,
+      "case": 876,
       "death": 15
     },
     {
       "county": "Ventura",
-      "case": 764,
+      "case": 825,
       "death": 25
     },
     {
       "county": "San Joaquin",
-      "case": 689,
+      "case": 699,
       "death": 32
     },
     {
       "county": "Stanislaus",
-      "case": 571,
-      "death": 24
+      "case": 587,
+      "death": 26
     },
     {
       "county": "Solano",
-      "case": 410,
+      "case": 424,
       "death": 16
     },
     {
       "county": "Kings",
-      "case": 399,
+      "case": 412,
       "death": 2
     },
     {
       "county": "Sonoma",
-      "case": 373,
+      "case": 387,
       "death": 4
     },
     {
       "county": "Monterey",
-      "case": 341,
+      "case": 344,
       "death": 8
     },
     {
       "county": "Marin",
-      "case": 317,
+      "case": 329,
       "death": 14
     },
     {
       "county": "San Luis Obispo",
-      "case": 243,
+      "case": 246,
       "death": 1
     },
     {
       "county": "Merced",
-      "case": 200,
+      "case": 220,
       "death": 6
     },
     {
@@ -143,27 +143,27 @@
     },
     {
       "county": "Santa Cruz",
-      "case": 159,
+      "case": 163,
       "death": 2
     },
     {
       "county": "Napa",
-      "case": 90,
+      "case": 92,
       "death": 3
     },
     {
       "county": "Humboldt",
-      "case": 77,
-      "death": 0
+      "case": 81,
+      "death": 1
     },
     {
       "county": "Madera",
-      "case": 71,
+      "case": 78,
       "death": 2
     },
     {
       "county": "El Dorado",
-      "case": 64,
+      "case": 67,
       "death": 0
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "county": "Sutter",
-      "case": 38,
+      "case": 40,
       "death": 2
     },
     {
@@ -193,12 +193,12 @@
     },
     {
       "county": "Yuba",
-      "case": 25,
+      "case": 28,
       "death": 1
     },
     {
       "county": "Butte",
-      "case": 22,
+      "case": 24,
       "death": 0
     },
     {
@@ -222,28 +222,28 @@
       "death": 0
     },
     {
-      "county": "Amador",
-      "case": 9,
+      "county": "Del Norte",
+      "case": 12,
       "death": 0
     },
     {
       "county": "Glenn",
-      "case": 9,
+      "case": 12,
+      "death": 0
+    },
+    {
+      "county": "Amador",
+      "case": 10,
       "death": 0
     },
     {
       "county": "Lake",
-      "case": 8,
-      "death": 0
-    },
-    {
-      "county": "Del Norte",
-      "case": 8,
+      "case": 10,
       "death": 0
     },
     {
       "county": "Siskiyou",
-      "case": 5,
+      "case": 6,
       "death": 0
     },
     {
