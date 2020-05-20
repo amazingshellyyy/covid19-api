@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1589995903288,
+  "timeStamp": 1589999539346,
   "data": [
     {
       "county": "Adair",
@@ -8,7 +8,7 @@
     },
     {
       "county": "Andrew",
-      "case": 17,
+      "case": 19,
       "death": 0
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "county": "Audrain",
-      "case": 2,
+      "case": 6,
       "death": 0
     },
     {
@@ -43,17 +43,17 @@
     },
     {
       "county": "Boone",
-      "case": 105,
+      "case": 106,
       "death": 1
     },
     {
       "county": "Buchanan",
-      "case": 520,
+      "case": 543,
       "death": 2
     },
     {
       "county": "Butler",
-      "case": 30,
+      "case": 32,
       "death": 0
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "county": "Carter",
-      "case": 3,
+      "case": 4,
       "death": 1
     },
     {
       "county": "Cass",
-      "case": 71,
+      "case": 72,
       "death": 7
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "county": "Clay",
-      "case": 117,
+      "case": 123,
       "death": 1
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "county": "Cole",
-      "case": 56,
+      "case": 55,
       "death": 1
     },
     {
@@ -133,12 +133,12 @@
     },
     {
       "county": "Crawford",
-      "case": 9,
+      "case": 8,
       "death": 0
     },
     {
       "county": "Dallas",
-      "case": 2,
+      "case": 3,
       "death": 0
     },
     {
@@ -178,12 +178,12 @@
     },
     {
       "county": "Greene",
-      "case": 96,
+      "case": 102,
       "death": 7
     },
     {
       "county": "Harrison",
-      "case": 6,
+      "case": 8,
       "death": 0
     },
     {
@@ -198,7 +198,7 @@
     },
     {
       "county": "Howard",
-      "case": 2,
+      "case": 3,
       "death": 0
     },
     {
@@ -213,7 +213,7 @@
     },
     {
       "county": "Jackson",
-      "case": 454,
+      "case": 457,
       "death": 15
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "county": "Jefferson",
-      "case": 311,
+      "case": 312,
       "death": 13
     },
     {
@@ -238,8 +238,8 @@
     },
     {
       "county": "Kansas City (City)",
-      "case": 901,
-      "death": 20
+      "case": 902,
+      "death": 21
     },
     {
       "county": "Laclede",
@@ -253,7 +253,7 @@
     },
     {
       "county": "Lawrence",
-      "case": 7,
+      "case": 8,
       "death": 0
     },
     {
@@ -298,7 +298,7 @@
     },
     {
       "county": "McDonald",
-      "case": 13,
+      "case": 14,
       "death": 0
     },
     {
@@ -308,7 +308,7 @@
     },
     {
       "county": "Mississippi",
-      "case": 48,
+      "case": 49,
       "death": 0
     },
     {
@@ -338,7 +338,7 @@
     },
     {
       "county": "Nodaway",
-      "case": 5,
+      "case": 6,
       "death": 0
     },
     {
@@ -353,7 +353,7 @@
     },
     {
       "county": "Pemiscot",
-      "case": 68,
+      "case": 70,
       "death": 3
     },
     {
@@ -368,7 +368,7 @@
     },
     {
       "county": "Phelps",
-      "case": 2,
+      "case": 3,
       "death": 0
     },
     {
@@ -378,7 +378,7 @@
     },
     {
       "county": "Platte",
-      "case": 53,
+      "case": 58,
       "death": 0
     },
     {
@@ -418,7 +418,7 @@
     },
     {
       "county": "Saline",
-      "case": 249,
+      "case": 253,
       "death": 0
     },
     {
@@ -433,7 +433,7 @@
     },
     {
       "county": "Scott",
-      "case": 87,
+      "case": 86,
       "death": 7
     },
     {
@@ -443,12 +443,12 @@
     },
     {
       "county": "St. Charles",
-      "case": 695,
+      "case": 706,
       "death": 53
     },
     {
       "county": "St. Clair",
-      "case": 2,
+      "case": 3,
       "death": 0
     },
     {
@@ -458,13 +458,13 @@
     },
     {
       "county": "St. Louis (City)",
-      "case": 1607,
+      "case": 1610,
       "death": 100
     },
     {
       "county": "St. Louis",
-      "case": 4182,
-      "death": 336
+      "case": 4226,
+      "death": 345
     },
     {
       "county": "Ste. Genevieve",
@@ -473,8 +473,8 @@
     },
     {
       "county": "Stoddard",
-      "case": 53,
-      "death": 0
+      "case": 58,
+      "death": 1
     },
     {
       "county": "Stone",
@@ -483,7 +483,7 @@
     },
     {
       "county": "Sullivan",
-      "case": 36,
+      "case": 37,
       "death": 0
     },
     {
@@ -518,7 +518,12 @@
     },
     {
       "county": "Wright",
-      "case": 10,
+      "case": 11,
+      "death": 0
+    },
+    {
+      "county": "Pending",
+      "case": 1,
       "death": 0
     }
   ]
