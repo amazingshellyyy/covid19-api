@@ -108028,5 +108028,120 @@
         "death": 0
       }
     ]
+  },
+  {
+    "timeStamp": 1590075124012,
+    "data": [
+      {
+        "county": "Atlantic",
+        "case": 1807,
+        "death": 112
+      },
+      {
+        "county": "Bergen",
+        "case": 17459,
+        "death": 1460
+      },
+      {
+        "county": "Burlington",
+        "case": 3986,
+        "death": 245
+      },
+      {
+        "county": "Camden",
+        "case": 5573,
+        "death": 275
+      },
+      {
+        "county": "Cape May",
+        "case": 506,
+        "death": 41
+      },
+      {
+        "county": "Cumberland",
+        "case": 1679,
+        "death": 53
+      },
+      {
+        "county": "Essex",
+        "case": 16600,
+        "death": 1546
+      },
+      {
+        "county": "Gloucester",
+        "case": 1907,
+        "death": 117
+      },
+      {
+        "county": "Hudson",
+        "case": 17574,
+        "death": 1068
+      },
+      {
+        "county": "Hunterdon",
+        "case": 846,
+        "death": 52
+      },
+      {
+        "county": "Mercer",
+        "case": 5950,
+        "death": 408
+      },
+      {
+        "county": "Middlesex",
+        "case": 14752,
+        "death": 888
+      },
+      {
+        "county": "Monmouth",
+        "case": 7408,
+        "death": 513
+      },
+      {
+        "county": "Morris",
+        "case": 6092,
+        "death": 569
+      },
+      {
+        "county": "Ocean",
+        "case": 7994,
+        "death": 633
+      },
+      {
+        "county": "Passaic",
+        "case": 15278,
+        "death": 839
+      },
+      {
+        "county": "Salem",
+        "case": 465,
+        "death": 20
+      },
+      {
+        "county": "Somerset",
+        "case": 4278,
+        "death": 375
+      },
+      {
+        "county": "Sussex",
+        "case": 1023,
+        "death": 127
+      },
+      {
+        "county": "Union",
+        "case": 13984,
+        "death": 852
+      },
+      {
+        "county": "Warren",
+        "case": 1086,
+        "death": 121
+      },
+      {
+        "county": "Unassigned",
+        "case": 835,
+        "death": 0
+      }
+    ]
   }
 ]
