@@ -9,8 +9,8 @@ We are working on datas for other states' county as well.
 *2020 Mar 30 updates: start collecting US states data which includes 50 U.S states, 1 federal disctrict, and 5 inhabited territories.
 
 
-- County Data is updated every hour!
-- State Data is updated every 3 hours!
+- County Data is updated twice every day at 9am UCT and 3pm UCT!
+- State Data is updated everyday at 12pm UCT!
 
 :star:Please star this repo to support my effort! Thank you so much!:star:
 
