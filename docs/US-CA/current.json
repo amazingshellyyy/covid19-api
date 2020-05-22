@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1590121902781,
+  "timeStamp": 1590125532774,
   "data": [
     {
       "county": "Los Angeles",
@@ -33,13 +33,13 @@
     },
     {
       "county": "Santa Clara",
-      "case": 2483,
-      "death": 137
+      "case": 2492,
+      "death": 138
     },
     {
       "county": "San Francisco",
-      "case": 2179,
-      "death": 36
+      "case": 2198,
+      "death": 37
     },
     {
       "county": "San Mateo",
@@ -58,7 +58,7 @@
     },
     {
       "county": "Santa Barbara",
-      "case": 1520,
+      "case": 1540,
       "death": 11
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "county": "Ventura",
-      "case": 852,
+      "case": 883,
       "death": 28
     },
     {
@@ -143,7 +143,7 @@
     },
     {
       "county": "Santa Cruz",
-      "case": 168,
+      "case": 174,
       "death": 2
     },
     {
