@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1590125534263,
+  "timeStamp": 1590129107574,
   "data": [
     {
       "county": "Adams",
@@ -13,12 +13,12 @@
     },
     {
       "county": "Benton",
-      "case": 660,
+      "case": 666,
       "death": 58
     },
     {
       "county": "Chelan",
-      "case": 186,
+      "case": 198,
       "death": 6
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "county": "Clark",
-      "case": 392,
+      "case": 394,
       "death": 22
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "county": "Cowlitz",
-      "case": 70,
+      "case": 71,
       "death": 0
     },
     {
       "county": "Douglas",
-      "case": 132,
+      "case": 137,
       "death": 3
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "county": "Franklin",
-      "case": 466,
+      "case": 472,
       "death": 18
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "county": "Island",
-      "case": 176,
+      "case": 177,
       "death": 10
     },
     {
@@ -78,8 +78,8 @@
     },
     {
       "county": "King",
-      "case": 7602,
-      "death": 535
+      "case": 7630,
+      "death": 539
     },
     {
       "county": "Kitsap",
@@ -113,7 +113,7 @@
     },
     {
       "county": "Okanogan",
-      "case": 40,
+      "case": 42,
       "death": 1
     },
     {
@@ -128,8 +128,8 @@
     },
     {
       "county": "Pierce",
-      "case": 1716,
-      "death": 68
+      "case": 1719,
+      "death": 69
     },
     {
       "county": "San Juan",
@@ -148,12 +148,12 @@
     },
     {
       "county": "Snohomish",
-      "case": 2826,
-      "death": 132
+      "case": 2846,
+      "death": 133
     },
     {
       "county": "Spokane",
-      "case": 415,
+      "case": 421,
       "death": 31
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "county": "Whatcom",
-      "case": 360,
+      "case": 363,
       "death": 36
     },
     {
@@ -188,12 +188,12 @@
     },
     {
       "county": "Yakima",
-      "case": 2518,
-      "death": 82
+      "case": 2551,
+      "death": 83
     },
     {
       "county": "Unassigned",
-      "case": 48,
+      "case": 66,
       "death": 0
     }
   ]
