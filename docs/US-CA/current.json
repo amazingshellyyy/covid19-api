@@ -1,10 +1,10 @@
 {
-  "timeStamp": 1590214046445,
+  "timeStamp": 1590246403426,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 39573,
-      "death": 1913
+      "case": 43052,
+      "death": 2042
     },
     {
       "county": "Riverside",
@@ -28,8 +28,8 @@
     },
     {
       "county": "Alameda",
-      "case": 2522,
-      "death": 86
+      "case": 2708,
+      "death": 90
     },
     {
       "county": "Santa Clara",
@@ -73,17 +73,17 @@
     },
     {
       "county": "Contra Costa",
-      "case": 1203,
+      "case": 1259,
       "death": 33
     },
     {
       "county": "Imperial",
-      "case": 985,
+      "case": 1145,
       "death": 18
     },
     {
       "county": "Ventura",
-      "case": 883,
+      "case": 912,
       "death": 28
     },
     {
@@ -94,7 +94,7 @@
     {
       "county": "Stanislaus",
       "case": 598,
-      "death": 26
+      "death": 28
     },
     {
       "county": "Solano",
@@ -108,12 +108,12 @@
     },
     {
       "county": "Sonoma",
-      "case": 391,
+      "case": 467,
       "death": 4
     },
     {
       "county": "Monterey",
-      "case": 355,
+      "case": 363,
       "death": 8
     },
     {
@@ -138,8 +138,8 @@
     },
     {
       "county": "Placer",
-      "case": 177,
-      "death": 8
+      "case": 184,
+      "death": 9
     },
     {
       "county": "Santa Cruz",
@@ -148,7 +148,7 @@
     },
     {
       "county": "Napa",
-      "case": 92,
+      "case": 96,
       "death": 3
     },
     {
