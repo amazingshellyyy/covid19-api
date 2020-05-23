@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1590161507168,
+  "timeStamp": 1590214048154,
   "data": [
     {
       "county": "Adams",
@@ -13,12 +13,12 @@
     },
     {
       "county": "Benton",
-      "case": 666,
-      "death": 58
+      "case": 674,
+      "death": 59
     },
     {
       "county": "Chelan",
-      "case": 198,
+      "case": 204,
       "death": 6
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "county": "Clark",
-      "case": 394,
+      "case": 399,
       "death": 22
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "county": "Douglas",
-      "case": 137,
+      "case": 139,
       "death": 3
     },
     {
@@ -53,17 +53,17 @@
     },
     {
       "county": "Franklin",
-      "case": 472,
+      "case": 480,
       "death": 18
     },
     {
       "county": "Grant",
-      "case": 188,
+      "case": 189,
       "death": 4
     },
     {
       "county": "Grays Harbor",
-      "case": 15,
+      "case": 16,
       "death": 0
     },
     {
@@ -78,12 +78,12 @@
     },
     {
       "county": "King",
-      "case": 7630,
-      "death": 539
+      "case": 7669,
+      "death": 542
     },
     {
       "county": "Kitsap",
-      "case": 161,
+      "case": 160,
       "death": 2
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "county": "Mason",
-      "case": 33,
+      "case": 34,
       "death": 1
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "county": "Pierce",
-      "case": 1719,
+      "case": 1728,
       "death": 69
     },
     {
@@ -148,12 +148,12 @@
     },
     {
       "county": "Snohomish",
-      "case": 2846,
-      "death": 133
+      "case": 2863,
+      "death": 135
     },
     {
       "county": "Spokane",
-      "case": 421,
+      "case": 437,
       "death": 31
     },
     {
@@ -188,12 +188,12 @@
     },
     {
       "county": "Yakima",
-      "case": 2551,
+      "case": 2594,
       "death": 83
     },
     {
       "county": "Unassigned",
-      "case": 66,
+      "case": 59,
       "death": 0
     }
   ]
