@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1590246406704,
+  "timeStamp": 1590300451506,
   "data": [
     {
       "county": "Adams",
@@ -13,12 +13,12 @@
     },
     {
       "county": "Benton",
-      "case": 674,
+      "case": 691,
       "death": 59
     },
     {
       "county": "Chelan",
-      "case": 204,
+      "case": 217,
       "death": 6
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "county": "Clark",
-      "case": 399,
+      "case": 401,
       "death": 22
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "county": "Cowlitz",
-      "case": 71,
+      "case": 72,
       "death": 0
     },
     {
       "county": "Douglas",
-      "case": 139,
+      "case": 145,
       "death": 3
     },
     {
@@ -53,8 +53,8 @@
     },
     {
       "county": "Franklin",
-      "case": 480,
-      "death": 18
+      "case": 496,
+      "death": 19
     },
     {
       "county": "Grant",
@@ -78,17 +78,17 @@
     },
     {
       "county": "King",
-      "case": 7669,
-      "death": 542
+      "case": 7741,
+      "death": 545
     },
     {
       "county": "Kitsap",
-      "case": 160,
+      "case": 161,
       "death": 2
     },
     {
       "county": "Kittitas",
-      "case": 66,
+      "case": 67,
       "death": 0
     },
     {
@@ -128,8 +128,8 @@
     },
     {
       "county": "Pierce",
-      "case": 1728,
-      "death": 69
+      "case": 1742,
+      "death": 70
     },
     {
       "county": "San Juan",
@@ -148,12 +148,12 @@
     },
     {
       "county": "Snohomish",
-      "case": 2863,
+      "case": 2889,
       "death": 135
     },
     {
       "county": "Spokane",
-      "case": 437,
+      "case": 463,
       "death": 31
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "county": "Whatcom",
-      "case": 363,
+      "case": 368,
       "death": 36
     },
     {
@@ -188,12 +188,12 @@
     },
     {
       "county": "Yakima",
-      "case": 2594,
+      "case": 2719,
       "death": 83
     },
     {
       "county": "Unassigned",
-      "case": 59,
+      "case": 54,
       "death": 0
     }
   ]
