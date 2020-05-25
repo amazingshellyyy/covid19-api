@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1590386855841,
+  "timeStamp": 1590419269808,
   "data": [
     {
       "county": "Los Angeles",
@@ -18,8 +18,8 @@
     },
     {
       "county": "Orange",
-      "case": 4500,
-      "death": 88
+      "case": 5336,
+      "death": 131
     },
     {
       "county": "San Bernardino",
@@ -123,7 +123,7 @@
     },
     {
       "county": "San Luis Obispo",
-      "case": 259,
+      "case": 258,
       "death": 1
     },
     {
