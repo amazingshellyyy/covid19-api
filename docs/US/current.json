@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1590494531249,
+  "timeStamp": 1590580936430,
   "data": [
     {
       "state": "Alabama",
@@ -8,7 +8,7 @@
     },
     {
       "state": "Alaska",
-      "case": 408,
+      "case": 411,
       "death": 10
     },
     {
@@ -18,8 +18,8 @@
     },
     {
       "state": "Arizona",
-      "case": 16339,
-      "death": 800
+      "case": 16783,
+      "death": 807
     },
     {
       "state": "Arkansas",
@@ -38,13 +38,13 @@
     },
     {
       "state": "Connecticut",
-      "case": 40022,
-      "death": 3675
+      "case": 41303,
+      "death": 3769
     },
     {
       "state": "Delaware",
-      "case": 8690,
-      "death": 324
+      "case": 9066,
+      "death": 335
     },
     {
       "state": "District of Columbia",
@@ -83,8 +83,8 @@
     },
     {
       "state": "Indiana",
-      "case": 30901,
-      "death": 1812
+      "case": 32078,
+      "death": 1850
     },
     {
       "state": "Iowa",
@@ -108,8 +108,8 @@
     },
     {
       "state": "Maine",
-      "case": 2013,
-      "death": 77
+      "case": 2109,
+      "death": 79
     },
     {
       "state": "Maryland",
@@ -128,13 +128,13 @@
     },
     {
       "state": "Minnesota",
-      "case": 19845,
-      "death": 852
+      "case": 21960,
+      "death": 899
     },
     {
       "state": "Mississippi",
-      "case": 13005,
-      "death": 616
+      "case": 13731,
+      "death": 652
     },
     {
       "state": "Missouri",
@@ -144,7 +144,7 @@
     {
       "state": "Montana",
       "case": 479,
-      "death": 16
+      "death": 17
     },
     {
       "state": "Nebraska",
