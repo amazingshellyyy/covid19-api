@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1590505674723,
+  "timeStamp": 1590559655014,
   "data": [
     {
       "county": "Los Angeles",
@@ -28,23 +28,23 @@
     },
     {
       "county": "Alameda",
-      "case": 2874,
+      "case": 2986,
       "death": 93
     },
     {
       "county": "Santa Clara",
-      "case": 2617,
+      "case": 2675,
       "death": 139
     },
     {
       "county": "San Francisco",
-      "case": 2386,
+      "case": 2399,
       "death": 40
     },
     {
       "county": "San Mateo",
-      "case": 1833,
-      "death": 76
+      "case": 1904,
+      "death": 82
     },
     {
       "county": "Kern",
@@ -73,7 +73,7 @@
     },
     {
       "county": "Contra Costa",
-      "case": 1336,
+      "case": 1353,
       "death": 37
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "county": "Ventura",
-      "case": 912,
+      "case": 1017,
       "death": 28
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "county": "Solano",
-      "case": 455,
+      "case": 499,
       "death": 20
     },
     {
@@ -108,17 +108,17 @@
     },
     {
       "county": "Sonoma",
-      "case": 500,
+      "case": 515,
       "death": 4
     },
     {
       "county": "Monterey",
-      "case": 363,
+      "case": 413,
       "death": 8
     },
     {
       "county": "Marin",
-      "case": 336,
+      "case": 420,
       "death": 14
     },
     {
@@ -143,12 +143,12 @@
     },
     {
       "county": "Santa Cruz",
-      "case": 192,
+      "case": 200,
       "death": 2
     },
     {
       "county": "Napa",
-      "case": 96,
+      "case": 109,
       "death": 3
     },
     {
