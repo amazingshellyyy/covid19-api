@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1590592004990,
+  "timeStamp": 1590646134890,
   "data": [
     {
       "county": "Los Angeles",
@@ -28,22 +28,22 @@
     },
     {
       "county": "Alameda",
-      "case": 2986,
+      "case": 3049,
       "death": 93
     },
     {
       "county": "Santa Clara",
-      "case": 2675,
-      "death": 139
+      "case": 2688,
+      "death": 140
     },
     {
       "county": "San Francisco",
-      "case": 2399,
+      "case": 2408,
       "death": 40
     },
     {
       "county": "San Mateo",
-      "case": 1904,
+      "case": 1963,
       "death": 82
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "county": "Contra Costa",
-      "case": 1353,
+      "case": 1375,
       "death": 37
     },
     {
@@ -98,8 +98,8 @@
     },
     {
       "county": "Solano",
-      "case": 499,
-      "death": 20
+      "case": 502,
+      "death": 21
     },
     {
       "county": "Kings",
@@ -108,7 +108,7 @@
     },
     {
       "county": "Sonoma",
-      "case": 515,
+      "case": 524,
       "death": 4
     },
     {
@@ -143,7 +143,7 @@
     },
     {
       "county": "Santa Cruz",
-      "case": 200,
+      "case": 205,
       "death": 2
     },
     {
@@ -213,7 +213,7 @@
     },
     {
       "county": "Del Norte",
-      "case": 14,
+      "case": 40,
       "death": 0
     },
     {

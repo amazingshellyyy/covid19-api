@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1590592007640,
+  "timeStamp": 1590646137788,
   "data": [
     {
       "county": "Adams",
@@ -8,13 +8,13 @@
     },
     {
       "county": "Allen",
-      "case": 1309,
+      "case": 1353,
       "death": 66
     },
     {
       "county": "Bartholomew",
-      "case": 481,
-      "death": 33
+      "case": 486,
+      "death": 34
     },
     {
       "county": "Benton",
@@ -23,12 +23,12 @@
     },
     {
       "county": "Blackford",
-      "case": 21,
-      "death": 1
+      "case": 20,
+      "death": 2
     },
     {
       "county": "Boone",
-      "case": 288,
+      "case": 293,
       "death": 35
     },
     {
@@ -38,22 +38,22 @@
     },
     {
       "county": "Carroll",
-      "case": 92,
+      "case": 93,
       "death": 2
     },
     {
       "county": "Cass",
-      "case": 1582,
-      "death": 6
+      "case": 1586,
+      "death": 7
     },
     {
       "county": "Clark",
-      "case": 461,
-      "death": 38
+      "case": 471,
+      "death": 41
     },
     {
       "county": "Clay",
-      "case": 39,
+      "case": 41,
       "death": 1
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "county": "Daviess",
-      "case": 82,
+      "case": 84,
       "death": 16
     },
     {
@@ -83,13 +83,13 @@
     },
     {
       "county": "DeKalb",
-      "case": 31,
+      "case": 33,
       "death": 1
     },
     {
       "county": "Delaware",
-      "case": 357,
-      "death": 35
+      "case": 359,
+      "death": 36
     },
     {
       "county": "Dubois",
@@ -98,18 +98,18 @@
     },
     {
       "county": "Elkhart",
-      "case": 1057,
+      "case": 1070,
       "death": 28
     },
     {
       "county": "Fayette",
-      "case": 68,
+      "case": 71,
       "death": 4
     },
     {
       "county": "Floyd",
-      "case": 314,
-      "death": 38
+      "case": 315,
+      "death": 39
     },
     {
       "county": "Fountain",
@@ -133,43 +133,43 @@
     },
     {
       "county": "Grant",
-      "case": 191,
+      "case": 195,
       "death": 21
     },
     {
       "county": "Greene",
-      "case": 167,
+      "case": 168,
       "death": 24
     },
     {
       "county": "Hamilton",
-      "case": 1115,
-      "death": 92
+      "case": 1123,
+      "death": 91
     },
     {
       "county": "Hancock",
-      "case": 321,
+      "case": 323,
       "death": 27
     },
     {
       "county": "Harrison",
-      "case": 187,
+      "case": 188,
       "death": 21
     },
     {
       "county": "Hendricks",
-      "case": 1130,
+      "case": 1135,
       "death": 67
     },
     {
       "county": "Henry",
-      "case": 161,
+      "case": 170,
       "death": 9
     },
     {
       "county": "Howard",
-      "case": 365,
-      "death": 19
+      "case": 376,
+      "death": 20
     },
     {
       "county": "Huntington",
@@ -178,32 +178,32 @@
     },
     {
       "county": "Jackson",
-      "case": 367,
+      "case": 368,
       "death": 1
     },
     {
       "county": "Jasper",
-      "case": 58,
+      "case": 62,
       "death": 1
     },
     {
       "county": "Jay",
-      "case": 44,
+      "case": 46,
       "death": 0
     },
     {
       "county": "Jefferson",
-      "case": 41,
+      "case": 42,
       "death": 1
     },
     {
       "county": "Jennings",
-      "case": 127,
+      "case": 128,
       "death": 4
     },
     {
       "county": "Johnson",
-      "case": 1086,
+      "case": 1092,
       "death": 104
     },
     {
@@ -213,42 +213,42 @@
     },
     {
       "county": "Kosciusko",
-      "case": 94,
+      "case": 97,
       "death": 1
     },
     {
       "county": "LaGrange",
-      "case": 60,
+      "case": 62,
       "death": 2
     },
     {
       "county": "Lake",
-      "case": 3320,
-      "death": 168
+      "case": 3347,
+      "death": 170
     },
     {
       "county": "LaPorte",
       "case": 415,
-      "death": 22
+      "death": 23
     },
     {
       "county": "Lawrence",
-      "case": 144,
+      "case": 146,
       "death": 23
     },
     {
       "county": "Madison",
       "case": 582,
-      "death": 58
+      "death": 59
     },
     {
       "county": "Marion",
-      "case": 9268,
-      "death": 539
+      "case": 9371,
+      "death": 546
     },
     {
       "county": "Marshall",
-      "case": 76,
+      "case": 80,
       "death": 1
     },
     {
@@ -263,17 +263,17 @@
     },
     {
       "county": "Monroe",
-      "case": 160,
+      "case": 162,
       "death": 11
     },
     {
       "county": "Montgomery",
-      "case": 231,
+      "case": 233,
       "death": 17
     },
     {
       "county": "Morgan",
-      "case": 262,
+      "case": 270,
       "death": 24
     },
     {
@@ -283,7 +283,7 @@
     },
     {
       "county": "Noble",
-      "case": 189,
+      "case": 192,
       "death": 21
     },
     {
@@ -303,7 +303,7 @@
     },
     {
       "county": "Parke",
-      "case": 17,
+      "case": 18,
       "death": 0
     },
     {
@@ -318,32 +318,32 @@
     },
     {
       "county": "Porter",
-      "case": 490,
+      "case": 495,
       "death": 21
     },
     {
       "county": "Posey",
-      "case": 17,
+      "case": 16,
       "death": 0
     },
     {
       "county": "Pulaski",
-      "case": 39,
+      "case": 40,
       "death": 0
     },
     {
       "county": "Putnam",
-      "case": 133,
+      "case": 134,
       "death": 7
     },
     {
       "county": "Randolph",
-      "case": 43,
+      "case": 45,
       "death": 3
     },
     {
       "county": "Ripley",
-      "case": 112,
+      "case": 113,
       "death": 6
     },
     {
@@ -358,7 +358,7 @@
     },
     {
       "county": "Shelby",
-      "case": 315,
+      "case": 321,
       "death": 21
     },
     {
@@ -368,7 +368,7 @@
     },
     {
       "county": "St. Joseph",
-      "case": 1205,
+      "case": 1218,
       "death": 34
     },
     {
@@ -383,7 +383,7 @@
     },
     {
       "county": "Sullivan",
-      "case": 32,
+      "case": 33,
       "death": 1
     },
     {
@@ -393,12 +393,12 @@
     },
     {
       "county": "Tippecanoe",
-      "case": 375,
+      "case": 380,
       "death": 3
     },
     {
       "county": "Tipton",
-      "case": 25,
+      "case": 24,
       "death": 1
     },
     {
@@ -408,22 +408,22 @@
     },
     {
       "county": "Vanderburgh",
-      "case": 248,
+      "case": 253,
       "death": 2
     },
     {
       "county": "Vermillion",
-      "case": 9,
+      "case": 10,
       "death": 0
     },
     {
       "county": "Vigo",
-      "case": 147,
+      "case": 150,
       "death": 7
     },
     {
       "county": "Wabash",
-      "case": 72,
+      "case": 73,
       "death": 2
     },
     {
@@ -433,8 +433,8 @@
     },
     {
       "county": "Warrick",
-      "case": 164,
-      "death": 26
+      "case": 165,
+      "death": 28
     },
     {
       "county": "Washington",
@@ -443,22 +443,22 @@
     },
     {
       "county": "Wayne",
-      "case": 71,
+      "case": 75,
       "death": 5
     },
     {
       "county": "Wells",
-      "case": 24,
+      "case": 26,
       "death": 0
     },
     {
       "county": "White",
-      "case": 226,
+      "case": 228,
       "death": 8
     },
     {
       "county": "Whitley",
-      "case": 40,
+      "case": 41,
       "death": 2
     }
   ]
