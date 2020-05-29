@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1590678488653,
+  "timeStamp": 1590732370007,
   "data": [
     {
       "county": "Los Angeles",
@@ -13,13 +13,13 @@
     },
     {
       "county": "San Diego",
-      "case": 6026,
-      "death": 222
+      "case": 6983,
+      "death": 255
     },
     {
       "county": "Orange",
-      "case": 5336,
-      "death": 131
+      "case": 5646,
+      "death": 136
     },
     {
       "county": "San Bernardino",
@@ -28,22 +28,22 @@
     },
     {
       "county": "Alameda",
-      "case": 3049,
-      "death": 93
+      "case": 3097,
+      "death": 94
     },
     {
       "county": "Santa Clara",
-      "case": 2688,
+      "case": 2701,
       "death": 140
     },
     {
       "county": "San Francisco",
-      "case": 2408,
+      "case": 2437,
       "death": 40
     },
     {
       "county": "San Mateo",
-      "case": 1963,
+      "case": 2022,
       "death": 82
     },
     {
@@ -53,8 +53,8 @@
     },
     {
       "county": "Tulare",
-      "case": 1539,
-      "death": 71
+      "case": 1835,
+      "death": 80
     },
     {
       "county": "Santa Barbara",
@@ -73,7 +73,7 @@
     },
     {
       "county": "Contra Costa",
-      "case": 1375,
+      "case": 1384,
       "death": 37
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "county": "Ventura",
-      "case": 1017,
+      "case": 1038,
       "death": 28
     },
     {
@@ -98,27 +98,27 @@
     },
     {
       "county": "Solano",
-      "case": 502,
-      "death": 21
+      "case": 509,
+      "death": 22
     },
     {
       "county": "Kings",
-      "case": 416,
+      "case": 444,
       "death": 2
     },
     {
       "county": "Sonoma",
-      "case": 524,
+      "case": 530,
       "death": 4
     },
     {
       "county": "Monterey",
-      "case": 413,
+      "case": 443,
       "death": 8
     },
     {
       "county": "Marin",
-      "case": 420,
+      "case": 430,
       "death": 14
     },
     {
@@ -153,7 +153,7 @@
     },
     {
       "county": "Humboldt",
-      "case": 86,
+      "case": 98,
       "death": 2
     },
     {
@@ -213,7 +213,7 @@
     },
     {
       "county": "Del Norte",
-      "case": 40,
+      "case": 44,
       "death": 0
     },
     {
@@ -228,12 +228,12 @@
     },
     {
       "county": "Glenn",
-      "case": 12,
+      "case": 14,
       "death": 0
     },
     {
       "county": "Lake",
-      "case": 11,
+      "case": 23,
       "death": 0
     },
     {
