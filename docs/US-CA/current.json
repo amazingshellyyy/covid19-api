@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1590991576950,
+  "timeStamp": 1591023936786,
   "data": [
     {
       "county": "Los Angeles",
@@ -28,18 +28,18 @@
     },
     {
       "county": "Alameda",
-      "case": 3390,
-      "death": 96
+      "case": 3289,
+      "death": 95
     },
     {
       "county": "Santa Clara",
-      "case": 2776,
+      "case": 2731,
       "death": 141
     },
     {
       "county": "San Francisco",
-      "case": 2558,
-      "death": 42
+      "case": 2532,
+      "death": 41
     },
     {
       "county": "San Mateo",
@@ -73,7 +73,7 @@
     },
     {
       "county": "Contra Costa",
-      "case": 1450,
+      "case": 1426,
       "death": 37
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "county": "Sonoma",
-      "case": 553,
+      "case": 548,
       "death": 4
     },
     {
