@@ -1,34 +1,34 @@
 {
-  "timeStamp": 1590937568950,
+  "timeStamp": 1590991576327,
   "data": [
     {
       "county": "Accomack",
-      "case": 23,
-      "death": 7
+      "case": 48,
+      "death": 12
     },
     {
       "county": "Albemarle",
-      "case": 16,
-      "death": 4
+      "case": 19,
+      "death": 8
     },
     {
       "county": "Alexandria",
-      "case": 139,
-      "death": 30
+      "case": 187,
+      "death": 44
     },
     {
       "county": "Alleghany",
-      "case": 4,
-      "death": 0
+      "case": 9,
+      "death": 4
     },
     {
       "county": "Amelia",
-      "case": 7,
+      "case": 8,
       "death": 1
     },
     {
       "county": "Amherst",
-      "case": 2,
+      "case": 3,
       "death": 0
     },
     {
@@ -38,8 +38,8 @@
     },
     {
       "county": "Arlington",
-      "case": 286,
-      "death": 60
+      "case": 371,
+      "death": 113
     },
     {
       "county": "Augusta",
@@ -48,28 +48,38 @@
     },
     {
       "county": "Bedford",
-      "case": 1,
-      "death": 1
+      "case": 2,
+      "death": 2
     },
     {
       "county": "Botetourt",
       "case": 9,
-      "death": 3
+      "death": 4
+    },
+    {
+      "county": "Bristol",
+      "case": 1,
+      "death": 0
     },
     {
       "county": "Brunswick",
-      "case": 4,
-      "death": 0
-    },
-    {
-      "county": "Buckingham",
-      "case": 10,
+      "case": 6,
       "death": 1
     },
     {
-      "county": "Campbell",
-      "case": 3,
+      "county": "Buckingham",
+      "case": 16,
+      "death": 3
+    },
+    {
+      "county": "Buena Vista",
+      "case": 1,
       "death": 0
+    },
+    {
+      "county": "Campbell",
+      "case": 4,
+      "death": 1
     },
     {
       "county": "Caroline",
@@ -78,147 +88,147 @@
     },
     {
       "county": "Carroll",
-      "case": 2,
-      "death": 0
+      "case": 3,
+      "death": 1
     },
     {
       "county": "Charles City",
-      "case": 8,
+      "case": 10,
       "death": 1
     },
     {
       "county": "Charlotte",
-      "case": 2,
+      "case": 4,
       "death": 0
     },
     {
       "county": "Charlottesville",
-      "case": 14,
-      "death": 2
+      "case": 15,
+      "death": 3
     },
     {
       "county": "Chesapeake",
-      "case": 70,
-      "death": 9
+      "case": 87,
+      "death": 15
     },
     {
       "county": "Chesterfield",
-      "case": 64,
-      "death": 26
+      "case": 78,
+      "death": 35
     },
     {
       "county": "Clarke",
-      "case": 2,
+      "case": 3,
       "death": 0
     },
     {
       "county": "Colonial Heights",
-      "case": 2,
-      "death": 6
+      "case": 10,
+      "death": 17
     },
     {
       "county": "Culpeper",
-      "case": 23,
-      "death": 5
+      "case": 46,
+      "death": 6
     },
     {
       "county": "Cumberland",
-      "case": 2,
+      "case": 4,
       "death": 0
     },
     {
       "county": "Danville",
-      "case": 13,
-      "death": 1
+      "case": 15,
+      "death": 2
     },
     {
       "county": "Dinwiddie",
-      "case": 8,
+      "case": 12,
       "death": 0
     },
     {
       "county": "Emporia",
-      "case": 9,
-      "death": 3
+      "case": 13,
+      "death": 5
     },
     {
       "county": "Essex",
-      "case": 3,
+      "case": 4,
       "death": 0
     },
     {
       "county": "Fairfax",
-      "case": 946,
-      "death": 243
+      "case": 1300,
+      "death": 383
     },
     {
       "county": "Fairfax",
-      "case": 6,
-      "death": 3
+      "case": 8,
+      "death": 6
     },
     {
       "county": "Falls Church",
-      "case": 9,
-      "death": 4
+      "case": 11,
+      "death": 8
     },
     {
       "county": "Fauquier",
-      "case": 15,
-      "death": 4
+      "case": 21,
+      "death": 6
     },
     {
       "county": "Floyd",
-      "case": 1,
+      "case": 2,
       "death": 0
     },
     {
       "county": "Fluvanna",
-      "case": 21,
+      "case": 23,
       "death": 6
     },
     {
       "county": "Franklin",
       "case": 3,
-      "death": 1
-    },
-    {
-      "county": "Franklin",
-      "case": 3,
-      "death": 0
-    },
-    {
-      "county": "Frederick",
-      "case": 14,
       "death": 2
     },
     {
+      "county": "Franklin",
+      "case": 4,
+      "death": 1
+    },
+    {
+      "county": "Frederick",
+      "case": 22,
+      "death": 4
+    },
+    {
       "county": "Fredericksburg",
-      "case": 13,
+      "case": 19,
       "death": 0
     },
     {
       "county": "Galax",
-      "case": 1,
+      "case": 4,
       "death": 0
     },
     {
       "county": "Gloucester",
-      "case": 7,
+      "case": 8,
       "death": 1
     },
     {
       "county": "Goochland",
-      "case": 13,
-      "death": 5
+      "case": 18,
+      "death": 6
     },
     {
       "county": "Grayson",
-      "case": 1,
+      "case": 4,
       "death": 0
     },
     {
       "county": "Greene",
-      "case": 2,
+      "case": 4,
       "death": 1
     },
     {
@@ -228,33 +238,33 @@
     },
     {
       "county": "Halifax",
-      "case": 2,
+      "case": 3,
       "death": 0
     },
     {
       "county": "Hampton",
-      "case": 29,
+      "case": 30,
       "death": 3
     },
     {
       "county": "Hanover",
-      "case": 39,
-      "death": 16
+      "case": 50,
+      "death": 24
     },
     {
       "county": "Harrisonburg",
-      "case": 35,
-      "death": 21
+      "case": 57,
+      "death": 23
     },
     {
       "county": "Henrico",
-      "case": 152,
-      "death": 110
+      "case": 201,
+      "death": 133
     },
     {
       "county": "Henry",
-      "case": 4,
-      "death": 1
+      "case": 9,
+      "death": 3
     },
     {
       "county": "Hopewell",
@@ -263,28 +273,28 @@
     },
     {
       "county": "Isle of Wight",
-      "case": 10,
+      "case": 12,
       "death": 3
     },
     {
       "county": "James City",
-      "case": 53,
+      "case": 54,
       "death": 15
     },
     {
       "county": "King and Queen",
-      "case": 1,
-      "death": 0
+      "case": 2,
+      "death": 1
     },
     {
       "county": "King George",
-      "case": 13,
+      "case": 14,
       "death": 4
     },
     {
       "county": "King William",
-      "case": 2,
-      "death": 1
+      "case": 3,
+      "death": 0
     },
     {
       "county": "Lancaster",
@@ -298,13 +308,13 @@
     },
     {
       "county": "Loudoun",
-      "case": 116,
-      "death": 30
+      "case": 162,
+      "death": 62
     },
     {
       "county": "Louisa",
       "case": 9,
-      "death": 0
+      "death": 1
     },
     {
       "county": "Lynchburg",
@@ -313,33 +323,33 @@
     },
     {
       "county": "Madison",
-      "case": 2,
+      "case": 3,
       "death": 1
     },
     {
       "county": "Manassas",
-      "case": 42,
-      "death": 3
+      "case": 64,
+      "death": 10
     },
     {
       "county": "Manassas Park",
-      "case": 13,
-      "death": 2
+      "case": 29,
+      "death": 6
     },
     {
       "county": "Martinsville",
-      "case": 1,
-      "death": 0
+      "case": 6,
+      "death": 1
     },
     {
       "county": "Mathews",
-      "case": 1,
+      "case": 2,
       "death": 0
     },
     {
       "county": "Mecklenburg",
-      "case": 23,
-      "death": 10
+      "case": 29,
+      "death": 21
     },
     {
       "county": "Middlesex",
@@ -353,23 +363,23 @@
     },
     {
       "county": "New Kent",
-      "case": 5,
+      "case": 6,
       "death": 1
     },
     {
       "county": "Newport News",
-      "case": 36,
+      "case": 40,
       "death": 10
     },
     {
       "county": "Norfolk",
-      "case": 50,
-      "death": 5
+      "case": 69,
+      "death": 6
     },
     {
       "county": "Northampton",
-      "case": 9,
-      "death": 5
+      "case": 27,
+      "death": 20
     },
     {
       "county": "Norton",
@@ -378,23 +388,23 @@
     },
     {
       "county": "Nottoway",
-      "case": 1,
+      "case": 5,
       "death": 0
     },
     {
       "county": "Orange",
-      "case": 3,
-      "death": 0
+      "case": 7,
+      "death": 1
     },
     {
       "county": "Page",
-      "case": 13,
-      "death": 12
+      "case": 24,
+      "death": 21
     },
     {
       "county": "Petersburg",
-      "case": 17,
-      "death": 2
+      "case": 23,
+      "death": 3
     },
     {
       "county": "Pittsylvania",
@@ -408,53 +418,58 @@
     },
     {
       "county": "Portsmouth",
-      "case": 38,
-      "death": 8
+      "case": 44,
+      "death": 11
     },
     {
       "county": "Prince Edward",
-      "case": 7,
+      "case": 10,
       "death": 2
     },
     {
       "county": "Prince George",
-      "case": 5,
+      "case": 6,
       "death": 0
     },
     {
       "county": "Prince William",
-      "case": 284,
-      "death": 53
+      "case": 460,
+      "death": 104
     },
     {
       "county": "Pulaski",
-      "case": 2,
+      "case": 4,
+      "death": 0
+    },
+    {
+      "county": "Rappahannock",
+      "case": 1,
       "death": 0
     },
     {
       "county": "Richmond",
-      "case": 92,
-      "death": 18
+      "case": 149,
+      "death": 24
     },
     {
       "county": "Richmond",
-      "case": 7,
-      "death": 3
+      "case": 9,
+      "death": 4
     },
     {
       "county": "Roanoke",
-      "case": 7,
-      "death": 1
+      "case": 9,
+      "death": 9
     },
     {
       "county": "Roanoke",
-      "case": 5,
-      "death": 0
+      "case": 9,
+      "death": 4
     },
     {
       "county": "Rockingham",
-      "case": 23,
-      "death": 2
+      "case": 53,
+      "death": 6
     },
     {
       "county": "Russell",
@@ -463,8 +478,8 @@
     },
     {
       "county": "Salem",
-      "case": 4,
-      "death": 0
+      "case": 3,
+      "death": 3
     },
     {
       "county": "Scott",
@@ -473,8 +488,8 @@
     },
     {
       "county": "Shenandoah",
-      "case": 22,
-      "death": 6
+      "case": 44,
+      "death": 21
     },
     {
       "county": "Smyth",
@@ -483,73 +498,78 @@
     },
     {
       "county": "Southampton",
-      "case": 3,
-      "death": 1
-    },
-    {
-      "county": "Spotsylvania",
-      "case": 28,
-      "death": 4
-    },
-    {
-      "county": "Stafford",
-      "case": 59,
+      "case": 6,
       "death": 2
     },
     {
-      "county": "Suffolk",
-      "case": 39,
-      "death": 19
+      "county": "Spotsylvania",
+      "case": 40,
+      "death": 7
     },
     {
-      "county": "Surry",
-      "case": 1,
-      "death": 1
+      "county": "Stafford",
+      "case": 72,
+      "death": 4
     },
     {
-      "county": "Sussex",
-      "case": 4,
-      "death": 1
-    },
-    {
-      "county": "Virginia Beach",
-      "case": 85,
-      "death": 17
-    },
-    {
-      "county": "Warren",
-      "case": 9,
-      "death": 1
-    },
-    {
-      "county": "Washington",
-      "case": 8,
-      "death": 3
-    },
-    {
-      "county": "Waynesboro",
-      "case": 1,
-      "death": 0
-    },
-    {
-      "county": "Westmoreland",
+      "county": "Staunton",
       "case": 5,
       "death": 0
     },
     {
-      "county": "Williamsburg",
-      "case": 9,
-      "death": 3
+      "county": "Suffolk",
+      "case": 50,
+      "death": 32
     },
     {
-      "county": "Winchester",
+      "county": "Surry",
+      "case": 3,
+      "death": 1
+    },
+    {
+      "county": "Sussex",
+      "case": 8,
+      "death": 2
+    },
+    {
+      "county": "Virginia Beach",
+      "case": 92,
+      "death": 23
+    },
+    {
+      "county": "Warren",
+      "case": 14,
+      "death": 2
+    },
+    {
+      "county": "Washington",
+      "case": 8,
+      "death": 4
+    },
+    {
+      "county": "Waynesboro",
       "case": 2,
       "death": 0
     },
     {
-      "county": "Wise",
-      "case": 9,
+      "county": "Westmoreland",
+      "case": 8,
       "death": 1
+    },
+    {
+      "county": "Williamsburg",
+      "case": 10,
+      "death": 4
+    },
+    {
+      "county": "Winchester",
+      "case": 12,
+      "death": 2
+    },
+    {
+      "county": "Wise",
+      "case": 11,
+      "death": 2
     },
     {
       "county": "Wythe",
@@ -558,8 +578,8 @@
     },
     {
       "county": "York",
-      "case": 8,
-      "death": 2
+      "case": 9,
+      "death": 3
     }
   ]
 }
