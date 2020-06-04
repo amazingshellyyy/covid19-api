@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1591196754746,
+  "timeStamp": 1591250757704,
   "data": [
     {
       "county": "Los Angeles",
@@ -23,27 +23,27 @@
     },
     {
       "county": "San Bernardino",
-      "case": 3707,
+      "case": 5501,
       "death": 157
     },
     {
       "county": "Alameda",
-      "case": 3515,
+      "case": 3548,
       "death": 97
     },
     {
       "county": "Santa Clara",
-      "case": 2819,
-      "death": 143
+      "case": 2832,
+      "death": 144
     },
     {
       "county": "San Francisco",
-      "case": 2587,
+      "case": 2613,
       "death": 43
     },
     {
       "county": "San Mateo",
-      "case": 2188,
+      "case": 2212,
       "death": 84
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "county": "Santa Barbara",
-      "case": 1540,
+      "case": 1714,
       "death": 11
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "county": "Contra Costa",
-      "case": 1506,
+      "case": 1513,
       "death": 37
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "county": "Stanislaus",
-      "case": 598,
+      "case": 767,
       "death": 28
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "county": "Sonoma",
-      "case": 566,
+      "case": 579,
       "death": 4
     },
     {
@@ -143,12 +143,12 @@
     },
     {
       "county": "Santa Cruz",
-      "case": 212,
+      "case": 219,
       "death": 2
     },
     {
       "county": "Napa",
-      "case": 113,
+      "case": 124,
       "death": 3
     },
     {
@@ -228,7 +228,7 @@
     },
     {
       "county": "Glenn",
-      "case": 14,
+      "case": 17,
       "death": 0
     },
     {
