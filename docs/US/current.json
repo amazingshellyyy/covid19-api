@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1591358521810,
+  "timeStamp": 1591444936960,
   "data": [
     {
       "state": "Alabama",
@@ -43,8 +43,8 @@
     },
     {
       "state": "Delaware",
-      "case": 9712,
-      "death": 375
+      "case": 9773,
+      "death": 388
     },
     {
       "state": "District of Columbia",
@@ -108,13 +108,13 @@
     },
     {
       "state": "Maine",
-      "case": 2446,
-      "death": 95
+      "case": 2482,
+      "death": 98
     },
     {
       "state": "Maryland",
-      "case": 55858,
-      "death": 2668
+      "case": 56770,
+      "death": 2702
     },
     {
       "state": "Massachusetts",
@@ -158,13 +158,13 @@
     },
     {
       "state": "New Hampshire",
-      "case": 4795,
-      "death": 265
+      "case": 4876,
+      "death": 273
     },
     {
       "state": "New Jersey",
-      "case": 162530,
-      "death": 11970
+      "case": 163336,
+      "death": 12049
     },
     {
       "state": "New Mexico",
@@ -173,8 +173,8 @@
     },
     {
       "state": "New York",
-      "case": 375133,
-      "death": 24133
+      "case": 376208,
+      "death": 24175
     },
     {
       "state": "North Carolina",
@@ -253,13 +253,13 @@
     },
     {
       "state": "Vermont",
-      "case": 1026,
+      "case": 1027,
       "death": 55
     },
     {
       "state": "Virginia",
-      "case": 47856,
-      "death": 1445
+      "case": 48532,
+      "death": 1453
     },
     {
       "state": "Washington",
