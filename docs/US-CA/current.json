@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1591423671135,
+  "timeStamp": 1591455964463,
   "data": [
     {
       "county": "Los Angeles",
@@ -28,12 +28,12 @@
     },
     {
       "county": "Alameda",
-      "case": 3641,
-      "death": 97
+      "case": 3725,
+      "death": 101
     },
     {
       "county": "Santa Clara",
-      "case": 2850,
+      "case": 2892,
       "death": 144
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "county": "San Mateo",
-      "case": 2244,
-      "death": 84
+      "case": 2299,
+      "death": 88
     },
     {
       "county": "Kern",
@@ -73,12 +73,12 @@
     },
     {
       "county": "Contra Costa",
-      "case": 1547,
+      "case": 1577,
       "death": 37
     },
     {
       "county": "Imperial",
-      "case": 1145,
+      "case": 2568,
       "death": 18
     },
     {
@@ -98,8 +98,8 @@
     },
     {
       "county": "Solano",
-      "case": 565,
-      "death": 22
+      "case": 566,
+      "death": 23
     },
     {
       "county": "Kings",
@@ -108,17 +108,17 @@
     },
     {
       "county": "Sonoma",
-      "case": 593,
+      "case": 610,
       "death": 4
     },
     {
       "county": "Monterey",
-      "case": 443,
+      "case": 640,
       "death": 8
     },
     {
       "county": "Marin",
-      "case": 530,
+      "case": 551,
       "death": 17
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "county": "Napa",
-      "case": 126,
+      "case": 129,
       "death": 3
     },
     {
@@ -158,7 +158,7 @@
     },
     {
       "county": "Madera",
-      "case": 104,
+      "case": 155,
       "death": 2
     },
     {
@@ -258,7 +258,7 @@
     },
     {
       "county": "Tehama",
-      "case": 2,
+      "case": 8,
       "death": 1
     },
     {
