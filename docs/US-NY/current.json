@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1591542354413,
+  "timeStamp": 1591596390152,
   "data": [
     {
       "county": "Albany",
@@ -13,8 +13,8 @@
     },
     {
       "county": "Bronx",
-      "case": 43603,
-      "death": 3149
+      "case": 45980,
+      "death": 3257
     },
     {
       "county": "Broome",
@@ -73,8 +73,8 @@
     },
     {
       "county": "Erie",
-      "case": 5270,
-      "death": 445
+      "case": 6486,
+      "death": 529
     },
     {
       "county": "Essex",
@@ -118,8 +118,8 @@
     },
     {
       "county": "Kings",
-      "case": 53385,
-      "death": 4780
+      "case": 57131,
+      "death": 4928
     },
     {
       "county": "Lewis",
@@ -138,13 +138,13 @@
     },
     {
       "county": "Manhattan",
-      "case": 25522,
-      "death": 1961
+      "case": 27178,
+      "death": 2037
     },
     {
       "county": "Monroe",
-      "case": 2530,
-      "death": 166
+      "case": 3190,
+      "death": 218
     },
     {
       "county": "Montgomery",
@@ -153,8 +153,8 @@
     },
     {
       "county": "Nassau",
-      "case": 39487,
-      "death": 2073
+      "case": 40904,
+      "death": 2142
     },
     {
       "county": "Niagara",
@@ -178,8 +178,8 @@
     },
     {
       "county": "Orange",
-      "case": 10092,
-      "death": 360
+      "case": 10514,
+      "death": 386
     },
     {
       "county": "Orleans",
@@ -203,8 +203,8 @@
     },
     {
       "county": "Queens",
-      "case": 60025,
-      "death": 4828
+      "case": 62963,
+      "death": 4963
     },
     {
       "county": "Rensselaer",
@@ -213,13 +213,13 @@
     },
     {
       "county": "Richmond",
-      "case": 13140,
-      "death": 705
+      "case": 13717,
+      "death": 735
     },
     {
       "county": "Rockland",
-      "case": 12877,
-      "death": 536
+      "case": 13325,
+      "death": 502
     },
     {
       "county": "Saratoga",
@@ -258,8 +258,8 @@
     },
     {
       "county": "Suffolk",
-      "case": 38553,
-      "death": 1802
+      "case": 40329,
+      "death": 1931
     },
     {
       "county": "Sullivan",
@@ -298,8 +298,8 @@
     },
     {
       "county": "Westchester",
-      "case": 32673,
-      "death": 1313
+      "case": 33954,
+      "death": 1392
     },
     {
       "county": "Wyoming",
