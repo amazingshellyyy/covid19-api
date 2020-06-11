@@ -1,10 +1,10 @@
 {
-  "timeStamp": 1591801571125,
+  "timeStamp": 1591855629688,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 64644,
-      "death": 2655
+      "case": 65822,
+      "death": 2707
     },
     {
       "county": "San Diego",
@@ -28,32 +28,32 @@
     },
     {
       "county": "Alameda",
-      "case": 3945,
-      "death": 101
+      "case": 4033,
+      "death": 105
     },
     {
       "county": "Santa Clara",
-      "case": 2973,
-      "death": 145
+      "case": 3032,
+      "death": 146
     },
     {
       "county": "San Francisco",
-      "case": 2779,
-      "death": 43
+      "case": 2809,
+      "death": 44
     },
     {
       "county": "San Mateo",
-      "case": 2394,
-      "death": 88
+      "case": 2475,
+      "death": 93
     },
     {
       "county": "Kern",
-      "case": 2870,
+      "case": 2942,
       "death": 47
     },
     {
       "county": "Tulare",
-      "case": 2381,
+      "case": 2432,
       "death": 94
     },
     {
@@ -73,8 +73,8 @@
     },
     {
       "county": "Contra Costa",
-      "case": 1706,
-      "death": 40
+      "case": 1798,
+      "death": 43
     },
     {
       "county": "Imperial",
@@ -88,17 +88,17 @@
     },
     {
       "county": "San Joaquin",
-      "case": 1195,
+      "case": 1259,
       "death": 39
     },
     {
       "county": "Stanislaus",
-      "case": 937,
+      "case": 991,
       "death": 33
     },
     {
       "county": "Solano",
-      "case": 590,
+      "case": 617,
       "death": 23
     },
     {
@@ -108,22 +108,22 @@
     },
     {
       "county": "Sonoma",
-      "case": 664,
+      "case": 671,
       "death": 4
     },
     {
       "county": "Monterey",
-      "case": 732,
-      "death": 8
+      "case": 791,
+      "death": 11
     },
     {
       "county": "Marin",
-      "case": 625,
+      "case": 635,
       "death": 17
     },
     {
       "county": "San Luis Obispo",
-      "case": 302,
+      "case": 306,
       "death": 1
     },
     {
@@ -138,17 +138,17 @@
     },
     {
       "county": "Placer",
-      "case": 304,
+      "case": 314,
       "death": 9
     },
     {
       "county": "Santa Cruz",
-      "case": 234,
+      "case": 239,
       "death": 2
     },
     {
       "county": "Napa",
-      "case": 153,
+      "case": 161,
       "death": 3
     },
     {
@@ -158,12 +158,12 @@
     },
     {
       "county": "Madera",
-      "case": 172,
+      "case": 178,
       "death": 3
     },
     {
       "county": "El Dorado",
-      "case": 109,
+      "case": 111,
       "death": 0
     },
     {
@@ -198,8 +198,8 @@
     },
     {
       "county": "Butte",
-      "case": 68,
-      "death": 0
+      "case": 71,
+      "death": 1
     },
     {
       "county": "Inyo",

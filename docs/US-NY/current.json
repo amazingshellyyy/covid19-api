@@ -1,10 +1,10 @@
 {
-  "timeStamp": 1591801569007,
+  "timeStamp": 1591855631697,
   "data": [
     {
       "county": "Albany",
-      "case": 1700,
-      "death": 93
+      "case": 1986,
+      "death": 102
     },
     {
       "county": "Allegany",
@@ -18,8 +18,8 @@
     },
     {
       "county": "Broome",
-      "case": 451,
-      "death": 39
+      "case": 630,
+      "death": 54
     },
     {
       "county": "Cattaraugus",
@@ -68,8 +68,8 @@
     },
     {
       "county": "Dutchess",
-      "case": 3745,
-      "death": 132
+      "case": 3984,
+      "death": 145
     },
     {
       "county": "Erie",
@@ -133,8 +133,8 @@
     },
     {
       "county": "Madison",
-      "case": 294,
-      "death": 7
+      "case": 357,
+      "death": 16
     },
     {
       "county": "Manhattan",
@@ -143,8 +143,8 @@
     },
     {
       "county": "Monroe",
-      "case": 3190,
-      "death": 218
+      "case": 3255,
+      "death": 222
     },
     {
       "county": "Montgomery",
@@ -158,18 +158,18 @@
     },
     {
       "county": "Niagara",
-      "case": 880,
-      "death": 55
+      "case": 1163,
+      "death": 77
     },
     {
       "county": "Oneida",
-      "case": 817,
-      "death": 39
+      "case": 1203,
+      "death": 71
     },
     {
       "county": "Onondaga",
-      "case": 1771,
-      "death": 93
+      "case": 2433,
+      "death": 143
     },
     {
       "county": "Ontario",
@@ -198,8 +198,8 @@
     },
     {
       "county": "Putnam",
-      "case": 1175,
-      "death": 58
+      "case": 1282,
+      "death": 62
     },
     {
       "county": "Queens",
@@ -208,8 +208,8 @@
     },
     {
       "county": "Rensselaer",
-      "case": 456,
-      "death": 25
+      "case": 507,
+      "death": 27
     },
     {
       "county": "Richmond",
@@ -223,13 +223,13 @@
     },
     {
       "county": "Saratoga",
-      "case": 440,
-      "death": 14
+      "case": 511,
+      "death": 17
     },
     {
       "county": "Schenectady",
-      "case": 638,
-      "death": 26
+      "case": 716,
+      "death": 31
     },
     {
       "county": "Schoharie",
@@ -263,8 +263,8 @@
     },
     {
       "county": "Sullivan",
-      "case": 1281,
-      "death": 28
+      "case": 1425,
+      "death": 35
     },
     {
       "county": "Tioga",
@@ -278,8 +278,8 @@
     },
     {
       "county": "Ulster",
-      "case": 1584,
-      "death": 70
+      "case": 1726,
+      "death": 83
     },
     {
       "county": "Warren",
