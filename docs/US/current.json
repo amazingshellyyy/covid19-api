@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1592222516405,
+  "timeStamp": 1592308916435,
   "data": [
     {
       "state": "Alabama",
@@ -28,8 +28,8 @@
     },
     {
       "state": "California",
-      "case": 148855,
-      "death": 5063
+      "case": 151452,
+      "death": 5089
     },
     {
       "state": "Colorado",
@@ -78,8 +78,8 @@
     },
     {
       "state": "Illinois",
-      "case": 132059,
-      "death": 6441
+      "case": 133877,
+      "death": 6507
     },
     {
       "state": "Indiana",
@@ -163,18 +163,18 @@
     },
     {
       "state": "New Jersey",
-      "case": 166164,
-      "death": 12489
+      "case": 167103,
+      "death": 12676
     },
     {
       "state": "New Mexico",
-      "case": 9526,
-      "death": 426
+      "case": 9845,
+      "death": 440
     },
     {
       "state": "New York",
-      "case": 383324,
-      "death": 30825
+      "case": 383944,
+      "death": 24579
     },
     {
       "state": "North Carolina",
@@ -273,8 +273,8 @@
     },
     {
       "state": "Wisconsin",
-      "case": 22246,
-      "death": 689
+      "case": 22932,
+      "death": 694
     },
     {
       "state": "Wyoming",
