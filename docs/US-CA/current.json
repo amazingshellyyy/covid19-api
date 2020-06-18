@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1592460463630,
+  "timeStamp": 1592492755350,
   "data": [
     {
       "county": "Los Angeles",
@@ -28,22 +28,22 @@
     },
     {
       "county": "Alameda",
-      "case": 4373,
+      "case": 4481,
       "death": 112
     },
     {
       "county": "Santa Clara",
-      "case": 3230,
+      "case": 3254,
       "death": 151
     },
     {
       "county": "San Francisco",
-      "case": 2952,
-      "death": 45
+      "case": 2971,
+      "death": 46
     },
     {
       "county": "San Mateo",
-      "case": 2594,
+      "case": 2625,
       "death": 99
     },
     {
@@ -73,8 +73,8 @@
     },
     {
       "county": "Contra Costa",
-      "case": 1983,
-      "death": 44
+      "case": 2026,
+      "death": 49
     },
     {
       "county": "Imperial",
@@ -98,7 +98,7 @@
     },
     {
       "county": "Solano",
-      "case": 685,
+      "case": 687,
       "death": 23
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "county": "Sonoma",
-      "case": 758,
+      "case": 774,
       "death": 4
     },
     {
@@ -118,8 +118,8 @@
     },
     {
       "county": "Marin",
-      "case": 725,
-      "death": 17
+      "case": 772,
+      "death": 18
     },
     {
       "county": "San Luis Obispo",
@@ -148,12 +148,12 @@
     },
     {
       "county": "Napa",
-      "case": 190,
+      "case": 199,
       "death": 3
     },
     {
       "county": "Humboldt",
-      "case": 113,
+      "case": 108,
       "death": 4
     },
     {
@@ -233,7 +233,7 @@
     },
     {
       "county": "Lake",
-      "case": 30,
+      "case": 34,
       "death": 0
     },
     {
