@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1592665545370,
+  "timeStamp": 1592719736909,
   "data": [
     {
       "county": "Los Angeles",
@@ -8,7 +8,7 @@
     },
     {
       "county": "San Diego",
-      "case": 10020,
+      "case": 10350,
       "death": 296
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "county": "Alameda",
-      "case": 4702,
+      "case": 4805,
       "death": 118
     },
     {
       "county": "Santa Clara",
-      "case": 3398,
+      "case": 3458,
       "death": 152
     },
     {
       "county": "San Francisco",
-      "case": 3057,
+      "case": 3058,
       "death": 47
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "county": "Contra Costa",
-      "case": 2148,
+      "case": 2240,
       "death": 56
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "county": "Solano",
-      "case": 811,
+      "case": 860,
       "death": 23
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "county": "Sonoma",
-      "case": 822,
+      "case": 835,
       "death": 4
     },
     {
@@ -118,7 +118,7 @@
     },
     {
       "county": "Marin",
-      "case": 814,
+      "case": 871,
       "death": 18
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "county": "Napa",
-      "case": 216,
+      "case": 224,
       "death": 3
     },
     {
