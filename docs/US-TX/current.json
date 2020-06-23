@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1592838485945,
+  "timeStamp": 1592892494593,
   "data": [
     {
       "county": "Anderson",
@@ -38,12 +38,12 @@
     },
     {
       "county": "Austin",
-      "case": 45,
+      "case": 48,
       "death": 0
     },
     {
       "county": "Bailey",
-      "case": 83,
+      "case": 86,
       "death": 0
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "county": "Bastrop",
-      "case": 340,
+      "case": 363,
       "death": 4
     },
     {
@@ -73,12 +73,12 @@
     },
     {
       "county": "Bexar",
-      "case": 6344,
-      "death": 96
+      "case": 7156,
+      "death": 97
     },
     {
       "county": "Blanco",
-      "case": 14,
+      "case": 22,
       "death": 1
     },
     {
@@ -93,17 +93,17 @@
     },
     {
       "county": "Brazoria",
-      "case": 1728,
+      "case": 1762,
       "death": 19
     },
     {
       "county": "Brazos",
-      "case": 1225,
+      "case": 1244,
       "death": 25
     },
     {
       "county": "Brewster",
-      "case": 24,
+      "case": 39,
       "death": 0
     },
     {
@@ -123,17 +123,17 @@
     },
     {
       "county": "Burleson",
-      "case": 55,
+      "case": 60,
       "death": 0
     },
     {
       "county": "Burnet",
-      "case": 80,
+      "case": 89,
       "death": 3
     },
     {
       "county": "Caldwell",
-      "case": 216,
+      "case": 226,
       "death": 1
     },
     {
@@ -168,7 +168,7 @@
     },
     {
       "county": "Castro",
-      "case": 51,
+      "case": 58,
       "death": 1
     },
     {
@@ -208,7 +208,7 @@
     },
     {
       "county": "Collin",
-      "case": 2189,
+      "case": 2223,
       "death": 38
     },
     {
@@ -243,7 +243,7 @@
     },
     {
       "county": "Coryell",
-      "case": 310,
+      "case": 315,
       "death": 2
     },
     {
@@ -253,7 +253,7 @@
     },
     {
       "county": "Crane",
-      "case": 46,
+      "case": 47,
       "death": 5
     },
     {
@@ -273,13 +273,13 @@
     },
     {
       "county": "Dallam",
-      "case": 49,
+      "case": 58,
       "death": 0
     },
     {
       "county": "Dallas",
-      "case": 16437,
-      "death": 313
+      "case": 16845,
+      "death": 314
     },
     {
       "county": "Dawson",
@@ -293,7 +293,7 @@
     },
     {
       "county": "Deaf Smith",
-      "case": 233,
+      "case": 242,
       "death": 16
     },
     {
@@ -303,7 +303,7 @@
     },
     {
       "county": "Denton",
-      "case": 2113,
+      "case": 2163,
       "death": 36
     },
     {
@@ -338,7 +338,7 @@
     },
     {
       "county": "El Paso",
-      "case": 4488,
+      "case": 4553,
       "death": 120
     },
     {
@@ -353,7 +353,7 @@
     },
     {
       "county": "Falls",
-      "case": 22,
+      "case": 23,
       "death": 0
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "county": "Fayette",
-      "case": 60,
+      "case": 66,
       "death": 2
     },
     {
@@ -373,12 +373,12 @@
     },
     {
       "county": "Floyd",
-      "case": 18,
+      "case": 19,
       "death": 0
     },
     {
       "county": "Fort Bend",
-      "case": 2951,
+      "case": 3069,
       "death": 50
     },
     {
@@ -403,7 +403,7 @@
     },
     {
       "county": "Galveston",
-      "case": 1784,
+      "case": 1867,
       "death": 40
     },
     {
@@ -438,7 +438,7 @@
     },
     {
       "county": "Grayson",
-      "case": 514,
+      "case": 518,
       "death": 5
     },
     {
@@ -448,7 +448,7 @@
     },
     {
       "county": "Grimes",
-      "case": 301,
+      "case": 303,
       "death": 2
     },
     {
@@ -468,7 +468,7 @@
     },
     {
       "county": "Hamilton",
-      "case": 18,
+      "case": 19,
       "death": 1
     },
     {
@@ -488,12 +488,12 @@
     },
     {
       "county": "Harris",
-      "case": 20874,
-      "death": 322
+      "case": 21053,
+      "death": 325
     },
     {
       "county": "Harrison",
-      "case": 272,
+      "case": 274,
       "death": 32
     },
     {
@@ -508,12 +508,12 @@
     },
     {
       "county": "Hays",
-      "case": 1608,
+      "case": 1711,
       "death": 5
     },
     {
       "county": "Hemphill",
-      "case": 2,
+      "case": 3,
       "death": 0
     },
     {
@@ -523,17 +523,17 @@
     },
     {
       "county": "Hidalgo",
-      "case": 1556,
-      "death": 21
+      "case": 1689,
+      "death": 22
     },
     {
       "county": "Hill",
-      "case": 48,
+      "case": 49,
       "death": 1
     },
     {
       "county": "Hockley",
-      "case": 29,
+      "case": 30,
       "death": 1
     },
     {
@@ -553,7 +553,7 @@
     },
     {
       "county": "Howard",
-      "case": 26,
+      "case": 27,
       "death": 1
     },
     {
@@ -568,7 +568,7 @@
     },
     {
       "county": "Hutchinson",
-      "case": 49,
+      "case": 51,
       "death": 0
     },
     {
@@ -603,7 +603,7 @@
     },
     {
       "county": "Jim Wells",
-      "case": 27,
+      "case": 34,
       "death": 0
     },
     {
@@ -648,7 +648,7 @@
     },
     {
       "county": "Kleberg",
-      "case": 27,
+      "case": 29,
       "death": 1
     },
     {
@@ -668,12 +668,12 @@
     },
     {
       "county": "Lamb",
-      "case": 29,
+      "case": 31,
       "death": 0
     },
     {
       "county": "Lampasas",
-      "case": 17,
+      "case": 18,
       "death": 0
     },
     {
@@ -683,22 +683,22 @@
     },
     {
       "county": "Lee",
-      "case": 49,
+      "case": 53,
       "death": 3
     },
     {
       "county": "Leon",
-      "case": 15,
+      "case": 16,
       "death": 0
     },
     {
       "county": "Liberty",
-      "case": 182,
+      "case": 186,
       "death": 3
     },
     {
       "county": "Limestone",
-      "case": 41,
+      "case": 42,
       "death": 1
     },
     {
@@ -708,17 +708,17 @@
     },
     {
       "county": "Live Oak",
-      "case": 9,
+      "case": 15,
       "death": 0
     },
     {
       "county": "Llano",
-      "case": 5,
+      "case": 8,
       "death": 0
     },
     {
       "county": "Lubbock",
-      "case": 1288,
+      "case": 1320,
       "death": 51
     },
     {
@@ -728,7 +728,7 @@
     },
     {
       "county": "Madison",
-      "case": 28,
+      "case": 29,
       "death": 0
     },
     {
@@ -738,7 +738,7 @@
     },
     {
       "county": "Martin",
-      "case": 6,
+      "case": 7,
       "death": 1
     },
     {
@@ -748,7 +748,7 @@
     },
     {
       "county": "Matagorda",
-      "case": 109,
+      "case": 110,
       "death": 5
     },
     {
@@ -763,13 +763,18 @@
     },
     {
       "county": "McLennan",
-      "case": 303,
+      "case": 354,
       "death": 5
     },
     {
       "county": "Medina",
       "case": 250,
       "death": 2
+    },
+    {
+      "county": "Menard",
+      "case": 1,
+      "death": 0
     },
     {
       "county": "Midland",
@@ -803,7 +808,7 @@
     },
     {
       "county": "Moore",
-      "case": 877,
+      "case": 879,
       "death": 14
     },
     {
@@ -818,7 +823,7 @@
     },
     {
       "county": "Nacogdoches",
-      "case": 345,
+      "case": 346,
       "death": 25
     },
     {
@@ -828,17 +833,17 @@
     },
     {
       "county": "Newton",
-      "case": 8,
+      "case": 11,
       "death": 0
     },
     {
       "county": "Nolan",
-      "case": 10,
+      "case": 13,
       "death": 0
     },
     {
       "county": "Nueces",
-      "case": 597,
+      "case": 633,
       "death": 6
     },
     {
@@ -863,7 +868,7 @@
     },
     {
       "county": "Panola",
-      "case": 193,
+      "case": 194,
       "death": 23
     },
     {
@@ -873,8 +878,8 @@
     },
     {
       "county": "Parmer",
-      "case": 155,
-      "death": 0
+      "case": 158,
+      "death": 2
     },
     {
       "county": "Pecos",
@@ -893,7 +898,7 @@
     },
     {
       "county": "Presidio",
-      "case": 11,
+      "case": 13,
       "death": 0
     },
     {
@@ -933,12 +938,12 @@
     },
     {
       "county": "Roberts",
-      "case": 2,
+      "case": 3,
       "death": 0
     },
     {
       "county": "Robertson",
-      "case": 27,
+      "case": 30,
       "death": 0
     },
     {
@@ -968,7 +973,7 @@
     },
     {
       "county": "San Jacinto",
-      "case": 23,
+      "case": 24,
       "death": 0
     },
     {
@@ -978,7 +983,7 @@
     },
     {
       "county": "San Saba",
-      "case": 2,
+      "case": 3,
       "death": 0
     },
     {
@@ -1018,7 +1023,7 @@
     },
     {
       "county": "Starr",
-      "case": 244,
+      "case": 319,
       "death": 0
     },
     {
@@ -1038,12 +1043,12 @@
     },
     {
       "county": "Tarrant",
-      "case": 8511,
+      "case": 8955,
       "death": 208
     },
     {
       "county": "Taylor",
-      "case": 282,
+      "case": 289,
       "death": 5
     },
     {
@@ -1053,18 +1058,18 @@
     },
     {
       "county": "Titus",
-      "case": 656,
+      "case": 657,
       "death": 4
     },
     {
       "county": "Tom Green",
-      "case": 186,
+      "case": 192,
       "death": 1
     },
     {
       "county": "Travis",
-      "case": 5704,
-      "death": 109
+      "case": 6210,
+      "death": 110
     },
     {
       "county": "Trinity",
@@ -1088,7 +1093,7 @@
     },
     {
       "county": "Uvalde",
-      "case": 37,
+      "case": 38,
       "death": 0
     },
     {
@@ -1113,7 +1118,7 @@
     },
     {
       "county": "Waller",
-      "case": 110,
+      "case": 114,
       "death": 0
     },
     {
@@ -1123,12 +1128,12 @@
     },
     {
       "county": "Washington",
-      "case": 229,
-      "death": 26
+      "case": 235,
+      "death": 27
     },
     {
       "county": "Webb",
-      "case": 874,
+      "case": 929,
       "death": 22
     },
     {
@@ -1153,12 +1158,12 @@
     },
     {
       "county": "Willacy",
-      "case": 87,
+      "case": 93,
       "death": 3
     },
     {
       "county": "Williamson",
-      "case": 1237,
+      "case": 1337,
       "death": 32
     },
     {
