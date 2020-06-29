@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1593345715449,
+  "timeStamp": 1593432103793,
   "data": [
     {
       "state": "Alabama",
@@ -18,8 +18,8 @@
     },
     {
       "state": "Arizona",
-      "case": 70051,
-      "death": 1579
+      "case": 73908,
+      "death": 1588
     },
     {
       "state": "Arkansas",
@@ -28,8 +28,8 @@
     },
     {
       "state": "California",
-      "case": 206433,
-      "death": 5872
+      "case": 211243,
+      "death": 5905
     },
     {
       "state": "Colorado",
@@ -53,13 +53,13 @@
     },
     {
       "state": "Florida",
-      "case": 132545,
-      "death": 3390
+      "case": 141075,
+      "death": 3419
     },
     {
       "state": "Georgia",
-      "case": 65928,
-      "death": 2770
+      "case": 77210,
+      "death": 2778
     },
     {
       "state": "Guam",
@@ -78,8 +78,8 @@
     },
     {
       "state": "Illinois",
-      "case": 141077,
-      "death": 6873
+      "case": 141723,
+      "death": 6888
     },
     {
       "state": "Indiana",
@@ -118,8 +118,8 @@
     },
     {
       "state": "Massachusetts",
-      "case": 108443,
-      "death": 8041
+      "case": 108667,
+      "death": 8060
     },
     {
       "state": "Michigan",
@@ -163,8 +163,8 @@
     },
     {
       "state": "New Jersey",
-      "case": 170873,
-      "death": 13094
+      "case": 171182,
+      "death": 13121
     },
     {
       "state": "New Mexico",
@@ -173,13 +173,13 @@
     },
     {
       "state": "New York",
-      "case": 391923,
-      "death": 24830
+      "case": 392539,
+      "death": 24835
     },
     {
       "state": "North Carolina",
-      "case": 58818,
-      "death": 1303
+      "case": 62142,
+      "death": 1322
     },
     {
       "state": "North Dakota",
@@ -208,7 +208,7 @@
     },
     {
       "state": "Pennsylvania",
-      "case": 84991,
+      "case": 85496,
       "death": 6579
     },
     {
@@ -238,8 +238,8 @@
     },
     {
       "state": "Texas",
-      "case": 143371,
-      "death": 2366
+      "case": 148728,
+      "death": 2393
     },
     {
       "state": "Virgin Islands",
