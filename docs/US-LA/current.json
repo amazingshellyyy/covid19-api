@@ -1,329 +1,329 @@
 {
-  "timeStamp": 1593443181016,
+  "timeStamp": 1593497305933,
   "data": [
     {
       "county": "Acadia",
-      "case": 422,
-      "death": 23
+      "case": 850,
+      "death": 37
     },
     {
       "county": "Allen",
-      "case": 184,
+      "case": 287,
       "death": 10
     },
     {
       "county": "Ascension",
-      "case": 827,
-      "death": 56
+      "case": 1157,
+      "death": 58
     },
     {
       "county": "Assumption",
-      "case": 252,
+      "case": 351,
       "death": 14
     },
     {
       "county": "Avoyelles",
-      "case": 130,
-      "death": 9
+      "case": 309,
+      "death": 11
     },
     {
       "county": "Beauregard",
-      "case": 69,
-      "death": 4
+      "case": 193,
+      "death": 8
     },
     {
       "county": "Bienville",
-      "case": 147,
-      "death": 23
-    },
-    {
-      "county": "Bossier",
-      "case": 416,
+      "case": 220,
       "death": 26
     },
     {
+      "county": "Bossier",
+      "case": 836,
+      "death": 29
+    },
+    {
       "county": "Caddo",
-      "case": 2578,
-      "death": 189
+      "case": 3260,
+      "death": 232
     },
     {
       "county": "Calcasieu",
-      "case": 608,
-      "death": 49
+      "case": 1257,
+      "death": 54
     },
     {
       "county": "Caldwell",
-      "case": 58,
-      "death": 0
+      "case": 104,
+      "death": 1
     },
     {
       "county": "Cameron",
-      "case": 6,
+      "case": 40,
       "death": 0
     },
     {
       "county": "Catahoula",
-      "case": 115,
+      "case": 190,
       "death": 3
     },
     {
       "county": "Claiborne",
-      "case": 66,
-      "death": 10
+      "case": 116,
+      "death": 11
     },
     {
       "county": "Concordia",
-      "case": 88,
-      "death": 5
+      "case": 110,
+      "death": 6
     },
     {
       "county": "DeSoto",
-      "case": 247,
-      "death": 17
+      "case": 341,
+      "death": 18
     },
     {
       "county": "East Baton Rouge",
-      "case": 3666,
-      "death": 239
+      "case": 5034,
+      "death": 270
     },
     {
       "county": "East Carroll",
-      "case": 159,
-      "death": 0
+      "case": 432,
+      "death": 1
     },
     {
       "county": "East Feliciana",
-      "case": 197,
-      "death": 30
+      "case": 299,
+      "death": 33
     },
     {
       "county": "Evangeline",
-      "case": 78,
+      "case": 177,
       "death": 1
     },
     {
       "county": "Franklin",
-      "case": 376,
-      "death": 10
+      "case": 468,
+      "death": 14
     },
     {
       "county": "Grant",
-      "case": 29,
+      "case": 83,
       "death": 1
     },
     {
       "county": "Iberia",
-      "case": 410,
-      "death": 38
+      "case": 673,
+      "death": 44
     },
     {
       "county": "Iberville",
-      "case": 577,
-      "death": 41
+      "case": 702,
+      "death": 43
     },
     {
       "county": "Jackson",
-      "case": 106,
-      "death": 13
+      "case": 212,
+      "death": 16
     },
     {
       "county": "Jefferson Davis",
-      "case": 78,
-      "death": 7
+      "case": 339,
+      "death": 8
     },
     {
       "county": "Jefferson",
-      "case": 7652,
-      "death": 451
+      "case": 9403,
+      "death": 483
     },
     {
       "county": "Lafayette",
-      "case": 793,
-      "death": 26
+      "case": 2058,
+      "death": 41
     },
     {
       "county": "Lafourche",
-      "case": 827,
-      "death": 72
+      "case": 1119,
+      "death": 86
     },
     {
       "county": "LaSalle",
-      "case": 52,
+      "case": 96,
       "death": 0
     },
     {
       "county": "Lincoln",
-      "case": 160,
-      "death": 14
+      "case": 314,
+      "death": 18
     },
     {
       "county": "Livingston",
-      "case": 428,
-      "death": 29
+      "case": 860,
+      "death": 37
     },
     {
       "county": "Madison",
-      "case": 101,
-      "death": 0
+      "case": 352,
+      "death": 2
     },
     {
       "county": "Morehouse",
-      "case": 122,
-      "death": 5
+      "case": 237,
+      "death": 8
     },
     {
       "county": "Natchitoches",
-      "case": 171,
-      "death": 13
+      "case": 280,
+      "death": 14
     },
     {
       "county": "Orleans",
-      "case": 7141,
-      "death": 507
+      "case": 7796,
+      "death": 532
     },
     {
       "county": "Ouachita",
-      "case": 1264,
-      "death": 41
+      "case": 2331,
+      "death": 73
     },
     {
       "county": "Plaquemines",
-      "case": 213,
+      "case": 260,
       "death": 17
     },
     {
       "county": "Pointe Coupee",
-      "case": 199,
-      "death": 24
+      "case": 237,
+      "death": 27
     },
     {
       "county": "Rapides",
-      "case": 800,
-      "death": 28
+      "case": 1499,
+      "death": 57
     },
     {
       "county": "Red River",
-      "case": 50,
-      "death": 7
+      "case": 60,
+      "death": 8
     },
     {
       "county": "Richland",
-      "case": 138,
-      "death": 3
+      "case": 183,
+      "death": 4
     },
     {
       "county": "Sabine",
-      "case": 47,
-      "death": 0
+      "case": 77,
+      "death": 1
     },
     {
       "county": "St. Bernard",
-      "case": 539,
-      "death": 22
+      "case": 611,
+      "death": 23
     },
     {
       "county": "St. Charles",
-      "case": 642,
-      "death": 44
+      "case": 741,
+      "death": 49
     },
     {
       "county": "St. Helena",
-      "case": 51,
+      "case": 90,
       "death": 1
     },
     {
       "county": "St. James",
-      "case": 294,
-      "death": 25
+      "case": 351,
+      "death": 28
     },
     {
       "county": "St. John the Baptist",
-      "case": 862,
-      "death": 79
+      "case": 960,
+      "death": 86
     },
     {
       "county": "St. Landry",
-      "case": 263,
-      "death": 54
+      "case": 619,
+      "death": 57
     },
     {
       "county": "St. Martin",
-      "case": 300,
-      "death": 23
+      "case": 685,
+      "death": 26
     },
     {
       "county": "St. Mary",
-      "case": 321,
-      "death": 30
+      "case": 457,
+      "death": 38
     },
     {
       "county": "St. Tammany",
-      "case": 1764,
-      "death": 158
+      "case": 2327,
+      "death": 175
     },
     {
       "county": "Tangipahoa",
-      "case": 868,
-      "death": 35
+      "case": 1295,
+      "death": 43
     },
     {
       "county": "Tensas",
-      "case": 12,
+      "case": 24,
       "death": 0
     },
     {
       "county": "Terrebonne",
-      "case": 686,
-      "death": 51
+      "case": 1011,
+      "death": 61
     },
     {
       "county": "Union",
-      "case": 324,
-      "death": 17
+      "case": 417,
+      "death": 24
     },
     {
       "county": "Vermilion",
-      "case": 55,
-      "death": 3
+      "case": 238,
+      "death": 6
     },
     {
       "county": "Vernon",
-      "case": 26,
-      "death": 3
-    },
-    {
-      "county": "Washington",
-      "case": 433,
-      "death": 38
-    },
-    {
-      "county": "Webster",
-      "case": 147,
+      "case": 116,
       "death": 7
     },
     {
+      "county": "Washington",
+      "case": 663,
+      "death": 46
+    },
+    {
+      "county": "Webster",
+      "case": 409,
+      "death": 10
+    },
+    {
       "county": "West Baton Rouge",
-      "case": 175,
+      "case": 252,
       "death": 30
     },
     {
       "county": "West Carroll",
-      "case": 64,
-      "death": 0
+      "case": 118,
+      "death": 5
     },
     {
       "county": "West Feliciana",
-      "case": 211,
-      "death": 13
+      "case": 242,
+      "death": 14
     },
     {
       "county": "Winn",
-      "case": 173,
-      "death": 2
+      "case": 242,
+      "death": 5
     },
     {
       "county": "Under Investigation",
-      "case": 84,
+      "case": 11,
       "death": 0
     }
   ]
