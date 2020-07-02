@@ -1,35 +1,35 @@
 {
-  "timeStamp": 1593616043604,
+  "timeStamp": 1593670147524,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 89490,
-      "death": 3205
+      "case": 103529,
+      "death": 3369
     },
     {
       "county": "San Diego",
-      "case": 11626,
-      "death": 347
+      "case": 14149,
+      "death": 365
     },
     {
       "county": "Riverside",
-      "case": 14905,
-      "death": 432
+      "case": 17296,
+      "death": 457
     },
     {
       "county": "Orange",
-      "case": 11016,
-      "death": 299
+      "case": 13843,
+      "death": 340
     },
     {
       "county": "San Bernardino",
-      "case": 10407,
-      "death": 245
+      "case": 12550,
+      "death": 253
     },
     {
       "county": "Alameda",
-      "case": 5762,
-      "death": 133
+      "case": 5964,
+      "death": 135
     },
     {
       "county": "Santa Clara",
@@ -38,13 +38,13 @@
     },
     {
       "county": "San Francisco",
-      "case": 3561,
+      "case": 3603,
       "death": 50
     },
     {
       "county": "San Mateo",
-      "case": 3141,
-      "death": 106
+      "case": 3232,
+      "death": 108
     },
     {
       "county": "Kern",
@@ -73,7 +73,7 @@
     },
     {
       "county": "Contra Costa",
-      "case": 2971,
+      "case": 3132,
       "death": 76
     },
     {
@@ -108,8 +108,8 @@
     },
     {
       "county": "Sonoma",
-      "case": 1118,
-      "death": 5
+      "case": 1185,
+      "death": 7
     },
     {
       "county": "Monterey",
@@ -118,7 +118,7 @@
     },
     {
       "county": "Marin",
-      "case": 1166,
+      "case": 1207,
       "death": 18
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "county": "Napa",
-      "case": 309,
+      "case": 316,
       "death": 4
     },
     {
