@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1594048040245,
+  "timeStamp": 1594102085602,
   "data": [
     {
       "county": "Los Angeles",
@@ -8,7 +8,7 @@
     },
     {
       "county": "San Diego",
-      "case": 14149,
+      "case": 16726,
       "death": 365
     },
     {
@@ -33,17 +33,17 @@
     },
     {
       "county": "Santa Clara",
-      "case": 5077,
-      "death": 160
+      "case": 5273,
+      "death": 161
     },
     {
       "county": "San Francisco",
-      "case": 3776,
+      "case": 3992,
       "death": 50
     },
     {
       "county": "San Mateo",
-      "case": 3536,
+      "case": 3599,
       "death": 108
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "county": "Contra Costa",
-      "case": 3564,
+      "case": 3662,
       "death": 81
     },
     {
