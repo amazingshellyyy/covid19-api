@@ -1,6 +1,46 @@
 {
-  "timeStamp": 1594966114213,
+  "timeStamp": 1594998457770,
   "data": [
+    {
+      "county": "70–79",
+      "case": 5080,
+      "death": 1795
+    },
+    {
+      "county": "60–69",
+      "case": 7934,
+      "death": 1992
+    },
+    {
+      "county": "50–59",
+      "case": 10831,
+      "death": 1663
+    },
+    {
+      "county": "40–49",
+      "case": 10322,
+      "death": 916
+    },
+    {
+      "county": "30–39",
+      "case": 11899,
+      "death": 649
+    },
+    {
+      "county": "20–29",
+      "case": 13905,
+      "death": 458
+    },
+    {
+      "county": "0–19",
+      "case": 5631,
+      "death": 165
+    },
+    {
+      "county": "88 / 88",
+      "case": 70601,
+      "death": 3103
+    },
     {
       "county": "Adams",
       "case": 30,
@@ -395,51 +435,6 @@
       "county": "Tuscarawas",
       "case": 655,
       "death": 11
-    },
-    {
-      "county": "Union",
-      "case": 130,
-      "death": 1
-    },
-    {
-      "county": "Van Wert",
-      "case": 52,
-      "death": 1
-    },
-    {
-      "county": "Vinton",
-      "case": 24,
-      "death": 2
-    },
-    {
-      "county": "Warren",
-      "case": 1124,
-      "death": 27
-    },
-    {
-      "county": "Washington",
-      "case": 158,
-      "death": 20
-    },
-    {
-      "county": "Wayne",
-      "case": 387,
-      "death": 56
-    },
-    {
-      "county": "Williams",
-      "case": 86,
-      "death": 2
-    },
-    {
-      "county": "Wood",
-      "case": 529,
-      "death": 52
-    },
-    {
-      "county": "Wyandot",
-      "case": 70,
-      "death": 5
     }
   ]
 }
