@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1594912047267,
+  "timeStamp": 1594966116820,
   "data": [
     {
       "county": "Anderson",
@@ -74,7 +74,7 @@
     {
       "county": "Bexar",
       "case": 19648,
-      "death": 184
+      "death": 208
     },
     {
       "county": "Blanco",
@@ -148,7 +148,7 @@
     },
     {
       "county": "Cameron",
-      "case": 3854,
+      "case": 4905,
       "death": 79
     },
     {
@@ -278,8 +278,8 @@
     },
     {
       "county": "Dallas",
-      "case": 33800,
-      "death": 451
+      "case": 36989,
+      "death": 485
     },
     {
       "county": "Dawson",
@@ -343,8 +343,8 @@
     },
     {
       "county": "El Paso",
-      "case": 9716,
-      "death": 152
+      "case": 10638,
+      "death": 173
     },
     {
       "county": "Ellis",
@@ -498,8 +498,8 @@
     },
     {
       "county": "Harris",
-      "case": 45368,
-      "death": 458
+      "case": 50370,
+      "death": 491
     },
     {
       "county": "Harrison",
@@ -533,8 +533,8 @@
     },
     {
       "county": "Hidalgo",
-      "case": 8040,
-      "death": 150
+      "case": 8593,
+      "death": 183
     },
     {
       "county": "Hill",
@@ -649,6 +649,11 @@
     {
       "county": "Kenedy",
       "case": 3,
+      "death": 0
+    },
+    {
+      "county": "Kent",
+      "case": 1,
       "death": 0
     },
     {
@@ -785,6 +790,11 @@
       "county": "McLennan",
       "case": 2557,
       "death": 17
+    },
+    {
+      "county": "McMullen",
+      "case": 1,
+      "death": 0
     },
     {
       "county": "Medina",
@@ -1063,8 +1073,8 @@
     },
     {
       "county": "Tarrant",
-      "case": 18161,
-      "death": 272
+      "case": 19871,
+      "death": 277
     },
     {
       "county": "Taylor",
@@ -1083,7 +1093,7 @@
     },
     {
       "county": "Throckmorton",
-      "case": 1,
+      "case": 2,
       "death": 0
     },
     {
@@ -1098,8 +1108,8 @@
     },
     {
       "county": "Travis",
-      "case": 14788,
-      "death": 169
+      "case": 16570,
+      "death": 183
     },
     {
       "county": "Trinity",
