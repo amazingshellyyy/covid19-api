@@ -1,25 +1,25 @@
 {
-  "timeStamp": 1595052505877,
+  "timeStamp": 1595084836490,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 150319,
-      "death": 4047
+      "case": 147713,
+      "death": 3989
     },
     {
       "county": "San Diego",
-      "case": 22489,
-      "death": 472
+      "case": 21855,
+      "death": 465
     },
     {
       "county": "Riverside",
-      "case": 28695,
-      "death": 587
+      "case": 28177,
+      "death": 585
     },
     {
       "county": "Orange",
-      "case": 28309,
-      "death": 469
+      "case": 27904,
+      "death": 466
     },
     {
       "county": "San Bernardino",
@@ -28,22 +28,22 @@
     },
     {
       "county": "Alameda",
-      "case": 8627,
+      "case": 8478,
       "death": 154
     },
     {
       "county": "Santa Clara",
-      "case": 7046,
-      "death": 176
+      "case": 6951,
+      "death": 173
     },
     {
       "county": "San Francisco",
-      "case": 4975,
-      "death": 52
+      "case": 4860,
+      "death": 51
     },
     {
       "county": "San Mateo",
-      "case": 4403,
+      "case": 4254,
       "death": 114
     },
     {
@@ -73,8 +73,8 @@
     },
     {
       "county": "Contra Costa",
-      "case": 5233,
-      "death": 93
+      "case": 5140,
+      "death": 92
     },
     {
       "county": "Imperial",
@@ -88,17 +88,17 @@
     },
     {
       "county": "San Joaquin",
-      "case": 7819,
-      "death": 73
+      "case": 6279,
+      "death": 68
     },
     {
       "county": "Stanislaus",
-      "case": 5777,
-      "death": 61
+      "case": 4732,
+      "death": 51
     },
     {
       "county": "Solano",
-      "case": 2483,
+      "case": 2313,
       "death": 31
     },
     {
@@ -108,8 +108,8 @@
     },
     {
       "county": "Sonoma",
-      "case": 2027,
-      "death": 19
+      "case": 1941,
+      "death": 16
     },
     {
       "county": "Monterey",
@@ -118,13 +118,13 @@
     },
     {
       "county": "Marin",
-      "case": 2015,
-      "death": 29
+      "case": 1856,
+      "death": 28
     },
     {
       "county": "San Luis Obispo",
-      "case": 1213,
-      "death": 6
+      "case": 905,
+      "death": 4
     },
     {
       "county": "Merced",
@@ -148,7 +148,7 @@
     },
     {
       "county": "Napa",
-      "case": 574,
+      "case": 557,
       "death": 5
     },
     {
