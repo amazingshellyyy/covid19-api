@@ -1,15 +1,15 @@
 {
-  "timeStamp": 1595171240511,
+  "timeStamp": 1595225343653,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 150319,
-      "death": 4047
+      "case": 155887,
+      "death": 4095
     },
     {
       "county": "San Diego",
-      "case": 22489,
-      "death": 472
+      "case": 23682,
+      "death": 478
     },
     {
       "county": "Riverside",
@@ -18,13 +18,13 @@
     },
     {
       "county": "Orange",
-      "case": 28309,
-      "death": 469
+      "case": 29426,
+      "death": 492
     },
     {
       "county": "San Bernardino",
-      "case": 23238,
-      "death": 315
+      "case": 23772,
+      "death": 328
     },
     {
       "county": "Alameda",
@@ -63,8 +63,8 @@
     },
     {
       "county": "Fresno",
-      "case": 9124,
-      "death": 91
+      "case": 9956,
+      "death": 100
     },
     {
       "county": "Sacramento",
@@ -78,13 +78,13 @@
     },
     {
       "county": "Imperial",
-      "case": 8310,
-      "death": 148
+      "case": 8531,
+      "death": 161
     },
     {
       "county": "Ventura",
-      "case": 4968,
-      "death": 56
+      "case": 5192,
+      "death": 57
     },
     {
       "county": "San Joaquin",

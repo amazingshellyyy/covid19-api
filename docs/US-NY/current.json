@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1595171241072,
+  "timeStamp": 1595225343993,
   "data": [
     {
       "county": "Albany",
@@ -58,7 +58,7 @@
     },
     {
       "county": "Cortland",
-      "case": 69,
+      "case": 70,
       "death": 0
     },
     {
@@ -133,7 +133,7 @@
     },
     {
       "county": "Madison",
-      "case": 338,
+      "case": 407,
       "death": 9
     },
     {
@@ -158,7 +158,7 @@
     },
     {
       "county": "Niagara",
-      "case": 1232,
+      "case": 1373,
       "death": 85
     },
     {
@@ -288,7 +288,7 @@
     },
     {
       "county": "Washington",
-      "case": 243,
+      "case": 250,
       "death": 14
     },
     {
@@ -308,7 +308,7 @@
     },
     {
       "county": "Yates",
-      "case": 47,
+      "case": 52,
       "death": 7
     }
   ]

@@ -1,39 +1,39 @@
 {
-  "timeStamp": 1595171239372,
+  "timeStamp": 1595225346296,
   "data": [
     {
       "county": "Adams",
-      "case": 309,
-      "death": 11
+      "case": 413,
+      "death": 15
     },
     {
       "county": "Allegheny",
-      "case": 6125,
-      "death": 203
+      "case": 6263,
+      "death": 205
     },
     {
       "county": "Armstrong",
-      "case": 69,
+      "case": 114,
       "death": 6
     },
     {
       "county": "Beaver",
-      "case": 619,
-      "death": 77
+      "case": 958,
+      "death": 81
     },
     {
       "county": "Bedford",
-      "case": 89,
+      "case": 105,
       "death": 4
     },
     {
       "county": "Berks",
-      "case": 4374,
-      "death": 343
+      "case": 4821,
+      "death": 360
     },
     {
       "county": "Blair",
-      "case": 56,
+      "case": 135,
       "death": 1
     },
     {
@@ -43,103 +43,103 @@
     },
     {
       "county": "Bucks",
-      "case": 5510,
-      "death": 551
+      "case": 6353,
+      "death": 573
     },
     {
       "county": "Butler",
-      "case": 263,
+      "case": 479,
       "death": 13
     },
     {
       "county": "Cambria",
-      "case": 62,
+      "case": 167,
       "death": 3
     },
     {
       "county": "Cameron",
-      "case": 2,
-      "death": 0
+      "case": 5,
+      "death": null
     },
     {
       "county": "Carbon",
-      "case": 264,
-      "death": 24
+      "case": 321,
+      "death": 28
     },
     {
       "county": "Centre",
-      "case": 176,
-      "death": 6
+      "case": 279,
+      "death": 9
     },
     {
       "county": "Chester",
-      "case": 3437,
-      "death": 313
+      "case": 4295,
+      "death": 334
     },
     {
       "county": "Clarion",
-      "case": 31,
+      "case": 67,
       "death": 2
     },
     {
       "county": "Clearfield",
-      "case": 63,
-      "death": 0
+      "case": 99,
+      "death": null
     },
     {
       "county": "Clinton",
-      "case": 67,
-      "death": 3
+      "case": 103,
+      "death": 5
     },
     {
       "county": "Columbia",
-      "case": 390,
-      "death": 33
+      "case": 430,
+      "death": 35
     },
     {
       "county": "Crawford",
-      "case": 38,
-      "death": 0
+      "case": 107,
+      "death": 1
     },
     {
       "county": "Cumberland",
-      "case": 768,
-      "death": 61
+      "case": 1016,
+      "death": 68
     },
     {
       "county": "Dauphin",
-      "case": 1725,
-      "death": 118
+      "case": 2404,
+      "death": 150
     },
     {
       "county": "Delaware",
-      "case": 7003,
-      "death": 634
+      "case": 7863,
+      "death": 674
     },
     {
       "county": "Elk",
-      "case": 8,
-      "death": 0
+      "case": 37,
+      "death": 2
     },
     {
       "county": "Erie",
-      "case": 515,
-      "death": 9
+      "case": 781,
+      "death": 13
     },
     {
       "county": "Fayette",
-      "case": 103,
+      "case": 262,
       "death": 4
     },
     {
       "county": "Forest",
       "case": 7,
-      "death": 0
+      "death": null
     },
     {
       "county": "Franklin",
-      "case": 872,
-      "death": 42
+      "case": 1061,
+      "death": 46
     },
     {
       "county": "Fulton",
