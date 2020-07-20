@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1595225343653,
+  "timeStamp": 1595257785226,
   "data": [
     {
       "county": "Los Angeles",
@@ -47,6 +47,11 @@
       "death": 114
     },
     {
+      "county": "Marin",
+      "case": 4168,
+      "death": 42
+    },
+    {
       "county": "Kern",
       "case": 6502,
       "death": 97
@@ -58,7 +63,7 @@
     },
     {
       "county": "Santa Barbara",
-      "case": 4635,
+      "case": 4759,
       "death": 32
     },
     {
@@ -115,11 +120,6 @@
       "county": "Monterey",
       "case": 2270,
       "death": 18
-    },
-    {
-      "county": "Marin",
-      "case": 2088,
-      "death": 30
     },
     {
       "county": "San Luis Obispo",
