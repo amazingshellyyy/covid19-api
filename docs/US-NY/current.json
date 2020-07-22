@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1595344076683,
+  "timeStamp": 1595398123201,
   "data": [
     {
       "county": "Albany",
@@ -58,7 +58,7 @@
     },
     {
       "county": "Cortland",
-      "case": 70,
+      "case": 77,
       "death": 0
     },
     {
@@ -243,8 +243,8 @@
     },
     {
       "county": "Seneca",
-      "case": 52,
-      "death": 1
+      "case": 58,
+      "death": 3
     },
     {
       "county": "St. Lawrence",
@@ -283,7 +283,7 @@
     },
     {
       "county": "Warren",
-      "case": 257,
+      "case": 268,
       "death": 30
     },
     {
