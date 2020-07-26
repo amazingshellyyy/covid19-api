@@ -1,10 +1,10 @@
 {
-  "timeStamp": 1595689665731,
+  "timeStamp": 1595743742450,
   "data": [
     {
       "county": "Adams",
-      "case": 328,
-      "death": 0
+      "case": 342,
+      "death": 1
     },
     {
       "county": "Asotin",
@@ -13,38 +13,38 @@
     },
     {
       "county": "Benton",
-      "case": 3077,
-      "death": 105
+      "case": 3134,
+      "death": 104
     },
     {
       "county": "Chelan",
-      "case": 857,
+      "case": 892,
       "death": 8
     },
     {
       "county": "Clallam",
-      "case": 73,
+      "case": 75,
       "death": 0
     },
     {
       "county": "Clark",
-      "case": 1308,
+      "case": 1318,
       "death": 33
     },
     {
       "county": "Columbia",
-      "case": 10,
+      "case": 12,
       "death": 0
     },
     {
       "county": "Cowlitz",
-      "case": 389,
+      "case": 390,
       "death": 3
     },
     {
       "county": "Douglas",
-      "case": 597,
-      "death": 5
+      "case": 618,
+      "death": 6
     },
     {
       "county": "Ferry",
@@ -53,7 +53,7 @@
     },
     {
       "county": "Franklin",
-      "case": 2949,
+      "case": 2992,
       "death": 44
     },
     {
@@ -63,17 +63,17 @@
     },
     {
       "county": "Grant",
-      "case": 1040,
-      "death": 9
+      "case": 1064,
+      "death": 10
     },
     {
       "county": "Grays Harbor",
-      "case": 75,
+      "case": 79,
       "death": 2
     },
     {
       "county": "Island",
-      "case": 222,
+      "case": 223,
       "death": 11
     },
     {
@@ -83,122 +83,122 @@
     },
     {
       "county": "King",
-      "case": 14026,
-      "death": 643
+      "case": 14249,
+      "death": 644
     },
     {
       "county": "Kitsap",
-      "case": 473,
-      "death": 3
+      "case": 494,
+      "death": 2
     },
     {
       "county": "Kittitas",
-      "case": 309,
-      "death": 6
+      "case": 314,
+      "death": 8
     },
     {
       "county": "Klickitat",
-      "case": 86,
+      "case": 88,
       "death": 3
     },
     {
       "county": "Lewis",
-      "case": 140,
+      "case": 145,
       "death": 3
     },
     {
       "county": "Lincoln",
-      "case": 8,
+      "case": 10,
       "death": 0
     },
     {
       "county": "Mason",
-      "case": 94,
+      "case": 102,
       "death": 1
     },
     {
       "county": "Okanogan",
-      "case": 551,
+      "case": 575,
       "death": 2
     },
     {
       "county": "Pacific",
-      "case": 26,
+      "case": 27,
       "death": 1
     },
     {
       "county": "Pend Oreille",
-      "case": 28,
+      "case": 32,
       "death": 0
     },
     {
       "county": "Pierce",
-      "case": 4239,
-      "death": 118
+      "case": 4355,
+      "death": 117
     },
     {
       "county": "San Juan",
-      "case": 26,
+      "case": 28,
       "death": 0
     },
     {
       "county": "Skagit",
-      "case": 725,
-      "death": 19
+      "case": 735,
+      "death": 18
     },
     {
       "county": "Skamania",
-      "case": 44,
+      "case": 45,
       "death": 1
     },
     {
       "county": "Snohomish",
-      "case": 4640,
+      "case": 4718,
       "death": 183
     },
     {
       "county": "Spokane",
-      "case": 3023,
-      "death": 47
+      "case": 3165,
+      "death": 46
     },
     {
       "county": "Stevens",
-      "case": 51,
+      "case": 55,
       "death": 1
     },
     {
       "county": "Thurston",
-      "case": 513,
+      "case": 538,
       "death": 6
     },
     {
       "county": "Wahkiakum",
-      "case": 6,
+      "case": 5,
       "death": 0
     },
     {
       "county": "Walla Walla",
-      "case": 325,
+      "case": 340,
       "death": 3
     },
     {
       "county": "Whatcom",
-      "case": 824,
+      "case": 830,
       "death": 37
     },
     {
       "county": "Whitman",
-      "case": 58,
+      "case": 59,
       "death": 0
     },
     {
       "county": "Yakima",
-      "case": 9461,
-      "death": 196
+      "case": 9557,
+      "death": 194
     },
     {
       "county": "Unassigned",
-      "case": 142,
+      "case": 163,
       "death": 0
     }
   ]
