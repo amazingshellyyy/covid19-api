@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1595776075210,
+  "timeStamp": 1595830163079,
   "data": [
     {
       "county": "Albany",
@@ -58,7 +58,7 @@
     },
     {
       "county": "Cortland",
-      "case": 81,
+      "case": 85,
       "death": 0
     },
     {
@@ -168,8 +168,8 @@
     },
     {
       "county": "Onondaga",
-      "case": 2558,
-      "death": 156
+      "case": 3259,
+      "death": 194
     },
     {
       "county": "Ontario",
@@ -284,7 +284,7 @@
     {
       "county": "Warren",
       "case": 268,
-      "death": 30
+      "death": 33
     },
     {
       "county": "Washington",
