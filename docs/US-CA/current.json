@@ -1,15 +1,15 @@
 {
-  "timeStamp": 1595862499224,
+  "timeStamp": 1595916535186,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 172325,
-      "death": 4351
+      "case": 176028,
+      "death": 4375
     },
     {
       "county": "San Diego",
-      "case": 25608,
-      "death": 512
+      "case": 26701,
+      "death": 533
     },
     {
       "county": "Riverside",
@@ -18,43 +18,43 @@
     },
     {
       "county": "Orange",
-      "case": 33358,
-      "death": 556
+      "case": 34646,
+      "death": 566
     },
     {
       "county": "San Bernardino",
-      "case": 26185,
-      "death": 358
+      "case": 27992,
+      "death": 383
     },
     {
       "county": "Alameda",
-      "case": 10214,
+      "case": 10438,
       "death": 178
     },
     {
       "county": "Santa Clara",
-      "case": 8719,
-      "death": 183
+      "case": 9041,
+      "death": 184
     },
     {
       "county": "San Francisco",
-      "case": 5787,
+      "case": 6022,
       "death": 56
     },
     {
       "county": "San Mateo",
-      "case": 5022,
+      "case": 5124,
       "death": 117
     },
     {
       "county": "Kern",
-      "case": 6502,
-      "death": 97
+      "case": 14561,
+      "death": 133
     },
     {
       "county": "Tulare",
-      "case": 6480,
-      "death": 161
+      "case": 8210,
+      "death": 168
     },
     {
       "county": "Santa Barbara",
@@ -73,13 +73,13 @@
     },
     {
       "county": "Contra Costa",
-      "case": 6627,
-      "death": 103
+      "case": 7073,
+      "death": 104
     },
     {
       "county": "Imperial",
-      "case": 8967,
-      "death": 173
+      "case": 9067,
+      "death": 181
     },
     {
       "county": "Ventura",
@@ -88,13 +88,13 @@
     },
     {
       "county": "San Joaquin",
-      "case": 7819,
-      "death": 73
+      "case": 10126,
+      "death": 97
     },
     {
       "county": "Stanislaus",
-      "case": 5777,
-      "death": 61
+      "case": 7861,
+      "death": 87
     },
     {
       "county": "Solano",
@@ -103,23 +103,23 @@
     },
     {
       "county": "Kings",
-      "case": 3172,
-      "death": 41
+      "case": 3813,
+      "death": 47
     },
     {
       "county": "Sonoma",
-      "case": 2466,
+      "case": 2570,
       "death": 24
     },
     {
       "county": "Monterey",
-      "case": 2270,
-      "death": 18
+      "case": 3865,
+      "death": 22
     },
     {
       "county": "Marin",
-      "case": 2482,
-      "death": 39
+      "case": 2578,
+      "death": 40
     },
     {
       "county": "San Luis Obispo",
@@ -128,8 +128,8 @@
     },
     {
       "county": "Merced",
-      "case": 1884,
-      "death": 12
+      "case": 2994,
+      "death": 26
     },
     {
       "county": "Yolo",
