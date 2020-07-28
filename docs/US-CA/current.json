@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1595916535186,
+  "timeStamp": 1595948917022,
   "data": [
     {
       "county": "Los Angeles",
@@ -8,13 +8,13 @@
     },
     {
       "county": "San Diego",
-      "case": 26701,
+      "case": 27507,
       "death": 533
     },
     {
       "county": "Riverside",
-      "case": 33467,
-      "death": 637
+      "case": 35187,
+      "death": 671
     },
     {
       "county": "Orange",
@@ -23,8 +23,8 @@
     },
     {
       "county": "San Bernardino",
-      "case": 27992,
-      "death": 383
+      "case": 29131,
+      "death": 384
     },
     {
       "county": "Alameda",
