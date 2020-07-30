@@ -1,30 +1,30 @@
 {
-  "timeStamp": 1596035300946,
+  "timeStamp": 1596089361035,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 176028,
-      "death": 4375
+      "case": 183383,
+      "death": 4516
     },
     {
       "county": "San Diego",
-      "case": 27507,
-      "death": 533
+      "case": 28287,
+      "death": 552
     },
     {
       "county": "Riverside",
-      "case": 35187,
-      "death": 671
+      "case": 36159,
+      "death": 682
     },
     {
       "county": "Orange",
-      "case": 34646,
-      "death": 566
+      "case": 35272,
+      "death": 587
     },
     {
       "county": "San Bernardino",
-      "case": 29131,
-      "death": 384
+      "case": 32309,
+      "death": 419
     },
     {
       "county": "Alameda",
@@ -33,23 +33,23 @@
     },
     {
       "county": "Santa Clara",
-      "case": 9215,
-      "death": 184
+      "case": 9359,
+      "death": 185
     },
     {
       "county": "San Francisco",
-      "case": 6065,
-      "death": 56
+      "case": 6197,
+      "death": 57
     },
     {
       "county": "San Mateo",
-      "case": 5198,
+      "case": 5306,
       "death": 118
     },
     {
       "county": "Kern",
-      "case": 14561,
-      "death": 133
+      "case": 17344,
+      "death": 145
     },
     {
       "county": "Tulare",
@@ -73,8 +73,8 @@
     },
     {
       "county": "Contra Costa",
-      "case": 7073,
-      "death": 104
+      "case": 7304,
+      "death": 108
     },
     {
       "county": "Imperial",
@@ -98,7 +98,7 @@
     },
     {
       "county": "Solano",
-      "case": 3283,
+      "case": 3388,
       "death": 36
     },
     {
@@ -108,8 +108,8 @@
     },
     {
       "county": "Sonoma",
-      "case": 2617,
-      "death": 24
+      "case": 2662,
+      "death": 31
     },
     {
       "county": "Monterey",
@@ -118,8 +118,8 @@
     },
     {
       "county": "Marin",
-      "case": 2609,
-      "death": 40
+      "case": 2649,
+      "death": 42
     },
     {
       "county": "San Luis Obispo",
@@ -148,7 +148,7 @@
     },
     {
       "county": "Napa",
-      "case": 766,
+      "case": 806,
       "death": 6
     },
     {
@@ -213,7 +213,7 @@
     },
     {
       "county": "Del Norte",
-      "case": 60,
+      "case": 88,
       "death": 0
     },
     {
