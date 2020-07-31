@@ -1,10 +1,10 @@
 {
-  "timeStamp": 1596110534050,
+  "timeStamp": 1596196961241,
   "data": [
     {
       "state": "Alabama",
-      "case": 81115,
-      "death": 1491
+      "case": 85762,
+      "death": 1565
     },
     {
       "state": "Alaska",
@@ -18,28 +18,28 @@
     },
     {
       "state": "Arizona",
-      "case": 163827,
-      "death": 3304
+      "case": 168273,
+      "death": 3454
     },
     {
       "state": "Arkansas",
-      "case": 38623,
-      "death": 401
+      "case": 41759,
+      "death": 442
     },
     {
       "state": "California",
-      "case": 460550,
-      "death": 8445
+      "case": 485502,
+      "death": 8909
     },
     {
       "state": "Colorado",
-      "case": 45314,
-      "death": 1807
+      "case": 46204,
+      "death": 1822
     },
     {
       "state": "Connecticut",
-      "case": 49077,
-      "death": 4423
+      "case": 49670,
+      "death": 4431
     },
     {
       "state": "Delaware",
@@ -53,8 +53,8 @@
     },
     {
       "state": "Florida",
-      "case": 432747,
-      "death": 6049
+      "case": 461379,
+      "death": 6709
     },
     {
       "state": "Georgia",
@@ -78,33 +78,33 @@
     },
     {
       "state": "Illinois",
-      "case": 172655,
-      "death": 7416
+      "case": 176366,
+      "death": 7654
     },
     {
       "state": "Indiana",
-      "case": 62907,
-      "death": 2906
+      "case": 65253,
+      "death": 2946
     },
     {
       "state": "Iowa",
-      "case": 42929,
-      "death": 839
+      "case": 44284,
+      "death": 865
     },
     {
       "state": "Kansas",
-      "case": 26172,
-      "death": 335
+      "case": 26870,
+      "death": 349
     },
     {
       "state": "Kentucky",
-      "case": 27079,
-      "death": 700
+      "case": 29386,
+      "death": 731
     },
     {
       "state": "Louisiana",
-      "case": 109917,
-      "death": 3786
+      "case": 112773,
+      "death": 3883
     },
     {
       "state": "Maine",
@@ -113,33 +113,33 @@
     },
     {
       "state": "Maryland",
-      "case": 84876,
-      "death": 3447
+      "case": 87177,
+      "death": 3488
     },
     {
       "state": "Massachusetts",
-      "case": 115637,
-      "death": 8529
+      "case": 116684,
+      "death": 8580
     },
     {
       "state": "Michigan",
-      "case": 87173,
-      "death": 6405
+      "case": 89781,
+      "death": 6443
     },
     {
       "state": "Minnesota",
-      "case": 51803,
-      "death": 1616
+      "case": 53692,
+      "death": 1634
     },
     {
       "state": "Mississippi",
-      "case": 52304,
-      "death": 1495
+      "case": 57579,
+      "death": 1611
     },
     {
       "state": "Missouri",
-      "case": 44823,
-      "death": 1213
+      "case": 48834,
+      "death": 1233
     },
     {
       "state": "Montana",
@@ -153,8 +153,8 @@
     },
     {
       "state": "Nevada",
-      "case": 45806,
-      "death": 780
+      "case": 46824,
+      "death": 801
     },
     {
       "state": "New Hampshire",
@@ -173,13 +173,13 @@
     },
     {
       "state": "New York",
-      "case": 413593,
-      "death": 32658
+      "case": 414370,
+      "death": 32683
     },
     {
       "state": "North Carolina",
-      "case": 116087,
-      "death": 1820
+      "case": 117850,
+      "death": 1865
     },
     {
       "state": "North Dakota",
@@ -193,13 +193,13 @@
     },
     {
       "state": "Ohio",
-      "case": 86497,
-      "death": 3382
+      "case": 89626,
+      "death": 3442
     },
     {
       "state": "Oklahoma",
-      "case": 32686,
-      "death": 496
+      "case": 35740,
+      "death": 536
     },
     {
       "state": "Oregon",
@@ -208,8 +208,8 @@
     },
     {
       "state": "Pennsylvania",
-      "case": 108264,
-      "death": 7122
+      "case": 110218,
+      "death": 7162
     },
     {
       "state": "Puerto Rico",
@@ -223,8 +223,8 @@
     },
     {
       "state": "South Carolina",
-      "case": 84109,
-      "death": 1565
+      "case": 87632,
+      "death": 1667
     },
     {
       "state": "South Dakota",
@@ -233,13 +233,13 @@
     },
     {
       "state": "Tennessee",
-      "case": 99044,
-      "death": 999
+      "case": 102871,
+      "death": 1033
     },
     {
       "state": "Texas",
-      "case": 381656,
-      "death": 5038
+      "case": 412107,
+      "death": 6274
     },
     {
       "state": "Virgin Islands",
@@ -248,8 +248,8 @@
     },
     {
       "state": "Utah",
-      "case": 38885,
-      "death": 286
+      "case": 39696,
+      "death": 300
     },
     {
       "state": "Vermont",
@@ -258,13 +258,13 @@
     },
     {
       "state": "Virginia",
-      "case": 86944,
-      "death": 2095
+      "case": 88904,
+      "death": 2141
     },
     {
       "state": "Washington",
-      "case": 54205,
-      "death": 1548
+      "case": 55803,
+      "death": 1564
     },
     {
       "state": "West Virginia",
@@ -273,8 +273,8 @@
     },
     {
       "state": "Wisconsin",
-      "case": 50179,
-      "death": 906
+      "case": 52108,
+      "death": 919
     },
     {
       "state": "Wyoming",
