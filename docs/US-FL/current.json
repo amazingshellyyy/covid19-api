@@ -1,344 +1,344 @@
 {
-  "timeStamp": 1596380912833,
+  "timeStamp": 1596435223220,
   "data": [
     {
       "county": "Alachua",
-      "case": 3144,
-      "death": 20
+      "case": 3590,
+      "death": 21
     },
     {
       "county": "Baker",
-      "case": 300,
+      "case": 371,
       "death": 4
     },
     {
       "county": "Bay",
-      "case": 2972,
-      "death": 15
+      "case": 3620,
+      "death": 21
     },
     {
       "county": "Bradford",
-      "case": 233,
-      "death": 3
+      "case": 332,
+      "death": 4
     },
     {
       "county": "Brevard",
-      "case": 4966,
-      "death": 64
+      "case": 5521,
+      "death": 115
     },
     {
       "county": "Broward",
-      "case": 49350,
-      "death": 605
+      "case": 56797,
+      "death": 742
     },
     {
       "county": "Calhoun",
-      "case": 254,
+      "case": 287,
       "death": 7
     },
     {
       "county": "Charlotte",
-      "case": 1683,
-      "death": 82
+      "case": 1984,
+      "death": 89
     },
     {
       "county": "Citrus",
-      "case": 1083,
-      "death": 20
+      "case": 1228,
+      "death": 29
     },
     {
       "county": "Clay",
-      "case": 2538,
-      "death": 47
+      "case": 2853,
+      "death": 48
     },
     {
       "county": "Collier",
-      "case": 8795,
-      "death": 117
+      "case": 9662,
+      "death": 124
     },
     {
       "county": "Columbia",
-      "case": 2122,
+      "case": 2550,
       "death": 10
     },
     {
       "county": "DeSoto",
-      "case": 1172,
-      "death": 14
+      "case": 1285,
+      "death": 15
     },
     {
       "county": "Dixie",
-      "case": 230,
+      "case": 264,
       "death": 4
     },
     {
       "county": "Duval",
-      "case": 19753,
-      "death": 139
+      "case": 21322,
+      "death": 157
     },
     {
       "county": "Escambia",
-      "case": 7018,
-      "death": 80
+      "case": 7908,
+      "death": 97
     },
     {
       "county": "Flagler",
-      "case": 801,
-      "death": 8
+      "case": 919,
+      "death": 10
     },
     {
       "county": "Franklin",
-      "case": 88,
-      "death": 1
+      "case": 116,
+      "death": 2
     },
     {
       "county": "Gadsden",
-      "case": 1188,
-      "death": 13
+      "case": 1437,
+      "death": 19
     },
     {
       "county": "Gilchrist",
-      "case": 308,
-      "death": 0
+      "case": 329,
+      "death": 3
     },
     {
       "county": "Glades",
-      "case": 385,
+      "case": 391,
       "death": 3
     },
     {
       "county": "Gulf",
-      "case": 241,
-      "death": 0
-    },
-    {
-      "county": "Hamilton",
-      "case": 557,
+      "case": 373,
       "death": 2
     },
     {
+      "county": "Hamilton",
+      "case": 574,
+      "death": 3
+    },
+    {
       "county": "Hardee",
-      "case": 781,
-      "death": 5
+      "case": 841,
+      "death": 7
     },
     {
       "county": "Hendry",
-      "case": 1512,
-      "death": 33
+      "case": 1649,
+      "death": 36
     },
     {
       "county": "Hernando",
-      "case": 1454,
-      "death": 22
+      "case": 1707,
+      "death": 33
     },
     {
       "county": "Highlands",
-      "case": 1039,
-      "death": 22
+      "case": 1197,
+      "death": 29
     },
     {
       "county": "Hillsborough",
-      "case": 27077,
-      "death": 295
+      "case": 29589,
+      "death": 341
     },
     {
       "county": "Holmes",
-      "case": 375,
-      "death": 1
+      "case": 433,
+      "death": 2
     },
     {
       "county": "Indian River",
-      "case": 1974,
-      "death": 35
+      "case": 2270,
+      "death": 48
     },
     {
       "county": "Jackson",
-      "case": 1266,
-      "death": 18
+      "case": 1588,
+      "death": 32
     },
     {
       "county": "Jefferson",
-      "case": 174,
+      "case": 337,
       "death": 5
     },
     {
       "county": "Lafayette",
-      "case": 83,
-      "death": 0
+      "case": 111,
+      "death": 1
     },
     {
       "county": "Lake",
-      "case": 4090,
-      "death": 39
+      "case": 4612,
+      "death": 51
     },
     {
       "county": "Lee",
-      "case": 14415,
-      "death": 258
+      "case": 15551,
+      "death": 300
     },
     {
       "county": "Leon",
-      "case": 3760,
-      "death": 13
+      "case": 4294,
+      "death": 14
     },
     {
       "county": "Levy",
-      "case": 462,
-      "death": 2
+      "case": 583,
+      "death": 3
     },
     {
       "county": "Liberty",
-      "case": 335,
+      "case": 399,
       "death": 2
     },
     {
       "county": "Madison",
-      "case": 526,
-      "death": 6
+      "case": 618,
+      "death": 7
     },
     {
       "county": "Manatee",
-      "case": 7859,
-      "death": 154
+      "case": 8655,
+      "death": 185
     },
     {
       "county": "Marion",
-      "case": 3426,
-      "death": 49
+      "case": 5069,
+      "death": 61
     },
     {
       "county": "Martin",
-      "case": 3420,
-      "death": 64
+      "case": 3626,
+      "death": 75
     },
     {
       "county": "Miami-Dade",
-      "case": 104755,
-      "death": 1388
+      "case": 121207,
+      "death": 1647
     },
     {
       "county": "Monroe",
-      "case": 1126,
-      "death": 6
+      "case": 1325,
+      "death": 9
     },
     {
       "county": "Nassau",
-      "case": 941,
-      "death": 8
+      "case": 1079,
+      "death": 10
     },
     {
       "county": "Okaloosa",
-      "case": 2368,
-      "death": 20
+      "case": 2850,
+      "death": 30
     },
     {
       "county": "Okeechobee",
-      "case": 812,
-      "death": 2
+      "case": 920,
+      "death": 6
     },
     {
       "county": "Orange",
-      "case": 26980,
-      "death": 173
+      "case": 29466,
+      "death": 232
     },
     {
       "county": "Osceola",
-      "case": 7614,
-      "death": 51
+      "case": 8649,
+      "death": 79
     },
     {
       "county": "Palm Beach",
-      "case": 30325,
-      "death": 755
+      "case": 33854,
+      "death": 833
     },
     {
       "county": "Pasco",
-      "case": 5803,
-      "death": 69
+      "case": 6394,
+      "death": 96
     },
     {
       "county": "Pinellas",
-      "case": 15147,
-      "death": 373
+      "case": 16604,
+      "death": 437
     },
     {
       "county": "Polk",
-      "case": 11423,
-      "death": 217
+      "case": 12735,
+      "death": 269
     },
     {
       "county": "Putnam",
-      "case": 1169,
-      "death": 13
+      "case": 1317,
+      "death": 16
     },
     {
       "county": "Santa Rosa",
-      "case": 2507,
-      "death": 19
+      "case": 3399,
+      "death": 24
     },
     {
       "county": "Sarasota",
-      "case": 5103,
-      "death": 113
+      "case": 5672,
+      "death": 121
     },
     {
       "county": "Seminole",
-      "case": 6034,
-      "death": 66
+      "case": 6566,
+      "death": 84
     },
     {
       "county": "St. Johns",
-      "case": 2929,
-      "death": 19
+      "case": 3264,
+      "death": 28
     },
     {
       "county": "St. Lucie",
-      "case": 4401,
-      "death": 97
+      "case": 5106,
+      "death": 125
     },
     {
       "county": "Sumter",
-      "case": 992,
-      "death": 25
+      "case": 1091,
+      "death": 32
     },
     {
       "county": "Suwannee",
-      "case": 1013,
-      "death": 27
+      "case": 1155,
+      "death": 32
     },
     {
       "county": "Taylor",
-      "case": 266,
+      "case": 360,
       "death": 3
     },
     {
       "county": "Union",
-      "case": 212,
+      "case": 218,
       "death": 4
     },
     {
       "county": "Volusia",
-      "case": 6240,
-      "death": 99
+      "case": 6959,
+      "death": 113
     },
     {
       "county": "Wakulla",
-      "case": 507,
-      "death": 1
+      "case": 598,
+      "death": 4
     },
     {
       "county": "Walton",
-      "case": 1057,
-      "death": 12
-    },
-    {
-      "county": "Washington",
-      "case": 433,
+      "case": 1239,
       "death": 13
     },
     {
+      "county": "Washington",
+      "case": 558,
+      "death": 14
+    },
+    {
       "county": "Unknown",
-      "case": 489,
+      "case": 601,
       "death": 0
     }
   ]
