@@ -1,295 +1,295 @@
 {
-  "timeStamp": 1596812920393,
+  "timeStamp": 1596867001168,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 192167,
-      "death": 10283729
+      "case": 201106,
+      "death": null
     },
     {
       "county": "Riverside",
-      "case": 37612,
-      "death": 2415955
+      "case": 40452,
+      "death": 21121
     },
     {
       "county": "Orange",
-      "case": 36833,
-      "death": 3284468
+      "case": 38754,
+      "death": 29009
     },
     {
       "county": "San Bernardino",
-      "case": 34017,
-      "death": 2174938
+      "case": 34939,
+      "death": 27180
     },
     {
       "county": "San Diego",
-      "case": 29640,
-      "death": 3337456
+      "case": 31127,
+      "death": null
     },
     {
       "county": "Kern",
-      "case": 20061,
-      "death": 905801
+      "case": 22009,
+      "death": 6807
     },
     {
       "county": "Fresno",
-      "case": 15083,
-      "death": 1007229
+      "case": 16625,
+      "death": 5486
     },
     {
       "county": "San Joaquin",
-      "case": 11561,
-      "death": 758744
+      "case": 12303,
+      "death": 11199
     },
     {
       "county": "Alameda",
-      "case": 11505,
-      "death": 1671329
+      "case": 12791,
+      "death": null
     },
     {
       "county": "Santa Clara",
-      "case": 10321,
-      "death": 1927852
+      "case": 11336,
+      "death": null
     },
     {
       "county": "Sacramento",
-      "case": 10015,
-      "death": 1529501
+      "case": 10544,
+      "death": null
     },
     {
       "county": "Tulare",
-      "case": 9454,
-      "death": 475834
+      "case": 10475,
+      "death": 9287
     },
     {
       "county": "Imperial",
-      "case": 9409,
-      "death": 190624
+      "case": 9629,
+      "death": 8536
     },
     {
       "county": "Stanislaus",
-      "case": 9061,
-      "death": 555624
+      "case": 9408,
+      "death": 8683
     },
     {
       "county": "Contra Costa",
-      "case": 7806,
-      "death": 1153526
+      "case": 8760,
+      "death": 7729
     },
     {
       "county": "Ventura",
-      "case": 7521,
-      "death": 859073
+      "case": 8035,
+      "death": 4456
     },
     {
       "county": "San Francisco",
-      "case": 6726,
-      "death": 881549
+      "case": 7326,
+      "death": null
     },
     {
       "county": "Santa Barbara",
-      "case": 6526,
-      "death": 453457
+      "case": 6652,
+      "death": 6379
     },
     {
       "county": "San Mateo",
-      "case": 5554,
-      "death": 766573
+      "case": 5978,
+      "death": null
     },
     {
       "county": "Marin",
-      "case": 5058,
-      "death": 258826
+      "case": 5257,
+      "death": 4623
     },
     {
       "county": "Monterey",
-      "case": 4697,
-      "death": 443281
+      "case": 5156,
+      "death": 3207
     },
     {
       "county": "Kings",
-      "case": 4380,
-      "death": 151662
+      "case": 4453,
+      "death": 2525
     },
     {
       "county": "Merced",
-      "case": 4285,
-      "death": 279977
+      "case": 4855,
+      "death": 3061
     },
     {
       "county": "Solano",
-      "case": 3616,
-      "death": 447643
+      "case": 3959,
+      "death": 3767
     },
     {
       "county": "Sonoma",
-      "case": 2994,
-      "death": 494336
+      "case": 3358,
+      "death": 1619
     },
     {
       "county": "Madera",
-      "case": 2036,
-      "death": 158894
+      "case": 2267,
+      "death": 1196
     },
     {
       "county": "Placer",
-      "case": 1912,
-      "death": 389532
+      "case": 2099,
+      "death": 1786
     },
     {
       "county": "San Luis Obispo",
-      "case": 1783,
-      "death": 280101
+      "case": 2047,
+      "death": null
     },
     {
       "county": "Yolo",
-      "case": 1554,
-      "death": 221270
+      "case": 1660,
+      "death": null
     },
     {
       "county": "Santa Cruz",
-      "case": 1152,
-      "death": 276864
+      "case": 1229,
+      "death": 373
     },
     {
       "county": "Butte",
-      "case": 941,
-      "death": 227621
+      "case": 1060,
+      "death": null
     },
     {
       "county": "Napa",
-      "case": 898,
-      "death": 137744
+      "case": 1046,
+      "death": 393
     },
     {
       "county": "Sutter",
-      "case": 768,
-      "death": 97238
+      "case": 893,
+      "death": 467
     },
     {
       "county": "San Benito",
-      "case": 643,
-      "death": 57088
+      "case": 699,
+      "death": 640
     },
     {
       "county": "El Dorado",
-      "case": 637,
-      "death": 188399
+      "case": 716,
+      "death": 536
     },
     {
       "county": "Lassen",
-      "case": 598,
-      "death": 30911
+      "case": 638,
+      "death": 504
     },
     {
       "county": "Yuba",
-      "case": 471,
-      "death": 74727
+      "case": 572,
+      "death": 288
     },
     {
       "county": "Shasta",
-      "case": 369,
-      "death": 178271
+      "case": 411,
+      "death": 356
     },
     {
       "county": "Colusa",
-      "case": 323,
-      "death": 22098
+      "case": 362,
+      "death": 301
     },
     {
       "county": "Mendocino",
-      "case": 312,
-      "death": 89299
+      "case": 363,
+      "death": 266
     },
     {
       "county": "Glenn",
-      "case": 304,
-      "death": 28795
+      "case": 360,
+      "death": 334
     },
     {
       "county": "Nevada",
-      "case": 302,
-      "death": 99155
+      "case": 321,
+      "death": 300
     },
     {
       "county": "Humboldt",
-      "case": 233,
-      "death": 136002
+      "case": 280,
+      "death": 189
     },
     {
       "county": "Tehama",
-      "case": 213,
-      "death": 64039
+      "case": 271,
+      "death": 236
     },
     {
       "county": "Lake",
-      "case": 195,
-      "death": 65081
+      "case": 220,
+      "death": 194
     },
     {
       "county": "Mono",
-      "case": 141,
-      "death": 13822
+      "case": 153,
+      "death": null
     },
     {
       "county": "Tuolumne",
-      "case": 141,
-      "death": 54740
+      "case": 147,
+      "death": 140
     },
     {
       "county": "Calaveras",
-      "case": 125,
-      "death": 45157
+      "case": 136,
+      "death": null
     },
     {
       "county": "Amador",
-      "case": 120,
-      "death": 38094
+      "case": 162,
+      "death": null
     },
     {
       "county": "Del Norte",
-      "case": 88,
-      "death": 27221
+      "case": 96,
+      "death": 88
     },
     {
       "county": "Siskiyou",
-      "case": 88,
-      "death": 44612
+      "case": 92,
+      "death": 80
     },
     {
       "county": "Mariposa",
-      "case": 56,
-      "death": 18129
+      "case": 60,
+      "death": 55
     },
     {
       "county": "Inyo",
-      "case": 45,
-      "death": 18577
+      "case": 86,
+      "death": 45
     },
     {
       "county": "Plumas",
-      "case": 33,
-      "death": 19773
+      "case": 34,
+      "death": 32
     },
     {
       "county": "Trinity",
-      "case": 6,
-      "death": 13635
+      "case": 5,
+      "death": 5
     },
     {
       "county": "Alpine",
       "case": 2,
-      "death": 1154
+      "death": 2
     },
     {
       "county": "Modoc",
-      "case": 2,
-      "death": 9612
+      "case": 4,
+      "death": 0
     },
     {
       "county": "Sierra",
-      "case": 1,
-      "death": 3207
+      "case": 3,
+      "death": 2
     }
   ]
 }
