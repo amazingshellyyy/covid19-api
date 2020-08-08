@@ -1,9 +1,9 @@
 {
-  "timeStamp": 1596867001168,
+  "timeStamp": 1596899344847,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 201106,
+      "case": 204258,
       "death": null
     },
     {
@@ -34,7 +34,7 @@
     {
       "county": "Fresno",
       "case": 16625,
-      "death": 5486
+      "death": 6505
     },
     {
       "county": "San Joaquin",
@@ -89,7 +89,7 @@
     {
       "county": "Santa Barbara",
       "case": 6652,
-      "death": 6379
+      "death": 6437
     },
     {
       "county": "San Mateo",
