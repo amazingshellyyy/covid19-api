@@ -1,25 +1,25 @@
 {
-  "timeStamp": 1597126194180,
+  "timeStamp": 1597158548608,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 208563,
+      "case": 210424,
       "death": null
     },
     {
       "county": "Riverside",
-      "case": 40452,
-      "death": 21121
+      "case": 41983,
+      "death": 21898
     },
     {
       "county": "Orange",
-      "case": 38754,
-      "death": 29931
+      "case": 40527,
+      "death": 30657
     },
     {
       "county": "San Bernardino",
-      "case": 34939,
-      "death": 27180
+      "case": 36072,
+      "death": 28642
     },
     {
       "county": "San Diego",
