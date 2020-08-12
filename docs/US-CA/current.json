@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1597212658060,
+  "timeStamp": 1597244950302,
   "data": [
     {
       "county": "Los Angeles",
@@ -38,8 +38,8 @@
     },
     {
       "county": "San Joaquin",
-      "case": 12303,
-      "death": 11199
+      "case": 13870,
+      "death": 12255
     },
     {
       "county": "Alameda",
@@ -58,13 +58,13 @@
     },
     {
       "county": "Tulare",
-      "case": 10475,
-      "death": 9287
+      "case": 11549,
+      "death": 9788
     },
     {
       "county": "Imperial",
-      "case": 9629,
-      "death": 8536
+      "case": 9867,
+      "death": 8697
     },
     {
       "county": "Stanislaus",
@@ -78,8 +78,8 @@
     },
     {
       "county": "Ventura",
-      "case": 8035,
-      "death": 4456
+      "case": 8740,
+      "death": 5312
     },
     {
       "county": "San Francisco",
@@ -98,13 +98,13 @@
     },
     {
       "county": "Marin",
-      "case": 5327,
-      "death": 4693
+      "case": 5384,
+      "death": 4801
     },
     {
       "county": "Monterey",
-      "case": 5156,
-      "death": 3207
+      "case": 5494,
+      "death": 3460
     },
     {
       "county": "Kings",
@@ -118,18 +118,18 @@
     },
     {
       "county": "Solano",
-      "case": 3959,
-      "death": 3767
+      "case": 4274,
+      "death": 4017
     },
     {
       "county": "Sonoma",
-      "case": 3358,
-      "death": 1619
+      "case": 3753,
+      "death": 1989
     },
     {
       "county": "Madera",
-      "case": 2267,
-      "death": 1196
+      "case": 2463,
+      "death": 1772
     },
     {
       "county": "Placer",
@@ -168,8 +168,8 @@
     },
     {
       "county": "San Benito ",
-      "case": 699,
-      "death": 640
+      "case": 765,
+      "death": 679
     },
     {
       "county": "El Dorado",
