@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1597158548608,
+  "timeStamp": 1597212658060,
   "data": [
     {
       "county": "Los Angeles",
@@ -23,17 +23,17 @@
     },
     {
       "county": "San Diego",
-      "case": 31127,
+      "case": 32975,
       "death": null
     },
     {
       "county": "Kern",
-      "case": 22009,
-      "death": 6807
+      "case": 24440,
+      "death": 7202
     },
     {
       "county": "Fresno",
-      "case": 16625,
+      "case": 17846,
       "death": 6505
     },
     {
@@ -43,17 +43,17 @@
     },
     {
       "county": "Alameda",
-      "case": 13078,
+      "case": 13218,
       "death": null
     },
     {
       "county": "Santa Clara",
-      "case": 11687,
+      "case": 12962,
       "death": null
     },
     {
       "county": "Sacramento",
-      "case": 10544,
+      "case": 12274,
       "death": null
     },
     {
@@ -68,13 +68,13 @@
     },
     {
       "county": "Stanislaus",
-      "case": 9408,
-      "death": 8683
+      "case": 10264,
+      "death": null
     },
     {
       "county": "Contra Costa",
-      "case": 9022,
-      "death": 7923
+      "case": 9787,
+      "death": 8488
     },
     {
       "county": "Ventura",
@@ -83,7 +83,7 @@
     },
     {
       "county": "San Francisco",
-      "case": 7432,
+      "case": 7692,
       "death": null
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "county": "San Mateo",
-      "case": 6110,
+      "case": 6431,
       "death": null
     },
     {
@@ -113,8 +113,8 @@
     },
     {
       "county": "Merced",
-      "case": 4855,
-      "death": 3061
+      "case": 5736,
+      "death": 3440
     },
     {
       "county": "Solano",
@@ -178,8 +178,8 @@
     },
     {
       "county": "Lassen",
-      "case": 638,
-      "death": 504
+      "case": 683,
+      "death": 529
     },
     {
       "county": "Yuba",
@@ -193,8 +193,8 @@
     },
     {
       "county": "Colusa",
-      "case": 362,
-      "death": 301
+      "case": 391,
+      "death": 318
     },
     {
       "county": "Mendocino",
