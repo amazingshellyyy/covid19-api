@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1597244950302,
+  "timeStamp": 1597299028457,
   "data": [
     {
       "county": "Los Angeles",
@@ -14,12 +14,12 @@
     {
       "county": "Orange",
       "case": 40527,
-      "death": 30657
+      "death": 31445
     },
     {
       "county": "San Bernardino",
       "case": 36072,
-      "death": 28642
+      "death": 29440
     },
     {
       "county": "San Diego",
@@ -29,12 +29,12 @@
     {
       "county": "Kern",
       "case": 24440,
-      "death": 7202
+      "death": 7438
     },
     {
       "county": "Fresno",
-      "case": 17846,
-      "death": 6505
+      "case": 17978,
+      "death": 7276
     },
     {
       "county": "San Joaquin",
