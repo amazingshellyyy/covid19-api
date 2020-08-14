@@ -1,24 +1,24 @@
 {
-  "timeStamp": 1597385421713,
+  "timeStamp": 1597417734856,
   "data": [
     {
       "county": "Adams",
-      "case": 535,
-      "death": 20
+      "case": 539,
+      "death": 21
     },
     {
       "county": "Allegheny",
-      "case": 9078,
-      "death": 259
+      "case": 9192,
+      "death": 260
     },
     {
       "county": "Armstrong",
-      "case": 230,
+      "case": 237,
       "death": 8
     },
     {
       "county": "Beaver",
-      "case": 1351,
+      "case": 1374,
       "death": 93
     },
     {
@@ -28,93 +28,93 @@
     },
     {
       "county": "Berks",
-      "case": 5470,
+      "case": 5491,
       "death": 372
     },
     {
       "county": "Blair",
-      "case": 302,
+      "case": 304,
       "death": 7
     },
     {
       "county": "Bradford",
-      "case": 90,
+      "case": 91,
       "death": 3
     },
     {
       "county": "Bucks",
-      "case": 7275,
+      "case": 7318,
       "death": 582
     },
     {
       "county": "Butler",
-      "case": 695,
+      "case": 707,
       "death": 16
     },
     {
       "county": "Cambria",
-      "case": 351,
+      "case": 353,
       "death": 3
     },
     {
       "county": "Cameron",
-      "case": 7,
+      "case": 8,
       "death": null
     },
     {
       "county": "Carbon",
-      "case": 377,
+      "case": 379,
       "death": 28
     },
     {
       "county": "Centre",
-      "case": 377,
+      "case": 380,
       "death": 10
     },
     {
       "county": "Chester",
-      "case": 5186,
+      "case": 5213,
       "death": 348
     },
     {
       "county": "Clarion",
-      "case": 83,
+      "case": 84,
       "death": 2
     },
     {
       "county": "Clearfield",
-      "case": 177,
+      "case": 182,
       "death": 1
     },
     {
       "county": "Clinton",
-      "case": 124,
+      "case": 125,
       "death": 5
     },
     {
       "county": "Columbia",
-      "case": 481,
+      "case": 483,
       "death": 35
     },
     {
       "county": "Crawford",
-      "case": 162,
+      "case": 161,
       "death": 1
     },
     {
       "county": "Cumberland",
-      "case": 1327,
+      "case": 1339,
       "death": 71
     },
     {
       "county": "Dauphin",
-      "case": 2873,
-      "death": 159
+      "case": 2914,
+      "death": 160
     },
     {
       "county": "Delaware",
-      "case": 9436,
-      "death": 706
+      "case": 9496,
+      "death": 707
     },
     {
       "county": "Elk",
@@ -123,47 +123,47 @@
     },
     {
       "county": "Erie",
-      "case": 1143,
+      "case": 1163,
       "death": 22
     },
     {
       "county": "Fayette",
-      "case": 582,
+      "case": 595,
       "death": 6
     },
     {
       "county": "Forest",
-      "case": 10,
+      "case": 11,
       "death": null
     },
     {
       "county": "Franklin",
-      "case": 1385,
+      "case": 1393,
       "death": 46
     },
     {
       "county": "Fulton",
-      "case": 27,
+      "case": 28,
       "death": 2
     },
     {
       "county": "Greene",
-      "case": 118,
+      "case": 121,
       "death": 1
     },
     {
       "county": "Huntingdon",
-      "case": 309,
-      "death": 4
+      "case": 313,
+      "death": 5
     },
     {
       "county": "Indiana",
-      "case": 335,
+      "case": 343,
       "death": 7
     },
     {
       "county": "Jefferson",
-      "case": 74,
+      "case": 75,
       "death": 1
     },
     {
@@ -173,37 +173,37 @@
     },
     {
       "county": "Lackawanna",
-      "case": 1946,
+      "case": 1952,
       "death": 212
     },
     {
       "county": "Lancaster",
-      "case": 6028,
-      "death": 417
+      "case": 6099,
+      "death": 418
     },
     {
       "county": "Lawrence",
-      "case": 401,
+      "case": 414,
       "death": 16
     },
     {
       "county": "Lebanon",
-      "case": 1626,
+      "case": 1632,
       "death": 55
     },
     {
       "county": "Lehigh",
-      "case": 5022,
-      "death": 338
+      "case": 5036,
+      "death": 340
     },
     {
       "county": "Luzerne",
-      "case": 3526,
-      "death": 184
+      "case": 3553,
+      "death": 185
     },
     {
       "county": "Lycoming",
-      "case": 411,
+      "case": 426,
       "death": 20
     },
     {
@@ -213,62 +213,62 @@
     },
     {
       "county": "Mercer",
-      "case": 456,
-      "death": 11
+      "case": 468,
+      "death": 12
     },
     {
       "county": "Mifflin",
-      "case": 121,
+      "case": 123,
       "death": 1
     },
     {
       "county": "Monroe",
-      "case": 1650,
+      "case": 1655,
       "death": 124
     },
     {
       "county": "Montgomery",
-      "case": 10219,
+      "case": 10264,
       "death": 859
     },
     {
       "county": "Montour",
-      "case": 104,
+      "case": 106,
       "death": 3
     },
     {
       "county": "Northampton",
-      "case": 3956,
-      "death": 293
+      "case": 3982,
+      "death": 294
     },
     {
       "county": "Northumberland",
-      "case": 513,
+      "case": 524,
       "death": 15
     },
     {
       "county": "Perry",
-      "case": 125,
+      "case": 128,
       "death": 5
     },
     {
       "county": "Philadelphia",
-      "case": 26985,
-      "death": 1716
+      "case": 27177,
+      "death": 1725
     },
     {
       "county": "Pike",
-      "case": 526,
+      "case": 527,
       "death": 21
     },
     {
       "county": "Schuylkill",
-      "case": 928,
+      "case": 930,
       "death": 51
     },
     {
       "county": "Snyder",
-      "case": 112,
+      "case": 113,
       "death": 2
     },
     {
@@ -283,12 +283,12 @@
     },
     {
       "county": "Susquehanna",
-      "case": 217,
+      "case": 218,
       "death": 27
     },
     {
       "county": "Tioga",
-      "case": 39,
+      "case": 40,
       "death": 3
     },
     {
@@ -303,13 +303,13 @@
     },
     {
       "county": "Warren",
-      "case": 23,
+      "case": 22,
       "death": 1
     },
     {
       "county": "Washington",
-      "case": 871,
-      "death": 13
+      "case": 880,
+      "death": 14
     },
     {
       "county": "Wayne",
@@ -318,18 +318,18 @@
     },
     {
       "county": "Westmoreland",
-      "case": 1573,
+      "case": 1586,
       "death": 47
     },
     {
       "county": "Wyoming",
-      "case": 61,
+      "case": 62,
       "death": 8
     },
     {
       "county": "York",
-      "case": 2680,
-      "death": 97
+      "case": 2751,
+      "death": 100
     }
   ]
 }
