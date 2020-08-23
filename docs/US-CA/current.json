@@ -1,9 +1,9 @@
 {
-  "timeStamp": 1598163148911,
+  "timeStamp": 1598195390040,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 229148,
+      "case": 230772,
       "death": null
     },
     {
@@ -14,7 +14,7 @@
     {
       "county": "Orange",
       "case": 45308,
-      "death": 36830
+      "death": 37241
     },
     {
       "county": "San Bernardino",
@@ -23,7 +23,7 @@
     },
     {
       "county": "San Diego",
-      "case": 35608,
+      "case": 36203,
       "death": null
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "county": "Alameda",
-      "case": 16184,
+      "case": 16469,
       "death": null
     },
     {
@@ -53,8 +53,8 @@
     },
     {
       "county": "Sacramento",
-      "case": 14984,
-      "death": 11453
+      "case": 15246,
+      "death": 11851
     },
     {
       "county": "Tulare",
@@ -73,17 +73,17 @@
     },
     {
       "county": "Contra Costa",
-      "case": 12046,
-      "death": 10474
+      "case": 12527,
+      "death": 10828
     },
     {
       "county": "Ventura",
-      "case": 9340,
+      "case": 9695,
       "death": 8032
     },
     {
       "county": "San Francisco",
-      "case": 8611,
+      "case": 8791,
       "death": null
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "county": "San Mateo",
-      "case": 7382,
+      "case": 7535,
       "death": null
     },
     {
@@ -103,8 +103,8 @@
     },
     {
       "county": "Monterey",
-      "case": 6662,
-      "death": 4016
+      "case": 7023,
+      "death": 4427
     },
     {
       "county": "Kings",
@@ -123,7 +123,7 @@
     },
     {
       "county": "Sonoma",
-      "case": 4863,
+      "case": 4942,
       "death": 2596
     },
     {
@@ -133,22 +133,22 @@
     },
     {
       "county": "Placer",
-      "case": 2689,
-      "death": 2329
+      "case": 2740,
+      "death": 2385
     },
     {
       "county": "San Luis Obispo",
-      "case": 2613,
+      "case": 2665,
       "death": null
     },
     {
       "county": "Yolo",
-      "case": 2147,
+      "case": 2164,
       "death": null
     },
     {
       "county": "Santa Cruz",
-      "case": 1569,
+      "case": 1617,
       "death": 439
     },
     {
@@ -158,7 +158,7 @@
     },
     {
       "county": "Napa",
-      "case": 1295,
+      "case": 1307,
       "death": 393
     },
     {
@@ -198,8 +198,8 @@
     },
     {
       "county": "Mendocino",
-      "case": 584,
-      "death": 478
+      "case": 605,
+      "death": 483
     },
     {
       "county": "Glenn",
@@ -263,7 +263,7 @@
     },
     {
       "county": "Inyo",
-      "case": 158,
+      "case": 164,
       "death": 67
     },
     {
