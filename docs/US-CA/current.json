@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1598508655054,
+  "timeStamp": 1598541212786,
   "data": [
     {
       "county": "Los Angeles",
@@ -9,17 +9,17 @@
     {
       "county": "Riverside",
       "case": 50744,
-      "death": 28407
+      "death": 40769
     },
     {
       "county": "Orange",
       "case": 46307,
-      "death": 37907
+      "death": 39129
     },
     {
       "county": "San Bernardino",
       "case": 45246,
-      "death": 37002
+      "death": 38364
     },
     {
       "county": "San Diego",
@@ -29,7 +29,7 @@
     {
       "county": "Kern",
       "case": 28234,
-      "death": 9535
+      "death": 10559
     },
     {
       "county": "Fresno",
@@ -79,7 +79,7 @@
     {
       "county": "Ventura",
       "case": 9695,
-      "death": 8366
+      "death": 8789
     },
     {
       "county": "San Francisco",
@@ -89,7 +89,7 @@
     {
       "county": "Santa Barbara",
       "case": 7800,
-      "death": 7479
+      "death": 7585
     },
     {
       "county": "San Mateo",
@@ -148,8 +148,8 @@
     },
     {
       "county": "Santa Cruz",
-      "case": 1617,
-      "death": 439
+      "case": 1714,
+      "death": 1411
     },
     {
       "county": "Butte",
@@ -203,8 +203,8 @@
     },
     {
       "county": "Glenn",
-      "case": 421,
-      "death": 402
+      "case": 434,
+      "death": 424
     },
     {
       "county": "Nevada",
