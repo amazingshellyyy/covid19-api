@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1598788882039,
+  "timeStamp": 1598875302201,
   "data": [
     {
       "state": "Alabama",
@@ -8,8 +8,8 @@
     },
     {
       "state": "Alaska",
-      "case": 5666,
-      "death": 36
+      "case": 6035,
+      "death": 37
     },
     {
       "state": "American Samoa",
@@ -18,8 +18,8 @@
     },
     {
       "state": "Arizona",
-      "case": 200139,
-      "death": 4929
+      "case": 201661,
+      "death": 5030
     },
     {
       "state": "Arkansas",
@@ -28,33 +28,33 @@
     },
     {
       "state": "California",
-      "case": 683529,
-      "death": 12550
+      "case": 693839,
+      "death": 12834
     },
     {
       "state": "Colorado",
-      "case": 56343,
-      "death": 1931
+      "case": 57041,
+      "death": 1944
     },
     {
       "state": "Connecticut",
-      "case": 52040,
-      "death": 4463
+      "case": 52495,
+      "death": 4465
     },
     {
       "state": "Delaware",
-      "case": 16962,
-      "death": 603
-    },
-    {
-      "state": "District of Columbia",
-      "case": 13684,
+      "case": 17349,
       "death": 604
     },
     {
+      "state": "District of Columbia",
+      "case": 13959,
+      "death": 606
+    },
+    {
       "state": "Florida",
-      "case": 611991,
-      "death": 11011
+      "case": 621586,
+      "death": 11263
     },
     {
       "state": "Georgia",
