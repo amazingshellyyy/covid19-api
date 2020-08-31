@@ -1,9 +1,9 @@
 {
-  "timeStamp": 1598854254402,
+  "timeStamp": 1598886335739,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 239828,
+      "case": 240755,
       "death": null
     },
     {
@@ -13,13 +13,13 @@
     },
     {
       "county": "Orange",
-      "case": 47459,
-      "death": 40721
+      "case": 48444,
+      "death": 40948
     },
     {
       "county": "San Bernardino",
-      "case": 46407,
-      "death": 39032
+      "case": 47373,
+      "death": 40582
     },
     {
       "county": "San Diego",
@@ -149,7 +149,7 @@
     {
       "county": "Santa Cruz",
       "case": 1721,
-      "death": 1482
+      "death": 1494
     },
     {
       "county": "Butte",
