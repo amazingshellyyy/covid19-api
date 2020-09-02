@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1598973054413,
+  "timeStamp": 1599027090671,
   "data": [
     {
       "county": "Los Angeles",
@@ -9,17 +9,17 @@
     {
       "county": "Riverside",
       "case": 51860,
-      "death": 41213
+      "death": 43387
     },
     {
       "county": "Orange",
       "case": 48444,
-      "death": 40948
+      "death": 41860
     },
     {
       "county": "San Bernardino",
       "case": 47373,
-      "death": 40582
+      "death": 41163
     },
     {
       "county": "San Diego",
@@ -39,7 +39,7 @@
     {
       "county": "San Joaquin",
       "case": 16773,
-      "death": 15092
+      "death": 15832
     },
     {
       "county": "Alameda",
@@ -63,8 +63,8 @@
     },
     {
       "county": "Imperial",
-      "case": 10573,
-      "death": 9452
+      "case": 10719,
+      "death": 9651
     },
     {
       "county": "Stanislaus",
@@ -149,7 +149,7 @@
     {
       "county": "Santa Cruz",
       "case": 1721,
-      "death": 1494
+      "death": 1537
     },
     {
       "county": "Butte",
@@ -158,8 +158,8 @@
     },
     {
       "county": "Napa",
-      "case": 1393,
-      "death": 708
+      "case": 1431,
+      "death": 1090
     },
     {
       "county": "Sutter",
@@ -248,8 +248,8 @@
     },
     {
       "county": "Del Norte",
-      "case": 106,
-      "death": 92
+      "case": 123,
+      "death": 119
     },
     {
       "county": "Siskiyou",
