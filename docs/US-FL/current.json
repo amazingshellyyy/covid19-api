@@ -1,6 +1,16 @@
 {
-  "timeStamp": 1599113502514,
+  "timeStamp": 1599145840405,
   "data": [
+    {
+      "county": "Non-residents",
+      "case": 7016,
+      "death": 150
+    },
+    {
+      "county": "Total",
+      "case": 633442,
+      "death": 11651
+    },
     {
       "county": "Alachua",
       "case": 5053,
