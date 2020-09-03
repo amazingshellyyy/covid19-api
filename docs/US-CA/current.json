@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1599059451937,
+  "timeStamp": 1599113502215,
   "data": [
     {
       "county": "Los Angeles",
@@ -9,17 +9,17 @@
     {
       "county": "Riverside",
       "case": 51860,
-      "death": 43387
+      "death": 44755
     },
     {
       "county": "Orange",
       "case": 48444,
-      "death": 41860
+      "death": 42375
     },
     {
       "county": "San Bernardino",
       "case": 47373,
-      "death": 41163
+      "death": 41800
     },
     {
       "county": "San Diego",
@@ -64,7 +64,7 @@
     {
       "county": "Imperial",
       "case": 10719,
-      "death": 9651
+      "death": 9695
     },
     {
       "county": "Stanislaus",
@@ -89,7 +89,7 @@
     {
       "county": "Santa Barbara",
       "case": 7951,
-      "death": 7632
+      "death": 7897
     },
     {
       "county": "San Mateo",
@@ -104,7 +104,7 @@
     {
       "county": "Monterey",
       "case": 7522,
-      "death": 4791
+      "death": 5144
     },
     {
       "county": "Kings",
@@ -148,8 +148,8 @@
     },
     {
       "county": "Santa Cruz",
-      "case": 1721,
-      "death": 1537
+      "case": 1878,
+      "death": 1584
     },
     {
       "county": "Butte",
@@ -258,8 +258,8 @@
     },
     {
       "county": "Mariposa",
-      "case": 64,
-      "death": 58
+      "case": 73,
+      "death": 71
     },
     {
       "county": "Inyo",
