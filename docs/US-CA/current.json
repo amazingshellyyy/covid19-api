@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1599232238297,
+  "timeStamp": 1599286926471,
   "data": [
     {
       "county": "Los Angeles",
@@ -9,12 +9,12 @@
     {
       "county": "Riverside",
       "case": 53306,
-      "death": 45313
+      "death": 45990
     },
     {
       "county": "Orange",
       "case": 49142,
-      "death": 42897
+      "death": 43005
     },
     {
       "county": "San Bernardino",
@@ -29,7 +29,7 @@
     {
       "county": "Kern",
       "case": 29602,
-      "death": 12421
+      "death": 13034
     },
     {
       "county": "Fresno",
@@ -39,7 +39,7 @@
     {
       "county": "San Joaquin",
       "case": 17778,
-      "death": 16263
+      "death": 16591
     },
     {
       "county": "Alameda",
@@ -54,17 +54,17 @@
     {
       "county": "Sacramento",
       "case": 18413,
-      "death": 14925
+      "death": 15459
     },
     {
       "county": "Tulare",
       "case": 14442,
-      "death": 13505
+      "death": 13740
     },
     {
       "county": "Imperial",
       "case": 10746,
-      "death": 9695
+      "death": 9959
     },
     {
       "county": "Stanislaus",
@@ -74,12 +74,12 @@
     {
       "county": "Contra Costa",
       "case": 14111,
-      "death": 12826
+      "death": 13081
     },
     {
       "county": "Ventura",
       "case": 10806,
-      "death": 9629
+      "death": 9814
     },
     {
       "county": "San Francisco",
@@ -89,7 +89,7 @@
     {
       "county": "Santa Barbara",
       "case": 8229,
-      "death": 7897
+      "death": 7984
     },
     {
       "county": "San Mateo",
@@ -99,27 +99,27 @@
     {
       "county": "Marin",
       "case": 6321,
-      "death": 5765
+      "death": 5795
     },
     {
       "county": "Monterey",
       "case": 8149,
-      "death": 5245
+      "death": 5476
     },
     {
       "county": "Kings",
       "case": 6385,
-      "death": 3882
+      "death": 3987
     },
     {
       "county": "Merced",
       "case": 8122,
-      "death": 7100
+      "death": 7121
     },
     {
       "county": "Solano",
       "case": 5588,
-      "death": 5218
+      "death": 5207
     },
     {
       "county": "Sonoma",
@@ -129,12 +129,12 @@
     {
       "county": "Madera",
       "case": 3876,
-      "death": 3416
+      "death": 3449
     },
     {
       "county": "Placer",
       "case": 3062,
-      "death": 2689
+      "death": 2745
     },
     {
       "county": "San Luis Obispo",
@@ -149,7 +149,7 @@
     {
       "county": "Santa Cruz",
       "case": 1878,
-      "death": 1614
+      "death": 1643
     },
     {
       "county": "Butte",
@@ -249,7 +249,7 @@
     {
       "county": "Del Norte",
       "case": 124,
-      "death": 121
+      "death": 122
     },
     {
       "county": "Siskiyou",
