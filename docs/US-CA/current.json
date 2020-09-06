@@ -1,9 +1,9 @@
 {
-  "timeStamp": 1599319164230,
+  "timeStamp": 1599372711331,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 244004,
+      "case": 246532,
       "death": null
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "county": "Alameda",
-      "case": 18695,
+      "case": 18977,
       "death": null
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "county": "San Francisco",
-      "case": 9617,
+      "case": 9839,
       "death": null
     },
     {
@@ -149,7 +149,7 @@
     {
       "county": "Santa Cruz",
       "case": 1878,
-      "death": 1643
+      "death": 1663
     },
     {
       "county": "Butte",
