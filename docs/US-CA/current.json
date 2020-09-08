@@ -1,35 +1,35 @@
 {
-  "timeStamp": 1599491465618,
+  "timeStamp": 1599545521892,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 246532,
+      "case": 248339,
       "death": null
     },
     {
       "county": "Riverside",
-      "case": 53306,
+      "case": 53987,
       "death": 45990
     },
     {
       "county": "Orange",
-      "case": 49142,
-      "death": 43224
+      "case": 49732,
+      "death": 43597
     },
     {
       "county": "San Bernardino",
-      "case": 48245,
-      "death": 42727
+      "case": 49558,
+      "death": 43581
     },
     {
       "county": "San Diego",
-      "case": 39121,
+      "case": 40650,
       "death": null
     },
     {
       "county": "Kern",
-      "case": 29602,
-      "death": 13304
+      "case": 30080,
+      "death": 13360
     },
     {
       "county": "Fresno",
@@ -43,7 +43,7 @@
     },
     {
       "county": "Alameda",
-      "case": 18977,
+      "case": 19132,
       "death": null
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "county": "Imperial",
-      "case": 10746,
+      "case": 11041,
       "death": 9987
     },
     {
@@ -74,7 +74,7 @@
     {
       "county": "Contra Costa",
       "case": 14111,
-      "death": 13225
+      "death": 13411
     },
     {
       "county": "Ventura",
@@ -99,17 +99,17 @@
     {
       "county": "Marin",
       "case": 6321,
-      "death": 5819
+      "death": 5843
     },
     {
       "county": "Monterey",
-      "case": 8149,
-      "death": 5546
+      "case": 8570,
+      "death": 5597
     },
     {
       "county": "Kings",
-      "case": 6385,
-      "death": 4027
+      "case": 6788,
+      "death": 4266
     },
     {
       "county": "Merced",
@@ -134,7 +134,7 @@
     {
       "county": "Placer",
       "case": 3062,
-      "death": 2745
+      "death": 2782
     },
     {
       "county": "San Luis Obispo",
@@ -149,7 +149,7 @@
     {
       "county": "Santa Cruz",
       "case": 1878,
-      "death": 1663
+      "death": 1706
     },
     {
       "county": "Butte",
@@ -169,7 +169,7 @@
     {
       "county": "San Benito",
       "case": 1123,
-      "death": 1061
+      "death": 1103
     },
     {
       "county": "El Dorado",
@@ -199,7 +199,7 @@
     {
       "county": "Mendocino",
       "case": 716,
-      "death": 641
+      "death": 658
     },
     {
       "county": "Glenn",
@@ -224,7 +224,7 @@
     {
       "county": "Lake",
       "case": 350,
-      "death": 317
+      "death": 336
     },
     {
       "county": "Mono",
