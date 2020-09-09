@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1599577887022,
+  "timeStamp": 1599631930269,
   "data": [
     {
       "county": "Los Angeles",
@@ -8,18 +8,18 @@
     },
     {
       "county": "Riverside",
-      "case": 53987,
-      "death": 45990
+      "case": 54572,
+      "death": 48118
     },
     {
       "county": "Orange",
       "case": 49732,
-      "death": 43597
+      "death": 43898
     },
     {
       "county": "San Bernardino",
       "case": 49558,
-      "death": 43581
+      "death": 43967
     },
     {
       "county": "San Diego",
@@ -39,7 +39,7 @@
     {
       "county": "San Joaquin",
       "case": 17778,
-      "death": 16591
+      "death": 16968
     },
     {
       "county": "Alameda",
@@ -54,17 +54,17 @@
     {
       "county": "Sacramento",
       "case": 18413,
-      "death": 15459
+      "death": 15908
     },
     {
       "county": "Tulare",
       "case": 14442,
-      "death": 13740
+      "death": 13875
     },
     {
       "county": "Imperial",
       "case": 11041,
-      "death": 9987
+      "death": 10052
     },
     {
       "county": "Stanislaus",
@@ -74,7 +74,7 @@
     {
       "county": "Contra Costa",
       "case": 14111,
-      "death": 13411
+      "death": 13544
     },
     {
       "county": "Ventura",
@@ -104,12 +104,12 @@
     {
       "county": "Monterey",
       "case": 8570,
-      "death": 5597
+      "death": 5621
     },
     {
       "county": "Kings",
       "case": 6788,
-      "death": 4266
+      "death": 4271
     },
     {
       "county": "Merced",
@@ -124,7 +124,7 @@
     {
       "county": "Sonoma",
       "case": 6067,
-      "death": 3689
+      "death": 4347
     },
     {
       "county": "Madera",
@@ -134,7 +134,7 @@
     {
       "county": "Placer",
       "case": 3062,
-      "death": 2782
+      "death": 2826
     },
     {
       "county": "San Luis Obispo",
@@ -149,7 +149,7 @@
     {
       "county": "Santa Cruz",
       "case": 1878,
-      "death": 1706
+      "death": 1726
     },
     {
       "county": "Butte",
@@ -164,7 +164,7 @@
     {
       "county": "Sutter",
       "case": 1436,
-      "death": 900
+      "death": 986
     },
     {
       "county": "San Benito",
@@ -174,7 +174,7 @@
     {
       "county": "El Dorado",
       "case": 980,
-      "death": 895
+      "death": 912
     },
     {
       "county": "Lassen",
@@ -184,22 +184,22 @@
     {
       "county": "Yuba",
       "case": 944,
-      "death": 577
+      "death": 622
     },
     {
       "county": "Shasta",
       "case": 575,
-      "death": 551
+      "death": 567
     },
     {
       "county": "Colusa",
       "case": 466,
-      "death": 443
+      "death": 451
     },
     {
       "county": "Mendocino",
       "case": 716,
-      "death": 658
+      "death": 668
     },
     {
       "county": "Glenn",
