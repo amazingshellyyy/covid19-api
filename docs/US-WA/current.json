@@ -1,29 +1,29 @@
 {
-  "timeStamp": 1599631929087,
+  "timeStamp": 1599664255257,
   "data": [
     {
       "county": "Adams",
-      "case": 709,
+      "case": 735,
       "death": 8
     },
     {
       "county": "Asotin",
-      "case": 58,
+      "case": 61,
       "death": 2
     },
     {
       "county": "Benton",
-      "case": 4221,
+      "case": 4233,
       "death": 125
     },
     {
       "county": "Chelan",
-      "case": 1768,
-      "death": 12
+      "case": 1873,
+      "death": 11
     },
     {
       "county": "Clallam",
-      "case": 217,
+      "case": 221,
       "death": 1
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "county": "Douglas",
-      "case": 1164,
-      "death": 8
+      "case": 1215,
+      "death": 7
     },
     {
       "county": "Ferry",
@@ -53,7 +53,7 @@
     },
     {
       "county": "Franklin",
-      "case": 4035,
+      "case": 4041,
       "death": 58
     },
     {
@@ -63,12 +63,12 @@
     },
     {
       "county": "Grant",
-      "case": 2490,
-      "death": 17
+      "case": 2573,
+      "death": 15
     },
     {
       "county": "Grays Harbor",
-      "case": 295,
+      "case": 304,
       "death": 6
     },
     {
@@ -88,8 +88,8 @@
     },
     {
       "county": "Kitsap",
-      "case": 1052,
-      "death": 11
+      "case": 1064,
+      "death": 10
     },
     {
       "county": "Kittitas",
@@ -98,7 +98,7 @@
     },
     {
       "county": "Klickitat",
-      "case": 178,
+      "case": 195,
       "death": 3
     },
     {
@@ -119,7 +119,7 @@
     {
       "county": "Okanogan",
       "case": 1004,
-      "death": 7
+      "death": 9
     },
     {
       "county": "Pacific",
@@ -153,12 +153,12 @@
     },
     {
       "county": "Snohomish",
-      "case": 6378,
+      "case": 6449,
       "death": 207
     },
     {
       "county": "Spokane",
-      "case": 5571,
+      "case": 5652,
       "death": 138
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "county": "Whitman",
-      "case": 840,
+      "case": 844,
       "death": 0
     },
     {
