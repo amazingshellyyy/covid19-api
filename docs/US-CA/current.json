@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1599751050645,
+  "timeStamp": 1599804720629,
   "data": [
     {
       "county": "Los Angeles",
@@ -9,7 +9,7 @@
     {
       "county": "Riverside",
       "case": 54572,
-      "death": 48118
+      "death": 48761
     },
     {
       "county": "Orange",
@@ -19,7 +19,7 @@
     {
       "county": "San Bernardino",
       "case": 49558,
-      "death": 43967
+      "death": 44316
     },
     {
       "county": "San Diego",
@@ -29,12 +29,12 @@
     {
       "county": "Kern",
       "case": 30080,
-      "death": 13360
+      "death": 13693
     },
     {
       "county": "Fresno",
       "case": 25542,
-      "death": 13458
+      "death": 13847
     },
     {
       "county": "San Joaquin",
@@ -54,17 +54,17 @@
     {
       "county": "Sacramento",
       "case": 18413,
-      "death": 15908
+      "death": 16368
     },
     {
       "county": "Tulare",
       "case": 14442,
-      "death": 13875
+      "death": 14140
     },
     {
       "county": "Imperial",
       "case": 11041,
-      "death": 10052
+      "death": 10063
     },
     {
       "county": "Stanislaus",
@@ -74,12 +74,12 @@
     {
       "county": "Contra Costa",
       "case": 14111,
-      "death": 13544
+      "death": 13674
     },
     {
       "county": "Ventura",
       "case": 10806,
-      "death": 9976
+      "death": 10265
     },
     {
       "county": "San Francisco",
@@ -89,7 +89,7 @@
     {
       "county": "Santa Barbara",
       "case": 8229,
-      "death": 8040
+      "death": 8186
     },
     {
       "county": "San Mateo",
@@ -99,27 +99,27 @@
     {
       "county": "Marin",
       "case": 6321,
-      "death": 5843
+      "death": 5938
     },
     {
       "county": "Monterey",
       "case": 8570,
-      "death": 5621
+      "death": 5725
     },
     {
       "county": "Kings",
       "case": 6788,
-      "death": 4271
+      "death": 4448
     },
     {
       "county": "Merced",
       "case": 8122,
-      "death": 7224
+      "death": 7451
     },
     {
       "county": "Solano",
       "case": 5588,
-      "death": 5280
+      "death": 5456
     },
     {
       "county": "Sonoma",
@@ -129,12 +129,12 @@
     {
       "county": "Madera",
       "case": 3876,
-      "death": 3504
+      "death": 3597
     },
     {
       "county": "Placer",
       "case": 3062,
-      "death": 2826
+      "death": 2863
     },
     {
       "county": "San Luis Obispo",
@@ -149,7 +149,7 @@
     {
       "county": "Santa Cruz",
       "case": 1878,
-      "death": 1738
+      "death": 1769
     },
     {
       "county": "Butte",
@@ -159,22 +159,22 @@
     {
       "county": "Napa",
       "case": 1452,
-      "death": 1186
+      "death": 1193
     },
     {
       "county": "Sutter",
       "case": 1436,
-      "death": 986
+      "death": 987
     },
     {
       "county": "San Benito",
       "case": 1123,
-      "death": 1103
+      "death": 1110
     },
     {
       "county": "El Dorado",
       "case": 980,
-      "death": 912
+      "death": 925
     },
     {
       "county": "Lassen",
@@ -184,7 +184,7 @@
     {
       "county": "Yuba",
       "case": 944,
-      "death": 622
+      "death": 629
     },
     {
       "county": "Shasta",
@@ -194,37 +194,37 @@
     {
       "county": "Colusa",
       "case": 466,
-      "death": 451
+      "death": 461
     },
     {
       "county": "Mendocino",
       "case": 716,
-      "death": 668
+      "death": 673
     },
     {
       "county": "Glenn",
       "case": 467,
-      "death": 443
+      "death": 453
     },
     {
       "county": "Nevada",
       "case": 450,
-      "death": 386
+      "death": 392
     },
     {
       "county": "Humboldt",
       "case": 397,
-      "death": 348
+      "death": 372
     },
     {
       "county": "Tehama",
       "case": 424,
-      "death": 403
+      "death": 419
     },
     {
       "county": "Lake",
       "case": 350,
-      "death": 336
+      "death": 348
     },
     {
       "county": "Mono",
@@ -264,7 +264,7 @@
     {
       "county": "Inyo",
       "case": 182,
-      "death": 132
+      "death": 137
     },
     {
       "county": "Plumas",

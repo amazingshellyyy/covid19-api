@@ -1,6 +1,11 @@
 {
-  "timeStamp": 1599751049946,
+  "timeStamp": 1599804721688,
   "data": [
+    {
+      "county": "62 / 62",
+      "case": 385142,
+      "death": 24629
+    },
     {
       "county": "Albany",
       "case": 1986,
@@ -58,7 +63,7 @@
     },
     {
       "county": "Cortland",
-      "case": 106,
+      "case": 115,
       "death": 0
     },
     {
@@ -190,126 +195,6 @@
       "county": "Oswego",
       "case": 233,
       "death": 4
-    },
-    {
-      "county": "Otsego",
-      "case": 82,
-      "death": 4
-    },
-    {
-      "county": "Putnam",
-      "case": 1626,
-      "death": 63
-    },
-    {
-      "county": "Queens",
-      "case": 64176,
-      "death": 5011
-    },
-    {
-      "county": "Rensselaer",
-      "case": 593,
-      "death": 30
-    },
-    {
-      "county": "Richmond",
-      "case": 13893,
-      "death": 740
-    },
-    {
-      "county": "Rockland",
-      "case": 13467,
-      "death": 506
-    },
-    {
-      "county": "Saratoga",
-      "case": 541,
-      "death": 17
-    },
-    {
-      "county": "Schenectady",
-      "case": 786,
-      "death": 35
-    },
-    {
-      "county": "Schoharie",
-      "case": 55,
-      "death": 2
-    },
-    {
-      "county": "Schuyler",
-      "case": 23,
-      "death": 0
-    },
-    {
-      "county": "Seneca",
-      "case": 58,
-      "death": 3
-    },
-    {
-      "county": "St. Lawrence",
-      "case": 215,
-      "death": 3
-    },
-    {
-      "county": "Steuben",
-      "case": 264,
-      "death": 29
-    },
-    {
-      "county": "Suffolk",
-      "case": 40770,
-      "death": 1958
-    },
-    {
-      "county": "Sullivan",
-      "case": 1443,
-      "death": 35
-    },
-    {
-      "county": "Tioga",
-      "case": 140,
-      "death": 19
-    },
-    {
-      "county": "Tompkins",
-      "case": 167,
-      "death": 0
-    },
-    {
-      "county": "Ulster",
-      "case": 1744,
-      "death": 80
-    },
-    {
-      "county": "Warren",
-      "case": 268,
-      "death": 33
-    },
-    {
-      "county": "Washington",
-      "case": 250,
-      "death": 14
-    },
-    {
-      "county": "Wayne",
-      "case": 137,
-      "death": 2
-    },
-    {
-      "county": "Westchester",
-      "case": 34385,
-      "death": 1407
-    },
-    {
-      "county": "Wyoming",
-      "case": 95,
-      "death": 5
-    },
-    {
-      "county": "Yates",
-      "case": 54,
-      "death": 7
     }
   ]
 }
