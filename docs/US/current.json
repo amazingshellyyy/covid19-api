@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1599825829290,
+  "timeStamp": 1599912167948,
   "data": [
     {
       "state": "Alabama",
@@ -38,18 +38,18 @@
     },
     {
       "state": "Connecticut",
-      "case": 53782,
-      "death": 4474
+      "case": 54093,
+      "death": 4478
     },
     {
       "state": "Delaware",
-      "case": 18308,
-      "death": 609
+      "case": 18466,
+      "death": 613
     },
     {
       "state": "District of Columbia",
-      "case": 14362,
-      "death": 611
+      "case": 14412,
+      "death": 616
     },
     {
       "state": "Florida",
@@ -73,8 +73,8 @@
     },
     {
       "state": "Idaho",
-      "case": 33667,
-      "death": 385
+      "case": 34617,
+      "death": 407
     },
     {
       "state": "Illinois",
@@ -108,7 +108,7 @@
     },
     {
       "state": "Maine",
-      "case": 4713,
+      "case": 4760,
       "death": 134
     },
     {
@@ -123,13 +123,13 @@
     },
     {
       "state": "Michigan",
-      "case": 118403,
-      "death": 6810
+      "case": 120846,
+      "death": 6894
     },
     {
       "state": "Minnesota",
-      "case": 81608,
-      "death": 1914
+      "case": 82249,
+      "death": 1936
     },
     {
       "state": "Mississippi",
@@ -163,13 +163,13 @@
     },
     {
       "state": "New Jersey",
-      "case": 194990,
-      "death": 14220
+      "case": 195414,
+      "death": 15953
     },
     {
       "state": "New Mexico",
-      "case": 26107,
-      "death": 803
+      "case": 26429,
+      "death": 816
     },
     {
       "state": "New York",
@@ -178,13 +178,13 @@
     },
     {
       "state": "North Carolina",
-      "case": 170553,
-      "death": 2779
+      "case": 180754,
+      "death": 2990
     },
     {
       "state": "North Dakota",
-      "case": 14443,
-      "death": 160
+      "case": 14684,
+      "death": 164
     },
     {
       "state": "Northern Mariana Islands",
@@ -218,8 +218,8 @@
     },
     {
       "state": "Rhode Island",
-      "case": 22243,
-      "death": 1055
+      "case": 22905,
+      "death": 1071
     },
     {
       "state": "South Carolina",
@@ -233,8 +233,8 @@
     },
     {
       "state": "Tennessee",
-      "case": 166587,
-      "death": 1931
+      "case": 168237,
+      "death": 1988
     },
     {
       "state": "Texas",
