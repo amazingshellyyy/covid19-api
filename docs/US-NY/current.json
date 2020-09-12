@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1599837053828,
+  "timeStamp": 1599891120349,
   "data": [
     {
       "county": "62 / 62",
@@ -63,7 +63,7 @@
     },
     {
       "county": "Cortland",
-      "case": 115,
+      "case": 129,
       "death": 0
     },
     {
@@ -185,16 +185,6 @@
       "county": "Orange",
       "case": 10599,
       "death": 394
-    },
-    {
-      "county": "Orleans",
-      "case": 280,
-      "death": 53
-    },
-    {
-      "county": "Oswego",
-      "case": 233,
-      "death": 4
     }
   ]
 }
