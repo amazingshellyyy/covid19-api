@@ -1,34 +1,34 @@
 {
-  "timeStamp": 1599923417462,
+  "timeStamp": 1599977519872,
   "data": [
     {
       "county": "Adams",
-      "case": 729,
+      "case": 735,
       "death": 9
     },
     {
       "county": "Asotin",
-      "case": 60,
+      "case": 62,
       "death": 2
     },
     {
       "county": "Benton",
-      "case": 4280,
-      "death": 127
+      "case": 4315,
+      "death": 126
     },
     {
       "county": "Chelan",
-      "case": 1773,
+      "case": 1779,
       "death": 13
     },
     {
       "county": "Clallam",
-      "case": 218,
+      "case": 215,
       "death": 1
     },
     {
       "county": "Clark",
-      "case": 2372,
+      "case": 2420,
       "death": 59
     },
     {
@@ -38,13 +38,13 @@
     },
     {
       "county": "Cowlitz",
-      "case": 571,
+      "case": 575,
       "death": 6
     },
     {
       "county": "Douglas",
       "case": 1167,
-      "death": 8
+      "death": 9
     },
     {
       "county": "Ferry",
@@ -53,67 +53,67 @@
     },
     {
       "county": "Franklin",
-      "case": 4073,
+      "case": 4101,
       "death": 59
     },
     {
       "county": "Garfield",
-      "case": 8,
+      "case": 9,
       "death": 0
     },
     {
       "county": "Grant",
-      "case": 2527,
+      "case": 2581,
       "death": 17
     },
     {
       "county": "Grays Harbor",
-      "case": 321,
+      "case": 348,
       "death": 6
     },
     {
       "county": "Island",
-      "case": 274,
+      "case": 278,
       "death": 11
     },
     {
       "county": "Jefferson",
-      "case": 70,
+      "case": 71,
       "death": 0
     },
     {
       "county": "King",
-      "case": 20519,
+      "case": 20774,
       "death": 744
     },
     {
       "county": "Kitsap",
-      "case": 1076,
+      "case": 1099,
       "death": 11
     },
     {
       "county": "Kittitas",
-      "case": 453,
-      "death": 21
+      "case": 488,
+      "death": 22
     },
     {
       "county": "Klickitat",
-      "case": 183,
+      "case": 187,
       "death": 3
     },
     {
       "county": "Lewis",
-      "case": 415,
+      "case": 427,
       "death": 4
     },
     {
       "county": "Lincoln",
-      "case": 35,
+      "case": 37,
       "death": 1
     },
     {
       "county": "Mason",
-      "case": 347,
+      "case": 352,
       "death": 3
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "county": "Pacific",
-      "case": 74,
+      "case": 76,
       "death": 3
     },
     {
@@ -133,8 +133,8 @@
     },
     {
       "county": "Pierce",
-      "case": 7189,
-      "death": 181
+      "case": 7262,
+      "death": 185
     },
     {
       "county": "San Juan",
@@ -143,8 +143,8 @@
     },
     {
       "county": "Skagit",
-      "case": 1054,
-      "death": 23
+      "case": 1060,
+      "death": 22
     },
     {
       "county": "Skamania",
@@ -153,22 +153,22 @@
     },
     {
       "county": "Snohomish",
-      "case": 6440,
+      "case": 6499,
       "death": 205
     },
     {
       "county": "Spokane",
-      "case": 5658,
-      "death": 142
+      "case": 5784,
+      "death": 143
     },
     {
       "county": "Stevens",
-      "case": 130,
+      "case": 133,
       "death": 2
     },
     {
       "county": "Thurston",
-      "case": 977,
+      "case": 993,
       "death": 15
     },
     {
@@ -178,27 +178,27 @@
     },
     {
       "county": "Walla Walla",
-      "case": 810,
+      "case": 822,
       "death": 5
     },
     {
       "county": "Whatcom",
-      "case": 1167,
+      "case": 1192,
       "death": 39
     },
     {
       "county": "Whitman",
-      "case": 887,
+      "case": 1008,
       "death": 0
     },
     {
       "county": "Yakima",
-      "case": 11112,
-      "death": 250
+      "case": 11141,
+      "death": 251
     },
     {
       "county": "Unassigned",
-      "case": 300,
+      "case": 289,
       "death": 4
     }
   ]
