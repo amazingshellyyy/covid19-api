@@ -1,29 +1,29 @@
 {
-  "timeStamp": 1600096252588,
+  "timeStamp": 1600150328536,
   "data": [
     {
       "county": "Los Angeles",
-      "case": 251075,
+      "case": 253985,
       "death": null
     },
     {
       "county": "Riverside",
-      "case": 54868,
+      "case": 55073,
       "death": 49613
     },
     {
       "county": "Orange",
-      "case": 50471,
-      "death": 45126
+      "case": 50930,
+      "death": 45197
     },
     {
       "county": "San Bernardino",
-      "case": 50210,
-      "death": 45313
+      "case": 50699,
+      "death": 45508
     },
     {
       "county": "San Diego",
-      "case": 40650,
+      "case": 42679,
       "death": null
     },
     {
@@ -64,7 +64,7 @@
     {
       "county": "Imperial",
       "case": 11041,
-      "death": 10430
+      "death": 10508
     },
     {
       "county": "Stanislaus",
