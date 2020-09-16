@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Covid19 Open API (keep updating)</h2>
+  <h2>Covid19 Open API (Stop updating on Sep 16th)</h2>
 </div>
 
 ### Covid19 Open API
