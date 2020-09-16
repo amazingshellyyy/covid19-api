@@ -4,10 +4,10 @@
 name: get covid county data
 
 on:
-  # push:
-  #   branches: [ master ]
-  schedule: 
-    - cron: '0 6,15 * * *'
+  push:
+    branches: [ master ]
+  # schedule: 
+  #   - cron: '0 6,15 * * *'
 
 jobs:
   build:
